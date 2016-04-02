@@ -1,21 +1,26 @@
 # Site navigation links
 
+- title: Blog
+  url: /blog.html
+  excerpt: All Articles
+  image: fishingbg.jpg
+
 - title: Fishing
-  url: #
+  url: /fishing.html
   excerpt: Fishing
   image: fishingbg.jpg
 
 - title: Hunting
-  url: #
+  url: /hunting.html
   excerpt: Hunting
   image: huntingbg.jpg
 
 - title: Reviews
-  url: #
+  url: /reviews.html
   excerpt: Reviews
   image: reviewbg.jpg
 
 - title: About
-  url: #
+  url: /about.html
   excerpt: Learn More
   image: Blogbg.jpg
