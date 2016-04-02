@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Fishing
+  url: #
+  excerpt: Fishing
+  image: fishingbg.jpg
+
+- title: Hunting
+  url: #
+  excerpt: Hunting
+  image: huntingbg.jpg
+
+- title: Reviews
+  url: #
+  excerpt: Reviews
+  image: reviewbg.jpg
+
+- title: About
+  url: #
+  excerpt: Learn More
+  image: Blogbg.jpg
