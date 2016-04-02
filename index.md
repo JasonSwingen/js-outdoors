@@ -19,12 +19,12 @@ image:
 &nbsp;
 
 <div class="main">
-<div class="wrap">
-<h1 id="posts">Latest Posts</h1>
-<div class="tiles">
-{% for post in site.posts %}
-    {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
-</div>
+  <div class="wrap">
+    <h1 id="posts">Latest Posts</h1>
+    <div class="tiles">
+    {% for post in site.posts %}
+        {% include post-grid.html %}
+    {% endfor %}
+    </div><!-- /.tiles -->
+  </div>
 </div>

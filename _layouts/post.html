@@ -26,7 +26,19 @@ layout: default
 					{% include page-meta.html %}
 				</footer><!-- /.footer -->
 				<aside>
-					{% if page.comments == true %}{% include comments.html %}{% endif %}
+
+					{% if page.comments == true %}
+						<h3>Leave a Comment</h3>
+						{% include comments.html %}
+					{% endif %}
+
+					<h3>Related Posts</h3>
+						<div class="tiles">
+						{% for post in site.related_posts limit:4 %}
+								{% include post-grid.html %}
+		        {% endfor %}
+						</div><!-- /.tiles -->
+
 				</aside>
 			</div><!-- /.content -->
 		</div><!-- /.inner-wrap -->
