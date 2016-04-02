@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: reviews.html
-title: "Latest Posts"
+title: "Latest Reviews"
 image:
 ---
 

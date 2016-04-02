@@ -2,7 +2,7 @@
 
 title: JS-Outdoors
 description: Hunting and Fishing Stories and Reviews from the Midwest
-logo: bio-photo.jpg
+logo: JS_OUTDOORS_logo.jpg
 # teaser: 400x250 px
 locale: en
 url:
@@ -37,13 +37,13 @@ titlecase: true
 
 # Site owner
 owner:
-  name:
-  email:
+  name: Jason Swingen
+  email: jason.swingen@gmail.com
   twitter: jasonswingen
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: Jason is a Front-end Web Developer and Internet Marketer with a passion for all things outdoors
   avatar: bio-photo.jpg
   disqus-shortname: jasonswingen
 

@@ -3,7 +3,7 @@
 - title: Blog
   url: /blog.html
   excerpt: All Articles
-  image: fishingbg.jpg
+  image: Blogbg.jpg
 
 - title: Fishing
   url: /fishing.html
@@ -20,7 +20,7 @@
   excerpt: Reviews
   image: reviewbg.jpg
 
-- title: About
-  url: /about.html
-  excerpt: Learn More
-  image: Blogbg.jpg
+# - title: About
+#   url: /about.html
+#   excerpt: Learn More
+#   image: gallery_5.jpg

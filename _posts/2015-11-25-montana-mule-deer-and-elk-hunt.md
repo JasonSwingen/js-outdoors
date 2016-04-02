@@ -4,6 +4,7 @@ title: MT Mule Deer and Elk Hunt
 categories: [hunting]
 tags: [mule deer, montana, hunting]
 published: True
+comments: True
 image:
     teaser: 2015_MT_Hunt_7.jpg
     feature: 2015_MT_Hunt_7.jpg
