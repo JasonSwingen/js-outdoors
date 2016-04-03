@@ -13,4 +13,4 @@ Another winter and another fishing trip to North Dakota. Earlier in the year I w
 
 My first trip out I pulled my gear out on the ice looking for a good spot. I veered away from the larger groups to find my own spot. I drilled my first hole to check the depth and as soon as I put the transducer in the water I saw a mark a foot off the bottom. I quickly grabbed my ice rod and minnows. I tipped a VMC Tingler spoon with a minnow head and dropped it down the hole. As soon as I got close to the mark, it came up and hammered my lure. This was the first time using my Black Betty inline reel by 13 Fishing and when frantically dropping my lure down, the line had gotten came off the reel and got tangled. I threw the rod to the side and started to pull the fish in by hand. I was shocked as I got it up to the hole. It was a North Dakota Jumbo! I had never caught or even seen a perch this big. I just barely got it through the 6 inch hole and up on the ice.
 
-<img src="/images/Jumbo_Perch_1.jpg" class="centered" alt="14.25 Inch Yellow Perch" >
+![14.5 Inch Yellow Perch](/images/Jumbo_Perch_1.jpg)
