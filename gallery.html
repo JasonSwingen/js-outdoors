@@ -1,0 +1,14 @@
+---
+layout: archive
+permalink: gallery.html
+title: "Gallery"
+image:
+---
+
+<ul class="th-grid">
+	{% for gallery in site.data.gallery %}
+	    {% for image in gallery.images %}
+      <li><a href="{{ gallery.imagefolder }}/{{ image.name }}"><img src="{{ gallery.imagefolder }}/{{ image.name }}" title="{{ image.text }}"></a></li>
+	    {% endfor %}
+	{% endfor %}
+</ul>

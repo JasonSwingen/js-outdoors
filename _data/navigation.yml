@@ -20,7 +20,7 @@
   excerpt: Reviews
   image: reviewbg.jpg
 
-# - title: About
-#   url: /about.html
-#   excerpt: Learn More
-#   image: gallery_5.jpg
+- title: Gallery
+  url: /gallery.html
+  excerpt: View Pictures
+  image: wader-crappies.jpg
