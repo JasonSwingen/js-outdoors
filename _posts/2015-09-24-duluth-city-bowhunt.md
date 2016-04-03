@@ -48,40 +48,29 @@ As a new hunter I was unable to get my first or second choices in DHA. I was abl
 
 Things are looking good. I put out my trail camera during the middle of the day and that night captured pictures of a doe.
 
-![Whitetail Doe on Trail Camera](/images/2015-08-14_Doe_1.2.JPG)
-
-![Whitetail Doe on Trail Camera](/images/2015-08-14_Doe_1.3.JPG)
-
-![Whitetail Doe on Trail Camera](/images/2015-08-14_Doe_1.4.JPG)
-
-![Whitetail Doe on Trail Camera](/images/2015-08-14_Doe_1.5.JPG)
-
-![Whitetail Doe on Trail Camera](/images/2015-08-14_Doe_1.1.JPG)
+<figure class="half">
+  <img title="Whitetail Doe on Trail Camera" src="/images/2015-08-14_Doe_1.3.JPG">
+  <img title="Whitetail Doe on Trail Camera" src="/images/2015-08-14_Doe_1.1.JPG">
+  <figcaption>Whitetail Doe on Trail Camera</figcaption>
+</figure>
 
 ### August 21st 2015 - Trail Camera Trip
 
 The area has a few possible trails though it so I moved my camera to show a different angle.
 
-![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_1.JPG)
+<figure class="third">
+  <img title="Whitetail Doe on Trail Camera" src="/images/2015-08-21_Doe_1.JPG">
+  <img title="Whitetail Doe on Trail Camera" src="/images/2015-08-21_Doe_2.JPG">
+  <img title="Whitetail Doe on Trail Camera" src="/images/2015-08-21_Doe_3.JPG">
+  <figcaption>Whitetail Doe on Trail Camera</figcaption>
+</figure>
 
-![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_2.JPG)
-
-![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_3.JPG)
-
-![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_4.JPG)
-
-![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_5.JPG)
-
-![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_16.JPG)
-
-![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_17.JPG)
-
-![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_18.JPG)
-
-![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_19.JPG)
-
-![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_20.JPG)
-
+<figure class="third">
+  <img title="Whitetail Doe on Trail Camera" src="/images/2015-08-21_Doe_16.JPG">
+  <img title="Whitetail Doe on Trail Camera" src="/images/2015-08-21_Doe_19.JPG">
+  <img title="Whitetail Doe on Trail Camera" src="/images/2015-08-21_Doe_20.JPG">
+  <figcaption>Whitetail Doe on Trail Camera</figcaption>
+</figure>
 
 ### September 22nd 2015 - First Day in the Stand
 
@@ -115,13 +104,12 @@ I'm not done yet, I just need to figure out how to get back into the field.
 
 ### November Bucks
 
-![Whitetail Buck on Trail Camera](/images/STC_0039.JPG)
-
-![Whitetail Buck on Trail Camera](/images/STC_0040.JPG)
-
-![Whitetail Buck on Trail Camera](/images/STC_0041.JPG)
-
-![Whitetail Buck on Trail Camera](/images/STC_0049.JPG)
+<figure class="third">
+  <img title="Whitetail Doe on Trail Camera" src="/images/STC_0039.JPG">
+  <img title="Whitetail Doe on Trail Camera" src="/images/STC_0041.JPG">
+  <img title="Whitetail Doe on Trail Camera" src="/images/STC_0049.JPG">
+  <figcaption>Whitetail Buck on Trail Camera</figcaption>
+</figure>
 
 ![Whitetail Buck on Trail Camera](/images/STC_0043.JPG)
 

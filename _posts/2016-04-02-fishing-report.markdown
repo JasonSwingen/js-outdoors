@@ -2,7 +2,7 @@
 layout: post
 title: North Shore Fishing Report
 published: True
-categories: [fishing]
+categories: [report]
 tags: [fishing, report, steelhead, coho, lake trout, bass, pike, walleye, perch, crappie]
 comments: True
 image:

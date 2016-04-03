@@ -16,10 +16,12 @@ I have a LH Concept C in an 8.1.1 gear ratio, but this is a general review on th
 
 > Enjoy life outside and in, respect your fellow man and woman, always honor our precious fishing environment and its resources. Make your own luck.
 
-![13 Fishing Concept C](/images/Concept-C-1.jpg)
-![13 Fishing Concept C](/images/Concept-C-2.jpg)
-![13 Fishing Concept C](/images/Concept-C-3.jpg)
-![13 Fishing Concept C](/images/Concept-C-4.jpg)
+<figure class="third">
+  <img title="13 Fishing Concept C" src="/images/Concept-C-1.jpg">
+  <img title="13 Fishing Concept C" src="/images/Concept-C-2.jpg">
+  <img title="13 Fishing Concept C" src="/images/Concept-C-3.jpg">
+  <figcaption>13 Fishing Concept C</figcaption>
+</figure>
 
 ## MSRP
 $230
