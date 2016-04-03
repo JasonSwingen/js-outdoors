@@ -62,25 +62,25 @@ Things are looking good. I put out my trail camera during the middle of the day 
 
 The area has a few possible trails though it so I moved my camera to show a different angle.
 
-![Whitetail Doe on Trail Camera](images/2015-08-21_Doe_1.JPG)
+![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_1.JPG)
 
-![Whitetail Doe on Trail Camera](images/2015-08-21_Doe_2.JPG)
+![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_2.JPG)
 
-![Whitetail Doe on Trail Camera](images/2015-08-21_Doe_3.JPG)
+![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_3.JPG)
 
-![Whitetail Doe on Trail Camera](images/2015-08-21_Doe_4.JPG)
+![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_4.JPG)
 
-![Whitetail Doe on Trail Camera](images/2015-08-21_Doe_5.JPG)
+![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_5.JPG)
 
-![Whitetail Doe on Trail Camera](images/2015-08-21_Doe_16.JPG)
+![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_16.JPG)
 
-![Whitetail Doe on Trail Camera](images/2015-08-21_Doe_17.JPG)
+![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_17.JPG)
 
-![Whitetail Doe on Trail Camera](images/2015-08-21_Doe_18.JPG)
+![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_18.JPG)
 
-![Whitetail Doe on Trail Camera](images/2015-08-21_Doe_19.JPG)
+![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_19.JPG)
 
-![Whitetail Doe on Trail Camera](images/2015-08-21_Doe_20.JPG)
+![Whitetail Doe on Trail Camera](/images/2015-08-21_Doe_20.JPG)
 
 
 ### September 22nd 2015 - First Day in the Stand
@@ -90,6 +90,8 @@ The area has a few possible trails though it so I moved my camera to show a diff
 I made a trip earlier in the week to get my stand set up and shooting lanes cut. That way I knew I would be ready to go on my first hunt.
 
 I set my alarm for 4 a.m. but my excitement had me up by quarter to. I got out to to my spot and was up in my stand an hour and a half before sunrise. I had just strapped my climber to the tree and heard some rustling behind me. I still had my headlamp on, but quickly shut it off and held still. It was so dark I was unable to see what it was. It sounded like a deer and it walked directly under my stand. That was the only action I got that morning. I left my stand and mid morning so I would be ready for a full evening hunt. Unfortunately, nothing came by in the evening either.
+
+<iframe src="https://www.youtube.com/embed/sLbd7ggzmpc" frameborder="0" allowfullscreen></iframe>
 
 ### October 4th 2015 - First Deer Sighting
 
@@ -113,15 +115,15 @@ I'm not done yet, I just need to figure out how to get back into the field.
 
 ### November Bucks
 
-![Whitetail Buck on Trail Camera](images/STC_0039.JPG)
+![Whitetail Buck on Trail Camera](/images/STC_0039.JPG)
 
-![Whitetail Buck on Trail Camera](images/STC_0040.JPG)
+![Whitetail Buck on Trail Camera](/images/STC_0040.JPG)
 
-![Whitetail Buck on Trail Camera](images/STC_0041.JPG)
+![Whitetail Buck on Trail Camera](/images/STC_0041.JPG)
 
-![Whitetail Buck on Trail Camera](images/STC_0049.JPG)
+![Whitetail Buck on Trail Camera](/images/STC_0049.JPG)
 
-![Whitetail Buck on Trail Camera](images/STC_0043.JPG)
+![Whitetail Buck on Trail Camera](/images/STC_0043.JPG)
 
 ### No Deer
 
