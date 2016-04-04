@@ -3,7 +3,7 @@
 title: JS-Outdoors
 description: Hunting and Fishing Stories and Reviews from the Midwest
 logo: JS_OUTDOORS_logo.jpg
-# teaser: 400x250 px
+teaser: teaser.jpg
 locale: en
 url:
 
@@ -43,7 +43,7 @@ owner:
   google:
     ad-client:
     ad-slot:
-  bio: Jason is a Front-end Web Developer and Internet Marketer with a passion for all things outdoors
+  bio: Jason is a Front-End Web Developer and Internet Marketer with a passion for all things outdoors. Follow Jason on <a href="https://www.instagram.com/jasonswingen/">Instagram</a>, <a href="https://twitter.com/jasonswingen">Twitter</a>, and <a href="https://plus.google.com/+JasonSwingen">Google+</a> to stay updated on new content.
   avatar: bio-photo.jpg
   disqus-shortname: jasonswingen
 

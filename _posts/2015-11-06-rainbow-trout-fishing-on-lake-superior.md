@@ -17,7 +17,6 @@ We were planning on heading up the north shore and fishing the mouth of the rive
   <img title="Lake Superior Rainbow Trout" src="/images/Superior_Rainbow_Trout6.jpg">
   <img title="Lake Superior Rainbow Trout" src="/images/Superior_Rainbow_Trout1.jpg">
   <img title="Lake Superior Rainbow Trout" src="/images/Superior_Rainbow_Trout13.jpg">
-  <figcaption>Lake Superior Rainbow Trout</figcaption>
 </figure>
 
 ![Lake Superior Rainbow Trout](/images/Superior_Rainbow_Trout10.jpg)

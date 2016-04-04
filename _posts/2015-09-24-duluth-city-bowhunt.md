@@ -51,7 +51,6 @@ Things are looking good. I put out my trail camera during the middle of the day 
 <figure class="half">
   <img title="Whitetail Doe on Trail Camera" src="/images/2015-08-14_Doe_1.3.JPG">
   <img title="Whitetail Doe on Trail Camera" src="/images/2015-08-14_Doe_1.1.JPG">
-  <figcaption>Whitetail Doe on Trail Camera</figcaption>
 </figure>
 
 ### August 21st 2015 - Trail Camera Trip
@@ -62,7 +61,6 @@ The area has a few possible trails though it so I moved my camera to show a diff
   <img title="Whitetail Doe on Trail Camera" src="/images/2015-08-21_Doe_1.JPG">
   <img title="Whitetail Doe on Trail Camera" src="/images/2015-08-21_Doe_2.JPG">
   <img title="Whitetail Doe on Trail Camera" src="/images/2015-08-21_Doe_3.JPG">
-  <figcaption>Whitetail Doe on Trail Camera</figcaption>
 </figure>
 
 <figure class="third">
@@ -108,7 +106,6 @@ I'm not done yet, I just need to figure out how to get back into the field.
   <img title="Whitetail Doe on Trail Camera" src="/images/STC_0039.JPG">
   <img title="Whitetail Doe on Trail Camera" src="/images/STC_0041.JPG">
   <img title="Whitetail Doe on Trail Camera" src="/images/STC_0049.JPG">
-  <figcaption>Whitetail Buck on Trail Camera</figcaption>
 </figure>
 
 ![Whitetail Buck on Trail Camera](/images/STC_0043.JPG)
