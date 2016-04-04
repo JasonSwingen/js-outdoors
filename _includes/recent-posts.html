@@ -1,0 +1,12 @@
+<h3>Recent Posts</h3>
+  <div class="tiles">
+    {% for post in site.posts limit:4 %}
+      <div class="tile">
+        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
+          {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}</a>
+          <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+        </div>
+    {% endfor %}
+  </div><!-- /.tiles -->
+
+&nbsp;

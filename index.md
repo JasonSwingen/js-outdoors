@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: /
-title: "Latest Posts"
 image:
 ---
 
@@ -13,7 +12,7 @@ image:
         &nbsp;
         <span> or </span>
         &nbsp;
-        <a href="/fishing/fishing-report" class="btn-inverse">Fishing Reports</a>
+        <a href="/report/fishing-report" class="btn-inverse">Fishing Reports</a>
     </div>
 </div>
 &nbsp;

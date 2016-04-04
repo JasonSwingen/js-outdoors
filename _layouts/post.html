@@ -32,12 +32,9 @@ layout: default
 						{% include comments.html %}
 					{% endif %}
 
-					<h3>Related Posts</h3>
-						<div class="tiles">
-						{% for post in site.related_posts limit:8 %}
-								{% include post-grid.html %}
-		        {% endfor %}
-						</div><!-- /.tiles -->
+					{% include recent-posts.html %}
+
+					<!-- {% include related-posts.html %} -->
 
 					</aside>
 
