@@ -27,8 +27,8 @@
   top: $gutter;
   right: $gutter;
   display: block;
-  width: $button-size * 2;
-  height: $button-size * 2;
+  width: $button-size * 1.5;
+  height: $button-size * 1.5;
   background: $primary-color;
   outline: 0;
   padding: 0;
@@ -96,7 +96,7 @@
       display: block;
       @include font-size(32,no,1);
       @include media($small) {
-        @include font-size(48,no,1);
+        @include font-size(40,no,1);
       }
       font-family: $base-font;
       text-transform: uppercase;
@@ -117,7 +117,7 @@
     display: block;
     position: relative;
     padding-bottom: 1em;
-    min-height: 70px;
+    min-height: 50px;
     @include media($small) {
       min-height: 100px;
     }
@@ -171,6 +171,17 @@
   }
   .menu-item .home a {
     @include font-size(32);
+  }
+}
+
+.social-share {
+  width: 100%;
+  position: fixed;
+  .social-share-btn {
+    display: inline-block;
+    fill: white !important;
+    margin: 10px 10px;
+    width:17%;
   }
 }
 

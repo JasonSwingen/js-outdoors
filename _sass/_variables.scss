@@ -29,17 +29,18 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: #343434;
-$comp-color                  	: complement($base-color);
-$border-color                	: #ddd;
-$link-color                  	: #222;
-
 $primary-color               	: $black;
+$accent-color                 : #FF9512;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
 $info-color                  	: #3498db;
 $main-color                   : orange;
+
+$base-color                  	: #343434;
+$comp-color                  	: complement($base-color);
+$border-color                	: #ddd;
+$link-color                  	: $accent-color;
 
 $table-border-color          	: $border-color;
 $table-border                	: 1px solid $table-border-color;

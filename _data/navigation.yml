@@ -2,25 +2,25 @@
 
 - title: Blog
   url: /blog.html
-  excerpt: All Articles
+  excerpt:
   image: Blogbg.jpg
 
 - title: Fishing
   url: /fishing.html
-  excerpt: Fishing
-  image: fishingbg.jpg
+  excerpt:
+  image: Fishingbg.jpg
 
 - title: Hunting
   url: /hunting.html
-  excerpt: Hunting
-  image: huntingbg.jpg
+  excerpt:
+  image: Huntingbg.jpg
 
 - title: Reviews
   url: /reviews.html
-  excerpt: Reviews
-  image: reviewbg.jpg
+  excerpt:
+  image: Reviewbg.jpg
 
 - title: Gallery
   url: /gallery.html
-  excerpt: View Pictures
-  image: wader-crappies.jpg
+  excerpt:
+  image: Wader-Crappies.jpg

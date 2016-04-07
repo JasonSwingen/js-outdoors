@@ -26,17 +26,15 @@ layout: default
 					{% include page-meta.html %}
 				</footer><!-- /.footer -->
 				<aside>
-
-					{% if page.comments == true %}
-						<h3>Leave a Comment</h3>
-						{% include comments.html %}
-					{% endif %}
-
-					{% include recent-posts.html %}
-
-					<!-- {% include related-posts.html %} -->
-
-					</aside>
+				{% if page.comments == true %}
+					<h3>Leave a Comment</h3>
+					{% include comments.html %}
+				{% endif %}
+				{% include recent-posts.html %}
+				<h3>Subscribe</h3>
+				{% include subscribe.html %}
+				<!-- {% include related-posts.html %} -->
+				</aside>
 
 			</div><!-- /.content -->
 

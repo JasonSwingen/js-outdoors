@@ -32,6 +32,24 @@
    Inverse button .btn-inverse
    ========================================================================== */
 
+.btn-accent {
+	@extend .btn;
+	background-color: $white;
+	color: $accent-color;
+	&:visited,
+	&:active {
+		color: $text-color;
+	}
+	&:hover {
+		color: $accent-color;
+		background-color: $white;
+	}
+}
+
+/*
+   Inverse button .btn-inverse
+   ========================================================================== */
+
 .btn-inverse {
 	@extend .btn;
 	background-color: $white;

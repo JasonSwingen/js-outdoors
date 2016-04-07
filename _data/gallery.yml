@@ -1,5 +1,5 @@
 - id: Gallery
-  imagefolder: /images/
+  imagefolder: /images
   images:
   - name: Jumbo_Perch_1.jpg
     text: North Dakota 14 inch Perch

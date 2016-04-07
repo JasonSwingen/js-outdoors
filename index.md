@@ -6,13 +6,12 @@ image:
 
 <div class="page-lead" style="background-image:url(/images/2015_MT_Hunt_11.jpg)">
     <div class="wrap page-lead-content">
-        <h1>JS-Outdoors</h1>
-        <h2>My name is Jason Swingen and I am a Multi-species angler, big-game hunter, and avid outdoorsman living in Minnesota. Check out my recent fishing and hunting adventures below!</h2>
-        <a href="#posts" class="btn-inverse">Latest Posts</a>
+        <h1>JS-OUTDOORS</h1>
+        <h2>My name is Jason Swingen and I am a Multi-species angler, big-game hunter, and avid outdoorsman living in Minnesota. Sign up to stay informed of new fishing and hunting information, as well as stories, reports, and reviews!</h2>
+        <!-- <a href="/report/fishing-report" class="btn">Fishing Reports</a>
         &nbsp;
-        <span> or </span>
-        &nbsp;
-        <a href="/report/fishing-report" class="btn-inverse">Fishing Reports</a>
+        <a href="/blog.html" class="btn-accent">Latest Posts</a> -->
+          {% include subscribe.html %}
     </div>
 </div>
 &nbsp;
