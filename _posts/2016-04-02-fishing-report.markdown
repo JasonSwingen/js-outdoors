@@ -2,17 +2,17 @@
 layout: post
 title: North Shore Fishing Report
 published: True
-categories: [report]
-tags: [fishing, report, steelhead, coho, lake trout, bass, pike, walleye, perch, crappie]
+categories: [reports]
+tags: [fishing, reports, report, steelhead, coho, lake trout, bass, pike, walleye, perch, crappie]
 comments: True
 image:
     teaser: LakeSuperiorCohoSalmon.jpg
-    feature: LakeSuperiorCohoSalmon.jpg
+    feature:
 ---
 
 2016-04-05
 
-Two loopers were landed early in the morning, with the action slowing down mid-morning.
+Two loopers were landed early in the morning at the French, with the action slowing down mid-morning.
 
 2016-04-04
 

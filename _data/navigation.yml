@@ -20,6 +20,16 @@
   excerpt:
   image: Reviewbg.jpg
 
+- title: Reports
+  url: /reports/fishing-report/
+  excerpt:
+  image: LakeSuperiorCohoSalmon.jpg
+
+- title: Fly Tying
+  url: /fishing/flytying/
+  excerpt:
+  image: fly-tying.jpg
+
 - title: Gallery
   url: /gallery.html
   excerpt:
