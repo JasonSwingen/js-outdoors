@@ -10,6 +10,15 @@ image:
     feature:
 ---
 
+2016-04-15
+
+Word got out that fish were being stocked at Mcquade. Over 30 fisherman looking for some easy pickings. Only a few fish were hungry, mostly biting right at the boat launch.
+
+2016-04-14
+
+The DNR were seining kamloops and steelhead at the French River this morning. They estimated that they had around 500 to 700 trout that they would tag, collect eggs, and release at Mcquade Harbor.
+It was a windy day for fishing at the French with few fisherman and fewer fish caught.
+
 2016-04-05
 
 Two loopers were landed early in the morning at the French, with the action slowing down mid-morning.
