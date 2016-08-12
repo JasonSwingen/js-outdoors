@@ -28,7 +28,7 @@ A few soft purrs later and I was getting the gobbler in the woods fired up. Ever
 
 Then, out of nowhere I hear what sounds like wings flapping. I look forward and there are two jakes flying directly over my decoy and heading straight for the tom that is on his in. They fly right over the tom, one landing on the edge of the woods and the other landing in a tree directly behind the tom. I give a few light purrs to try and gain his attention back, but it's too late. The big tom looses his focus, slowly he turned around and made his way back into the woods where he had come from and the two jakes had landed. I couldn't believe it. My sure thing was slowly getting away from me.
 
-![Hunters Heaven](/images/Hunters_Heaven.jpg)
+![Hunters Heaven](/images/Hunters_Heaven.JPG)
 The blue dot is where I was set up and the green dot was where I placed my decoy. I wanted it out far enough so that if a turkey came out into either end of the field it would be able to see my decoy. They red line shows where the turkey had come out of the woods only to get turned around by two jakes that decided to ruin my chances.
 
 ![Turkey Hunting the Corner](/images/Turkey_Hunting_The_Corner.jpg)
@@ -78,7 +78,7 @@ I was about to pick up and head back when I saw a hen walking down the field awa
 ![Jake Down](/images/Jake_Down.jpg)
 You can see my decoy on the edge of the alfa alfa. My bird is laying just 15 yards to the left of my decoy.
 
-![Wet Bark](/images/Wet_Bark.jpg)
+![Wet Bark](/images/Wet_Bark.JPG)
 The blue dot is where I was set up and the green dot was where I placed my decoy. The orange lines show where the group of hens and tom had walked out and mocked me for three hours on the edge of the field. The red line shows where the jake had come out of the woods.
 
 ![My First Turkey](/images/My_First_Turkey.jpg)
