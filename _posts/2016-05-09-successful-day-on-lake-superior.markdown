@@ -13,6 +13,8 @@ image:
 
 FISH! FISH! FISH! was as called out many times throughout the foggy calm day as rods would bend and planner boards would pull out of line. It took a few miles of trolling to find the right combination of water temp, water clarity, depth, speed, lure types, and lure colors to start getting on fish. But, once things starting picking up they sure didn't let down for the rest of the day.
 
+<!-- ![Trolling during the sunrise](/images/Trolling-during-sunrise.jpg) -->
+
 We started on the Northwest end of Lake Superior and after an hour or two of minimal fish we took a long boat ride to the Southwest end to try our luck. The trip paid off as we got into the lakers.
 
 We ended up catching around 24 lake trout and one coho. We missed a few fish including one king that was jumping out of the water soon after it was hooked and spat the hook.
