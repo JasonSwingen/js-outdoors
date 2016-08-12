@@ -1,6 +1,14 @@
 - id: Gallery
   imagefolder: /images
   images:
+  # - name: Smallie-on-the-clown.jpg
+  #   text: Smallie on the clown x-rap
+  - name: Nick-holding-giant-salmon.jpeg
+    text: Nick holding giant salmon
+  # - name: smallie-selfie.jpg
+  #   text: Smallie Selfie
+  - name: Trolling-for-lake-trout-and-coho_3.jpg
+    text: Lake Trout and Coho
   - name: Jumbo_Perch_1.jpg
     text: North Dakota 14 inch Perch
   - name: Jumbo_Perch.jpg
