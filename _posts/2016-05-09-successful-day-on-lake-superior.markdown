@@ -11,7 +11,7 @@ image:
     feature: Trolling-for-lake-trout-and-coho_1.jpg
 ---
 
-FISH! FISH! FISH! was as called out many times throughout the foggy calm day as rods would bend and planner boards would pull out of line. It took a few miles of trolling to find the right combination of water temp, water clarity, depth, speed, lure types, and lure colors to start getting on fish. But, once things starting picking up they sure didn't let down for the rest of the day.
+FISH! FISH! FISH! was called out many times throughout the foggy calm day as rods would bend and planner boards would pull out of line. It took a few miles of trolling to find the right combination of water temp, water clarity, depth, speed, lure types, and lure colors to start getting on fish. But, once things starting picking up they sure didn't let down for the rest of the day.
 
 <!-- ![Trolling during the sunrise](/images/Trolling-during-sunrise.jpg) -->
 
