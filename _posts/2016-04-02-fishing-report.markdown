@@ -10,6 +10,10 @@ image:
     feature:
 ---
 
+2016-08-17
+
+Shore fishing is starting to pick up on the north shore thanks to warm water throughout the lake and slightly cooler temperatures closer to shore. Try north of Two Harbers. Water closer to Duluth is still fairly warm.
+
 2016-04-15
 
 Word got out that fish were being stocked at Mcquade. Over 30 fisherman looking for some easy pickings. Only a few fish were hungry, mostly biting right at the boat launch.
