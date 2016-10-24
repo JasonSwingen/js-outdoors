@@ -5,8 +5,8 @@ categories: [hunting]
 tags: [hunting, bow, bowhunting, duluth]
 published: True
 image:
-    teaser: Bow-sight-in.jpg
-    feature: Bow-sight-in.jpg
+    teaser: bloody-arrow.jpg
+    feature: bloody-arrow.jpg
 ---
 
 It is finally that time of year again. Well almost. Time to put on your broadheads, tune your arrows, and get out in the woods looking for a few prime locations.
@@ -38,6 +38,11 @@ September 21st
 
 I hit the woods again hoping to get a better look at those deer. At 5:30 p.m. I spotted a flash of brown and grabbed for my binoculars hoping not to see any antlers. Unfortunately, this was another yearling buck. He walked right at me and stopped within 15 yards of me, then circled around and stopped 20 yards on the my other side. He began acting as if something wasn't quite right and I figured he had caught my sent, until I heard some rustling from the brush. Another slightly bigger, yet still small yearling buck stepped out and stood 15 yards from me as well. As if they both new that I wasn't allowed to shoot. It was somewhat frustrating to have two deer so close that I wasn't able to shoot, but it also very cool watching them interact without knowing I was there.
 
- 
+October 3rd
+
+
+
+October 4th
+
 
 <div class="badge warning">Come back soon! This post will be updated throughout the season.</div>
