@@ -55,9 +55,9 @@ After a few minutes I saw the two deer again which I felt both shocked that my a
 
 By this point it was starting to get dark. In the last 20 minutes of shooting light I drew my bow back 2 or 3 more times as the deer kept walking back and fourth behind me stand trying to figure out what just happened, but I was never given a shot, and I was not in the right frame of mind to let another arrow fly in such a thick area let alone with less light.
 
-October 4th
-
 # Lets try this again
+
+October 4th
 
 Having been so close to getting my first deer with a bow, but to still be so far away was driving me crazy. I needed to get back out there and was hoping for another opportunity.
 
