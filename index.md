@@ -28,3 +28,13 @@ image:
     </div><!-- /.tiles -->
   </div>
 </div>
+
+<div id="content" class="main">
+  <div class="wrap">
+    <h1 id="posts">Latest Snaps</h1>
+  </div>
+    {% include snapwidget.html %}
+  <div class="wrap">
+    <p>Follow <a href="https://www.instagram.com/jasonswingen/">JS-Outdoors on Instagram</a></p>
+  </div>
+</div>
