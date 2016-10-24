@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 2016 Duluth City Bowhunt
+title: 2016 Duluth City Bowhunt - UPDATED
 categories: [hunting]
 tags: [hunting, bow, bowhunting, duluth]
 published: True
+comments: True
 image:
     teaser: bloody-arrow.jpg
     feature: bloody-arrow.jpg
@@ -38,11 +39,44 @@ September 21st
 
 I hit the woods again hoping to get a better look at those deer. At 5:30 p.m. I spotted a flash of brown and grabbed for my binoculars hoping not to see any antlers. Unfortunately, this was another yearling buck. He walked right at me and stopped within 15 yards of me, then circled around and stopped 20 yards on the my other side. He began acting as if something wasn't quite right and I figured he had caught my sent, until I heard some rustling from the brush. Another slightly bigger, yet still small yearling buck stepped out and stood 15 yards from me as well. As if they both new that I wasn't allowed to shoot. It was somewhat frustrating to have two deer so close that I wasn't able to shoot, but it also very cool watching them interact without knowing I was there.
 
+September 29th
+
+After seeing deer only come in late in the afternoon I wasn't in a huge hurry to get into the woods. Today was not the day to head in late. As I walked out to my stand I just broke through the trees and saw the first step on my stand two deer had been standing within 20 yards of my stand. They saw me and busted. Those were the only deer I saw for the rest of the night.
+
+# I shot at a deer
+
 October 3rd
 
+Just before sunset I heard something behind me. I had been hearing birds and squirrels rustling in the leaves most of the afternoon and didn't think anything of it. I heard it one more time and turned to see what it was. I there two deer standing in the woods behind me. The does I had been looking for. The trees were extremely thick behind me, but the deer were currently standing in the most unobstructed area. I grabbed my range finder and ranged them at 35 yards. It was somewhat of an awkward angle as I had to lean around the tree my stand was in to get a shot. The best shot I had only gave me a few inches between two small trees, so I decided to take the shot. I let my arrow fly and watched my lighted knock fly through the air directly at the front shoulder of one of the deer. Then... CRACK!
 
+The deer took off and I thought I drilled the deer right in the shoulder blade, but since I could still see the lighted knock floating right where I had been aiming I knew the arrow didn't meet its mark. I couldn't believe it. I had spent so much time in the treestand waiting for that moment and felt that I did everything right, but it wasn't meant to be as my arrow made it 90% of the way to the deer just to stop a few inches short. I was still nervous that maybe the arrow passed through the tree enough to wound the deer, so I was frantically looking to see if I could see the deer.
+
+After a few minutes I saw the two deer again which I felt both shocked that my arrow didn't connect, but glad that I didn't injure either of the deer.
+
+By this point it was starting to get dark. In the last 20 minutes of shooting light I drew my bow back 2 or 3 more times as the deer kept walking back and fourth behind me stand trying to figure out what just happened, but I was never given a shot, and I was not in the right frame of mind to let another arrow fly in such a thick area let alone with less light.
 
 October 4th
+
+# Lets try this again
+
+Having been so close to getting my first deer with a bow, but to still be so far away was driving me crazy. I needed to get back out there and was hoping for another opportunity.
+
+I went the very next day and looked for my arrow from the day before. I had just nicked the inside edge of a 1.5" sampling and my arrow was buried all the way to the fletchings. The doe must have been just a few inches away from the broadhead when the arrow stopped.
+
+I climbed back in my stand still in unbelief from the night before, but was brought back to reality when I saw another pair of does walking by. They were only 35 yards away, but in even thicker cover. I could just catch glimpses of them. I watched them walk right by me and saw one of them bed down just 50 yards from me. The other doe kept walking feeding just behind the bedded doe out of view.
+
+I held still, keeping my eye on the bedded deer and hoping the other one would circle around and come within range. I used my range finder to range every gap in the trees I thought the deer might walk by. After and hour of waiting the feeding deer walked into a gap in one of the gaps in the trees and I drew my bow back. She turned and licked her back covering up the only shot I had, so I settled my 40 yard pin and waited for her to move her head. As soon as she did I let my arrow fly.
+
+The arrow from the night before had my last lighted nock, so I wasn't able to see where I hit or if I hit at all. It all happened so fast. Right after I let the arrow fly I thought I had missed high, as I didn't hear an impact. The two deer both ran off and I watched them as close as I could through the thick brush. I heard what sounded like a crash, but wasn't positive. I knew I should wait, but I couldn't take the suspense of knowing if I connected or not, so I got out of my stand and went looking for my arrow. I looked around for a few minutes not finding an arrow, fur, or blood. I started to think I had missed completely. I went back to my tree stand to make sure I was looking in the right area. After looking for the second time I found my arrow. It was covered in blood and stuck in the dirt suggesting a clear pass through and a clean shot.
+
+![Bloody Arrow](/images/bloody-arrow.jpg)
+
+I started looking for a blood trail and found just a few drops. It probably took me a half an hour just marking every drop of blood with marking tape to making sure I didn't loose the trail. I only made it 50 or 60 yards and found my doe right were I thought I heard the crash. I had done it, my first doe, first whitetail, first animal with my bow, and first Minnesota large game animal.
+
+![Whitetail Down](/images/Whitetail-Down.jpg)
+
+![My First Whitetail Deer](/images/First-Whitetail.jpg)
+
 
 
 <div class="badge warning">Come back soon! This post will be updated throughout the season.</div>
