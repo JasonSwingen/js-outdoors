@@ -5,7 +5,9 @@ description: Hunting and Fishing Stories from the Midwest
 logo: JS_OUTDOORS_logo.jpg
 teaser: teaser.jpg
 locale: en
-url:
+url: js-outdoors.com
+user.email: jason.swingen@gmail.com
+user.name: JasonSwingen
 
 # Jekyll configuration
 
