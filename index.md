@@ -29,12 +29,9 @@ image:
   </div>
 </div>
 
-<div id="content" class="main">
+<div id="instagram" class="main">
   <div class="wrap">
-    <h1 id="posts">Latest Snaps</h1>
+    <h1 id="posts">Latest Pictures from <a target="_blank" href="https://www.instagram.com/jasonswingen/">JS-Outdoors on Instagram</a></h1>
   </div>
     {% include snapwidget.html %}
-  <div class="wrap">
-    <p>Follow <a href="https://www.instagram.com/jasonswingen/">JS-Outdoors on Instagram</a></p>
-  </div>
 </div>
