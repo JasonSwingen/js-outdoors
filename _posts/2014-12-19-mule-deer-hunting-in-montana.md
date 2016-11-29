@@ -16,7 +16,7 @@ This is the second year I have gotten a non-resident mule deer license for Monta
 
 It is a two day drive out to Montana from Duluth, luckily I have family in North Dakota making the trip much easier. I drove to Bismarck on November 15th and stayed with my sister. They're son Henry had just turned 2 and was almost as happy to see me as i was to see him. I was glad to spend the day inside and not driving though a blizzard.
 
-![Target](/images/target.jpg)
+<img class="image-right" src="/images/target.jpg" />
 
 I was also fortunate to find a fantastic shooting range just south of Lincoln that I could sight my gun. I haven't been able to find a good shooting range in Minnesota since most gun hunting in Minnesota, and Wisconsin is done at close ranges, there are few long range rifle shooting ranges. I met another hunter there that was sighting his rifle in preparing for his cow elk hunt in Wyoming. It was 7 degrees and I was not dressed well enough to spend very much time outside. I set up at 200 yards and put some lead downrange. Luckily my first three shots ended up being my only three shots as I could barely feel my fingers. I was pretty confident that any nice buck withing 300 yards was going down.
 

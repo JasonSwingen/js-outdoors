@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016 Duluth City Bowhunt - UPDATED
+title: 2016 Duluth City Bowhunt
 categories: [hunting]
 tags: [hunting, bow, bowhunting, duluth]
 published: True

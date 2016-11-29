@@ -40,3 +40,10 @@ $('.totop').click(function(event){
   event.preventDefault();
   $('html, body').animate({scrollTop: 0}, 900);
 });
+
+// Expander
+$(document).ready(function() {
+  $('.expander-trigger').click(function(){
+    $(this).toggleClass("expander-hidden");
+  });
+});

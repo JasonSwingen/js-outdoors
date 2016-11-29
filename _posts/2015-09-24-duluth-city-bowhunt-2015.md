@@ -102,13 +102,14 @@ I'm not done yet, I just need to figure out how to get back into the field.
 
 ### November Bucks
 
-<figure class="third">
-  <img title="Whitetail Doe on Trail Camera" src="/images/STC_0039.JPG">
-  <img title="Whitetail Doe on Trail Camera" src="/images/STC_0041.JPG">
-  <img title="Whitetail Doe on Trail Camera" src="/images/STC_0049.JPG">
+<figure class="half">
+  <img title="Whitetail Buck on Trail Camera" src="/images/STC_0039.JPG">
+  <img title="Whitetail Buck on Trail Camera" src="/images/STC_0041.JPG">
 </figure>
-
-![Whitetail Buck on Trail Camera](/images/STC_0043.JPG)
+<figure class="half">
+  <img title="Whitetail Buck on Trail Camera" src="/images/STC_0049.JPG">
+  <img title="Whitetail Buck on Trail Camera" src="/images/STC_0043.JPG">
+</figure>
 
 ### No Deer
 

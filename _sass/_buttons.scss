@@ -34,15 +34,15 @@
 
 .btn-accent {
 	@extend .btn;
-	background-color: $white;
 	color: $accent-color;
+	background-color: $white;
 	&:visited,
 	&:active {
-		color: $text-color;
+		color: $accent-color;
 	}
 	&:hover {
-		color: $accent-color;
-		background-color: $white;
+		background-color: $accent-color;
+		color: $white;
 	}
 }
 
