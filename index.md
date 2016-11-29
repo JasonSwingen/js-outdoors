@@ -8,10 +8,6 @@ image:
 {% include device.html %}
 </div>
 
-<div id="subscribe" class="wrap">
-{% include subscribe.html %}
-<div>
-
 <div id="content" class="main">
   <div class="wrap">
     <h1 id="posts">Latest Posts</h1>
@@ -22,3 +18,7 @@ image:
   </div><!-- /.tiles -->
   </div>
 </div>
+
+<div id="subscribe" class="wrap">
+{% include subscribe.html %}
+<div>
