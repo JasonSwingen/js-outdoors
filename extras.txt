@@ -1,0 +1,9 @@
+<div id="instagram" class="">
+{% include device.html %}
+</div>
+
+style="background-image:url(/images/2015_MT_Hunt_18.jpg)">
+
+<div class="wrap">
+  {% include snapwidget.html %}
+</div>
