@@ -232,20 +232,16 @@
 	text-align: center;
 	color: $white;
 	background-size: cover;
-	height: 500px;
+	height: $page-lead-height;
 	box-shadow: inset 1px 1px 36px -9px #000;
 	@include media($large) {
 	}
 }
 .blur-image {
 	filter: blur(5px);
-	&:hover {
-		filter: blur(0px);
-		@include transition(0.1s cubic-bezier(.645,.045,.355,1.000));
-		}
 	}
 .page-lead-content {
-	height: 500px;
+	height: $page-lead-height;
 	padding: 1em;
 	@include media($medium) {
 		padding: 2em;
@@ -278,12 +274,12 @@
 		}
 	}
 	.page-lead-title {
-		position: absolute;
+		position: relative;
 		background-color: #fff;
 		color: #000;
 		box-shadow: 16px 16px 65px -33px #000;
-    left: 26px;
-    max-width: 70%;
+    left: -48px;
+    max-width: 55%;
     padding: 26px;
     top: 20px;
 		font-size: 1.8em;
@@ -331,6 +327,16 @@
 			text-decoration: none;
 		}
 	}
+}
+
+.snapwidget-widget {
+	max-width: 40%;
+  position: absolute;
+  right: 26px;
+  margin: 20px;
+  overflow: hidden;
+  max-height: $snap-widget-height;
+  float: left;
 }
 
 /*
