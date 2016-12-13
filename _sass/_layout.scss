@@ -232,10 +232,20 @@
 	text-align: center;
 	color: $white;
 	background-size: cover;
+	height: 500px;
+	box-shadow: inset 1px 1px 36px -9px #000;
 	@include media($large) {
 	}
 }
+.blur-image {
+	filter: blur(5px);
+	&:hover {
+		filter: blur(0px);
+		@include transition(0.1s cubic-bezier(.645,.045,.355,1.000));
+		}
+	}
 .page-lead-content {
+	height: 500px;
 	padding: 1em;
 	@include media($medium) {
 		padding: 2em;
@@ -266,6 +276,28 @@
 			@include font-size(32);
 			line-height: 1.5;
 		}
+	}
+	.page-lead-title {
+		position: absolute;
+		background-color: #fff;
+		color: #000;
+		box-shadow: 16px 16px 65px -33px #000;
+    left: 26px;
+    max-width: 70%;
+    padding: 26px;
+    top: 20px;
+		font-size: 1.8em;
+		@include media($large) {
+			font-size: 3.2em;
+		}
+	}
+	.highlight {
+		color: $accent-color;
+	}
+	.page-lead-exerpt {
+		position: absolute;
+		background-color: white;
+		color: black;
 	}
 }
 // page header

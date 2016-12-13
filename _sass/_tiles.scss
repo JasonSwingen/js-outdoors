@@ -25,6 +25,7 @@
   .post-teaser {
     position: relative;
     display: block;
+    box-shadow: 4px 6px 40px -2px #808080;
     &:after {
       content: '';
       position: absolute;
