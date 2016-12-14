@@ -5,6 +5,7 @@ published: True
 categories: [reports]
 tags: [fishing, reports, report, steelhead, coho, lake trout, bass, pike, walleye, perch, crappie]
 comments: True
+published: False
 image:
     teaser: LakeSuperiorCohoSalmon.jpg
     feature:

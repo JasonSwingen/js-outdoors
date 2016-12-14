@@ -5,6 +5,7 @@ date: "2016-04-08 10:19:44 -0500"
 modified:
 categories: [fishing]
 excerpt:
+published: False
 tags: [fly fishing, fly tying, fishing]
 image:
   teaser: fly-tying.jpg

@@ -25,20 +25,18 @@ layout: default
 		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
-				<hr />
 				<footer class="page-footer">
 					{% if page.share != false %}{% include share-this.html %}{% endif %}
-					<hr />
 					{% if page.categories %}{% include page-author.html %}{% endif %}
 					{% include page-meta.html %}
 				</footer><!-- /.footer -->
 				<aside>
 				{% if page.comments == true %}
-					<h3>Leave a Comment</h3>
 					{% include comments.html %}
 				{% endif %}
 				{% include related-posts.html %}
 				{% include recent-posts.html %}
+				{% include snapwidget.html %}
 				{% include subscribe.html %}
 				</aside>
 
