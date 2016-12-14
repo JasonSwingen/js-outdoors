@@ -8,21 +8,28 @@ layout: default
 		<div class="page-feature">
 			<div class="page-image">
 				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
-				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+				{% if page.image.credit %}
+				{% include image-credit.html %}
+				{% endif %}
 			</div><!-- /.page-image -->
 		</div><!-- /.page-feature -->
 		{% endif %}
+
+		{% include page-navigation.html %}
+
 		{% include breadcrumbs.html %}
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
 		</div>
+
 		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
 				<hr />
 				<footer class="page-footer">
-					{% if page.categories %}{% include page-author.html %}{% endif %}
 					{% if page.share != false %}{% include share-this.html %}{% endif %}
+					<hr />
+					{% if page.categories %}{% include page-author.html %}{% endif %}
 					{% include page-meta.html %}
 				</footer><!-- /.footer -->
 				<aside>
@@ -30,10 +37,9 @@ layout: default
 					<h3>Leave a Comment</h3>
 					{% include comments.html %}
 				{% endif %}
+				{% include related-posts.html %}
 				{% include recent-posts.html %}
-				<h3>Subscribe</h3>
 				{% include subscribe.html %}
-				<!-- {% include related-posts.html %} -->
 				</aside>
 
 			</div><!-- /.content -->

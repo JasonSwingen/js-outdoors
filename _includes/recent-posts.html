@@ -1,5 +1,5 @@
 <h3>Recent Posts</h3>
-  <div class="tiles">
+  <div class="tiles wrap">
     {% for post in site.posts limit:4 %}
       <div class="tile">
         <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
