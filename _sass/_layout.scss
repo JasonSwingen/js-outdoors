@@ -243,35 +243,12 @@
 .page-lead-content {
 	height: $page-lead-height;
 	padding: 1em;
+	text-decoration: none;
 	@include media($medium) {
 		padding: 2em;
 	}
 	@include media($large) {
 		padding: 3em;
-	}
-	h1 {
-		@include font-size(48);
-    // text-shadow: 0px 2px 3px #000;
-		@include media($medium) {
-			@include font-size(60);
-		}
-		@include media($large) {
-			@include font-size(72);
-		}
-	}
-	h2 {
-		color: $main-color;
-		@include font-size(20);
-    text-shadow: 0px 1px 3px #000;
-		line-height: 1.5;
-		@include media($medium) {
-			@include font-size(24);
-			line-height: 1.5;
-		}
-		@include media($large) {
-			@include font-size(32);
-			line-height: 1.5;
-		}
 	}
 	.page-lead-title {
 		position: relative;
@@ -282,11 +259,38 @@
     max-width: 55%;
     padding: 26px;
     top: 20px;
-		font-size: 1.8em;
-		@include media($large) {
-			font-size: 3.2em;
+		font-size: 1.4em;
+    // transform: skewY(3deg);
+		h1 {
+			text-decoration: none !important;
+			@include font-size(28);
+			// text-shadow: 0px 2px 3px #000;
+			@include media($medium) {
+				@include font-size(38);
+			}
+			@include media($large) {
+				@include font-size(48);
+			}
+		}
+		h2 {
+			color: $main-color;
+			@include font-size(20);
+			text-shadow: 0px 1px 3px #000;
+			line-height: 1.5;
+			@include media($medium) {
+				@include font-size(24);
+				line-height: 1.5;
+			}
+			@include media($large) {
+				@include font-size(32);
+				line-height: 1.5;
+			}
+		}
+		p {
+			font-size: 0.8em;
 		}
 	}
+
 	.highlight {
 		color: $accent-color;
 	}
@@ -325,6 +329,60 @@
 		a {
 			color: $white;
 			text-decoration: none;
+		}
+	}
+}
+.section {
+	margin: 50px 0;
+}
+
+.fullwidth {
+	width: 100%;
+	background: gray;
+	clear: both;
+	.left {
+		float: left;
+	}
+	.right {
+		float: right;
+		img {
+			max-width: 300px;
+		}
+	}
+}
+
+.center {
+		text-align: center;
+}
+
+.wide {
+	width: 100%;
+	clear: both;
+	.text {
+		margin-bottom: 20px;
+	}
+	.left {
+		padding: 20px;
+		float: left;
+		width: 50%;
+		img {
+			// transform: skew(3deg);
+			border-radius: 5px;
+			margin: 5px;
+			width: 40%;
+			float: left;
+		}
+	}
+	.right {
+		padding: 20px;
+		float: right;
+		width: 50%;
+		img {
+			// transform: skew(3deg);
+			border-radius: 5px;
+			margin: 5px;
+			width:40%;
+			float: right;
 		}
 	}
 }

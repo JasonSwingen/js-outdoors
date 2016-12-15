@@ -7,3 +7,12 @@ style="background-image:url(/images/2015_MT_Hunt_18.jpg)">
 <div class="wrap">
   {% include snapwidget.html %}
 </div>
+
+<div class="section">
+  <div class="wrap">
+  <h1 id="posts">Latest <a href="/blog.html">Posts</a></h1>
+    {% for post in site.posts offset:1 limit:8 %}
+      {% include post-grid.html %}
+    {% endfor %}
+  </div><!-- /.tiles -->
+</div>

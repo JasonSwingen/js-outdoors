@@ -10,21 +10,71 @@ image:
   <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ post.image.teaser }})">
     <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">
       <div class="page-lead-content">
-        <h1 class="page-lead-title">{{ post.title }}</h1>
+        <div class="page-lead-title">
+          <h1>{{ post.title }}</h1>
+        </div>
       </div>
     </a>
   {% endfor %}
   </div>
 
-  <div class="wrap">
-    <h1 id="posts">Latest <a href="/blog.html">Posts</a></h1>
-    <div class="tiles">
-      {% for post in site.posts offset:1 limit:8%}
-          {% include post-grid.html %}
-          {% endfor %}
-    </div><!-- /.tiles -->
+<div class="section">
+  <div class="wide">
+    <div class="wrap">
+      <div class="text">
+        <h1><a href="/fishing.html">Fishing</a></h1>
+      </div>
+      <div class="">
+        <div class="">
+        {% for post in site.tags.fishing limit:4 %}
+            {% include post-grid.html %}
+        {% endfor %}
+        </div>
+      </div>
+    </div>
   </div>
+</div>
 
+<div class="section">
+  <div class="wide">
+    <div class="wrap">
+      <div class="text">
+        <h1><a href="/hunting.html">Hunting</a></h1>
+      </div>
+      <div class="">
+        <div class="">
+        {% for post in site.tags.hunting limit:4 %}
+            {% include post-grid.html %}
+        {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="wide">
+    <div class="wrap">
+      <div class="text">
+        <h1><a href="/reviews.html">Reviews</a></h1>
+      </div>
+      <div class="">
+        <div class="">
+        {% for post in site.tags.reviews limit:4 %}
+            {% include post-grid.html %}
+        {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
   {% include snapwidget.html %}
+</div>
 
+<div class="section">
   {% include subscribe.html %}
+</div>
+
+</div>
