@@ -264,6 +264,7 @@
 		h1 {
 			text-decoration: none !important;
 			@include font-size(28);
+			line-height: 1.2;
 			// text-shadow: 0px 2px 3px #000;
 			@include media($medium) {
 				@include font-size(38);
