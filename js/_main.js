@@ -60,7 +60,7 @@ $(document).ready(function() {
       var windowInnerHeight = window.innerHeight;
       var elementTopToWindowTop = elementTopToPageTop - windowTopToPageTop;
       var elementTopToWindowBottom = windowInnerHeight - elementTopToWindowTop;
-      var distanceFromBottomToAppear = 400;
+      var distanceFromBottomToAppear = 300;
 
       if(elementTopToWindowBottom > distanceFromBottomToAppear) {
         $(element).addClass('js-fade-element-show');

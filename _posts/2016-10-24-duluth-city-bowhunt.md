@@ -77,6 +77,16 @@ I started looking for a blood trail and found just a few drops. It probably took
 
 ![My First Whitetail Deer](/images/First-Whitetail.jpg)
 
+## Final Update
 
+Well that does it for me. I've hunted a nearly a dozen times since I shot my first deer earlier in the season. The first 5 times I only saw one deer and it was on the run.
 
-<div class="badge warning">Come back soon! This post will be updated throughout the season.</div>
+I was able to watch a coyote one day throwing a mouse up in the air and chasing it.
+
+<div class="video">
+  <div class="video-wrapper">
+      <iframe src="https://www.youtube.com/embed/9soIBllY4aM?rel=0" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+I moved my stand after not seeing much for deer. There was a deer bed not far from my original stand location, so I moved locations and went in for a late season hunt. The next morning I headed out to my new stand position that was only 30 yards from a deer bed. It was a cold morning, around 9 degrees and a slight breeze. 10 minutes before shooting light there was some movement of to my side. There was a small 6-point buck approximately 30 yards away walking straight towards the bed. He was in thick cover and on the move. I grabbed my bow, but with such little light I was unable to see my sight pins or get a good range on him. So instead of making an unethical shot I decided to pass up the buck.
