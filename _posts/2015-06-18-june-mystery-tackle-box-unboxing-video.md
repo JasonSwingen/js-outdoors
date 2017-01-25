@@ -61,6 +61,4 @@ Great concept. I don't think they are any faster than using a regular clip.
 
 [For More Information About This Box](http://www.mtb-baits.com/9nx)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r8Blk7cDOAs" frameborder="0" allowfullscreen></iframe>
-
 <a href="/images/Sebile-Walker.jpg" data-lightbox="Sebile-Walker" data-title="Sebile-Walker"><img class="centered" src="/images/Sebile-Walker.jpg" alt="Lake Superior Laker"></a>
