@@ -2,11 +2,14 @@
 layout: {{ layout }}
 title: {{ title }}
 modified:
-categories: {{ dir }}
-excerpt:
+categories: []
 tags: []
+published: True
+comments: True
+excerpt:
 image:
   feature:
   teaser:
   thumb:
 ---
+
