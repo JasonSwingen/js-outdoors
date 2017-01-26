@@ -121,7 +121,7 @@
 	@include clearfix;
 	font-weight: 700;
 	a {
-		color: darken($white,20);
+		color: #000;
 	}
 }
 
@@ -226,16 +226,17 @@
 }
 // page lead
 .page-lead {
+	@include media($large) {
+		height: $page-lead-height;
+	}
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	text-align: center;
 	color: $white;
 	background-size: cover;
-	height: $page-lead-height;
+	height: 400px;
 	box-shadow: inset 1px 1px 36px -9px #000;
-	@include media($large) {
-	}
 }
 .blur-image {
 	filter: blur(5px);
@@ -251,14 +252,17 @@
 		padding: 3em;
 	}
 	.page-lead-title {
+		@include media($large) {
+			max-width: 600px;
+		}
 		position: relative;
 		background-color: #fff;
 		color: #000;
 		box-shadow: 16px 16px 65px -33px #000;
-    left: -48px;
-    max-width: 55%;
-    padding: 26px;
-    top: 20px;
+	    left: -48px;
+	    max-width: 400px;
+	    padding: 26px;
+	    top: 20px;
 		font-size: 1.4em;
     // transform: skewY(3deg);
 		h1 {
@@ -443,10 +447,10 @@
   /* Copyright text */
 	.copyright {
 		@include font-size(12);
-		color: darken($white,20);
+		color: lighten(#000,20);
 		a {
-			color: darken($white,20);
-			text-decoration: none;
+			color: lighten(#000,20);
+			text-decoration: underline dotted gray;
 		}
 	}
 }
