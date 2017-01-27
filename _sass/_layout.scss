@@ -226,23 +226,23 @@
 }
 // page lead
 .page-lead {
-	@include media($large) {
-		height: $page-lead-height;
+	@include media($medium) {
+		height: 600px;
+		background-attachment: fixed;
 	}
 	background-position: center top;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
 	text-align: center;
 	color: $white;
 	background-size: cover;
-	height: 400px;
+	height: 350px;
 	box-shadow: inset 1px 1px 36px -9px #000;
 }
 .blur-image {
 	filter: blur(5px);
 	}
 .page-lead-content {
-	height: $page-lead-height;
+	height: 100%;
 	padding: 1em;
 	text-decoration: none;
 	@include media($medium) {
@@ -252,29 +252,35 @@
 		padding: 3em;
 	}
 	.page-lead-title {
-		@include media($large) {
+		@include media($medium) {
 			max-width: 600px;
+			padding: 26px;
 		}
+		opacity: 0.8;
+		padding-left: 1.5em;
 		position: relative;
 		background-color: #fff;
 		color: #000;
 		box-shadow: 16px 16px 65px -33px #000;
 	    left: -48px;
 	    max-width: 400px;
-	    padding: 26px;
+	    padding: 6px;
 	    top: 20px;
 		font-size: 1.4em;
     // transform: skewY(3deg);
 		h1 {
+			opacity: 1;
+		    padding: 0px 20px;
 			text-decoration: none !important;
-			@include font-size(28);
-			line-height: 1.2;
+			@include font-size(24);
+			line-height: 1.4;
 			// text-shadow: 0px 2px 3px #000;
 			@include media($medium) {
 				@include font-size(38);
 			}
 			@include media($large) {
 				@include font-size(48);
+				line-height: 1.4;
 			}
 		}
 		h2 {
@@ -483,4 +489,28 @@
 
 .next {
 	float: right;
+}
+
+.youtube {
+	padding: 0em;
+	@include media($medium) {
+		float: right;
+		padding: 6em 2em;
+	}
+	.video {
+		padding: 10px;
+		float: none;
+		@include media($medium) {
+		    float: right;
+		    width: 360px;
+		    margin-bottom: 30px;
+		}
+	}
+}
+
+.mobilehide {
+	display: none;
+	@include media($medium) {
+		display: block;
+	}
 }

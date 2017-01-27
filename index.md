@@ -37,6 +37,12 @@ image:
 
   <div class="section">
     <div class="wide">
+        {% include youtube.html %}
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="wide">
       <div class="wrap">
         <div class="text">
           <h1><a href="/hunting.html">Hunting</a></h1>
@@ -50,6 +56,10 @@ image:
         </div>
       </div>
     </div>
+  </div>
+
+  <div id="instagram" class="">
+    {% include device.html %}
   </div>
 
   <div class="section">
@@ -67,10 +77,6 @@ image:
         </div>
       </div>
     </div>
-  </div>
-
-  <div id="instagram" class="">
-  {% include device.html %}
   </div>
 
   <div class="section">
