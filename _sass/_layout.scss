@@ -230,7 +230,7 @@
 		height: 600px;
 		background-attachment: fixed;
 	}
-	background-position: center top;
+	background-position: center;
 	background-repeat: no-repeat;
 	text-align: center;
 	color: $white;
@@ -264,7 +264,7 @@
 		box-shadow: 16px 16px 65px -33px #000;
 	    left: -48px;
 	    max-width: 400px;
-	    padding: 6px;
+	    padding: 6px 30px;
 	    top: 20px;
 		font-size: 1.4em;
     // transform: skewY(3deg);
@@ -298,7 +298,10 @@
 			}
 		}
 		p {
-			font-size: 0.8em;
+			font-size: 0.7em;
+			@include media($large) {
+				font-size: 1em;
+			}
 		}
 	}
 
@@ -491,26 +494,61 @@
 	float: right;
 }
 
-.youtube {
-	padding: 0em;
-	@include media($medium) {
-		float: right;
-		padding: 6em 2em;
+.youtube-lead {
+	background-position: center top;
+	background-repeat: no-repeat;
+	text-align: center;
+	color: $white;
+	background-size: cover;
+	box-shadow: inset 1px 1px 36px -9px #000;
+	@include media($large) {
+		height: 600px;
+		background-attachment: fixed;
 	}
-	.video {
-		padding: 10px;
-		float: none;
-		@include media($medium) {
-		    float: right;
-		    width: 360px;
-		    margin-bottom: 30px;
+	.lead-text {
+		opacity: 0.8;
+		padding: 1.5em;
+		background-color: #fff;
+		color: #000;
+		box-shadow: 16px 16px 65px -33px #000;
+		font-size: 1.4em;
+
+	    padding: 40px;
+	    margin-top: 20px;
+
+		@include media($large) {
+			float: left;
+		    width: 424px;
+		    padding: 20px;
+		    margin-top: 103px;
+		}
+		width: 100%;
+		h1 {
+			
+		}
+		p {
+			
 		}
 	}
-}
-
-.mobilehide {
-	display: none;
-	@include media($medium) {
-		display: block;
-	}
+	.youtube {
+		width: 100%;
+		padding: 0em;
+		@include media($large) {
+			padding: 6em 2em;
+			float: right;
+			max-width: 800px;
+		}
+		@include media($small) {
+			padding: 6em 2em;
+		}
+		.video {
+			padding: 10px;
+			float: none;
+			@include media($large) {
+			    float: right;
+			    width: 360px;
+			    margin-bottom: 30px;
+			}
+		}
+	}	
 }

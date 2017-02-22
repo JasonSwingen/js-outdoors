@@ -6,16 +6,14 @@ image:
 
 <div id="content" class="main">
 
-  {% for post in site.posts  limit:1%}
-  <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ post.image.teaser }})">
-    <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">
+  <div class="page-lead" style="background-image:url(/images/Smallie_Fly.jpg)">
       <div class="page-lead-content">
         <div class="page-lead-title slideleft">
-          <h1>{{ post.title }}</h1>
+          <!-- <h1>Welcome to</h1> -->
+          <img src="images/JS_OUTDOORS_long_logo.jpg" alt="">
+          <p>Brought to you by Jason Swingen. A Minnesotan that loves to hunt and fish. If you have a passion for the outdoors too please check out some of my most recent adventures below!</p>
         </div>
       </div>
-    </a>
-  {% endfor %}
   </div>
 
   <div class="section">
@@ -37,7 +35,7 @@ image:
 
   <div class="section">
     <div class="wide">
-        {% include youtube.html %}
+        {% include youtube-grid.html %}
     </div>
   </div>
 

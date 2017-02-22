@@ -1,0 +1,20 @@
+<div class="youtube-lead" style="background-image:url(/images/youtube_bg.png)">
+<div class="wide">
+	<div class="lead-text">
+		<div class="page-lead-title">
+			<h1>Check me out on YouTube!</h1>
+			<p>Subscribe today to follow along with my hunting and fishing adventures as well as learn tips and see instructional fly tying videos!</p>
+			<a target="_blank" href="https://www.youtube.com/user/swingja" class="btn">Subscribe</a>
+		</div>
+	</div>
+	<div class="youtube">
+		{% for link in site.data.videos limit:4 %}
+			<div class="video">
+				<div class="video-wrapper">
+					<iframe src="{{ link.src }}" frameborder="0" allowfullscreen></iframe>
+				</div>
+			</div>
+	      {% endfor %}
+	</div>
+</div>
+</div>
