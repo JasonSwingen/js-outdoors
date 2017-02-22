@@ -1,17 +1,11 @@
-<div id="instagram" class="">
-{% include device.html %}
-</div>
-
-<div class="section">
-  {% include snapwidget.html %}
-</div>
-
 style="background-image:url(/images/2015_MT_Hunt_18.jpg)">
 
+## Snapwidget
 <div class="wrap">
   {% include snapwidget.html %}
 </div>
 
+## Latest Posts
 <div class="section">
   <div class="wrap">
   <h1 id="posts">Latest <a href="/blog.html">Posts</a></h1>
@@ -20,3 +14,45 @@ style="background-image:url(/images/2015_MT_Hunt_18.jpg)">
     {% endfor %}
   </div><!-- /.tiles -->
 </div>
+
+## Social Media for Youtube
+Check out my Website: http://www.js-outdoors.com
+Follow me on Instagram: https://www.instagram.com/jasonswingen/
+Follow me on Facebook: https://www.facebook.com/JasonSwingenOutdoors/
+Follow me on Twitter: https://twitter.com/jasonswingen
+Follow me on Pinterest: https://www.pinterest.com/jswingen/
+
+
+## google analytics
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- js-outdoors -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2944231685290718"
+     data-ad-slot="2312110186"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Skyscraper -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-2944231685290718"
+     data-ad-slot="6324043781"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+## displays latest post as a fixed background jumbotron
+ {% for post in site.posts  limit:1%}
+  <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ post.image.teaser }})">
+    <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">
+      <div class="page-lead-content">
+        <div class="page-lead-title slideleft">
+          <h1>{{ post.title }}</h1>
+        </div>
+      </div>
+    </a>
+  {% endfor %}
