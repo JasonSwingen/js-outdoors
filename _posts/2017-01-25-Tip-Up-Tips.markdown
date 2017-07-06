@@ -6,7 +6,7 @@ categories: [fishing]
 tags: [tips, fishing, ice-fishing]
 published: True
 comments: True
-ads: False
+ads: True
 excerpt: You can simply make your leaders ahead of time by tying them onto a snap and quickly change leaders if one gets chewed up, or you want to fish for a different species of fish that may be pickier. 
 image:
   teaser: tip-up-tip.jpg
@@ -34,5 +34,3 @@ Instead of carrying multiple tip ups with different leaders tied on, you can sim
       <iframe src="https://www.youtube.com/embed/6PsDEfIgw0Y?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
-
-&nbsp;

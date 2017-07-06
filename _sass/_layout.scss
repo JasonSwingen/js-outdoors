@@ -470,6 +470,15 @@
 
 //Post Styles
 
+.rightsidebar {
+	display: none;
+	@include media($medium) {
+		display: inline;
+		float: right;
+		width: 23%;
+	}
+}
+
 .PageNavigation {
 	bottom: 10px;
 	height: 110px;

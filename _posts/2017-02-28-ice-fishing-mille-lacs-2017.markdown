@@ -32,5 +32,3 @@ My very next trip to Mille Lacs after catching my personal best 26" walleye I en
       <iframe src="https://www.youtube.com/embed/I0iErtH96aM?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
-
-&nbsp;

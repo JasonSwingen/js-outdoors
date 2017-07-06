@@ -20,5 +20,3 @@ Four guys from Minnesota traveled to Lake Michigan in search of king salmon. We 
       <iframe src="https://www.youtube.com/embed/-Jd4HtmFPk4?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
-
-&nbsp;

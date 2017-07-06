@@ -25,6 +25,7 @@ layout: default
 		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
+				&nbsp;
 				<footer class="page-footer">
 					{% if page.share != false %}{% include share-this.html %}{% endif %}
 					{% if page.categories %}{% include page-author.html %}{% endif %}
@@ -35,11 +36,11 @@ layout: default
 					{% include comments.html %}
 				{% endif %}
 				{% include related-posts.html %}
-				{% include recent-posts.html %}
 				{% include subscribe.html %}
 				</aside>
 
 			</div><!-- /.content -->
+			{% include related-post-list-aside.html %}
 			{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
 
 		</div><!-- /.inner-wrap -->
