@@ -5,6 +5,7 @@ categories: [fishing]
 tags: [fishing, ice-fishing]
 published: True
 comments: True
+ads: True
 date: "2017-01-09 16:13:58 -0600"
 image:
   teaser: upper-red-walleye.jpg

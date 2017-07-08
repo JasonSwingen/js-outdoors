@@ -5,6 +5,7 @@ categories: [hunting]
 tags: [mule deer, montana, hunting]
 published: True
 comments: True
+ads: True
 image:
     teaser: 2015_MT_Hunt_7.jpg
     feature: 2015_MT_Hunt_7.jpg
@@ -19,6 +20,17 @@ On the morning of Friday, November 13th I went out to shoot my .270 and make sur
 
 ## Day One
 Our plan for the first two days was to hunt the CMR in the Missouri River Breaks. The CMR has a shorter mule deer season, but since Mark had a cow elk tag we figured it would be a good opportunity to scout for elk while we hunting for muleys. After the weekend the elk season would still stay open, but we could no longer hunt deer on the CMR.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-2944231685290718"
+     data-ad-slot="3115465782"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 This was one of the warmest times I've ever hunted for Montana Muleys including early season. I brought plenty of hunting clothes, but most of it was cold weather gear. Other than the first hour of daylight each day it was light pants and long sleeve weather.
 
@@ -44,6 +56,17 @@ My tag had been filled and now our focus was on finding a cow elk for Mark. We s
 
 ## Day Three
 Monday, November 15th was a windy day with 20-30 mph constant winds with gusts up to 60 mph. Today was the deer processing day.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-2944231685290718"
+     data-ad-slot="3115465782"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 We also wanted to go to a spot that Mark had hunted pheasants in last year, but hadn't gone to yet this year. We got out of the truck trying not get blown over. Within the first couple minutes we had birds flushing all over, but they were either jumpy from previous hunters or because the wind made it hard for them to figure out how close we were to them they were all flushing well before we were close enough for a shot.
 

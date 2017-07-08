@@ -5,6 +5,7 @@ categories: [hunting]
 tags: [hunting, bow, bowhunting, duluth]
 published: True
 comments: True
+ads: True
 image:
     teaser: bloody-arrow.jpg
     feature: bloody-arrow.jpg
@@ -26,6 +27,17 @@ August 28th
 
 I have walked through my zone a few times looking for somewhere to hang my tree stand. The first deer tracks I found was going to a stream that was under one of the only trees left standing in the area. There was not a good shooting lane as the underbrush was thick, but I placed my trail camera just to see if that was a frequently used area.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-2944231685290718"
+     data-ad-slot="3115465782"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 # Hanging my stand
 September 6th
 
@@ -34,6 +46,17 @@ I went out again to look for an even better spot for my tree stand. A stream is 
 September 17th
 
 Bow Season just started today, and I'm glad it's finally here. I couldn't have waited much longer. I went out mid afternoon and had a good long sit. There wasn't much movement during the afternoon, but just after sunset a little fork-horn came right in and walked within 25 yards with two more deer following slightly further away. I grabbed my bow, but the sun had gone down and they were in some thicker cover. I drew my bow back, but I was unable to tell if the deer at 35 yards was a doe or another fork-horn, so I didn't let an arrow fly.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-2944231685290718"
+     data-ad-slot="3115465782"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 September 21st
 
@@ -64,6 +87,17 @@ Having been so close to getting my first deer with a bow, but to still be so far
 I went the very next day and looked for my arrow from the day before. I had just nicked the inside edge of a 1.5" sampling and my arrow was buried all the way to the fletchings. The doe must have been just a few inches away from the broadhead when the arrow stopped.
 
 I climbed back in my stand still in unbelief from the night before, but was brought back to reality when I saw another pair of does walking by. They were only 35 yards away, but in even thicker cover. I could just catch glimpses of them. I watched them walk right by me and saw one of them bed down just 50 yards from me. The other doe kept walking feeding just behind the bedded doe out of view.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-2944231685290718"
+     data-ad-slot="3115465782"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 I held still, keeping my eye on the bedded deer and hoping the other one would circle around and come within range. I used my range finder to range every gap in the trees I thought the deer might walk by. After and hour of waiting the feeding deer walked into a gap in one of the gaps in the trees and I drew my bow back. She turned and licked her back covering up the only shot I had, so I settled my 40 yard pin and waited for her to move her head. As soon as she did I let my arrow fly.
 

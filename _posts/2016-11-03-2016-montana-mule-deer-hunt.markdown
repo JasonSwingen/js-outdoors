@@ -6,6 +6,7 @@ categories: [hunting]
 tags: [mule deer, montana, hunting]
 published: True
 comments: True
+ads: True
 image:
     teaser: Big_MT_Muley.jpg
     feature: Big_MT_Muley.jpg
@@ -22,6 +23,17 @@ I waited to leave for North Dakota so I would be able to drive through some of t
 ## Day One
 
 The first morning Mark, his brother Joel and I took off early for my first day of mule deer hunting for the year. We spent the first hour of the morning glassing of some coulees from the road. Then after not seeing many deer (at least nothing worth going after) we found a good looking coulee to walk down.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-2944231685290718"
+     data-ad-slot="3115465782"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 There wasn't much deer sign to be found, but it only took 20 minutes of walking to find a medium sized 3x3 buck standing by himself on the side of a hill. I walked up within 100 yards of him to see if he had a big brother with him, but he seemed to be alone, so we kept walking. We stopped to glass another half mile up the coulee and must have been upwind of a buck that caught our wind and bolted.
 
@@ -44,6 +56,17 @@ We walked down towards them to see if they would have bedded down on the backsid
 There are many variables that can ruin your hunt, some you can control and some you cannot. This was one of the latter. Anything that ruins a stalk, especially on a big mature mule can leave a pit in your stomach, but that is part of hunting and what makes finding a big mature mule deer extra special.
 
 We went further down in to the hunting area past where the other hunters were camping, and after glassing for a few hours and only seeing a handful of deer we decided to go on a hike, which is usually the best way to hunt, but it was over 70 degrees and sunny, only a few minutes in I was soaked in sweat.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-2944231685290718"
+     data-ad-slot="3115465782"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Mark, Joel and I all split up and went down separate coulees. We were in the area that the big buck from the morning stock may have ran off to, so I was hoping to run into him again. I walked down the bottom of the coullee and after a few hundred yards I looked over in some thick brush a a nice 4x4 was standing 25 yards from me staring right at me. If I hadn't just seen an even bigger buck that morning I would have shot this buck, but because I was extra picky, and the fact that I could only see the bucks head and neck I decided to pass him up. After a few minutes of staring at each other he took off along with a doe that I never noticed was with him.
 

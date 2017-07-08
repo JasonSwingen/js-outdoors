@@ -6,6 +6,7 @@ categories: [fishing]
 tags: [fishing, shore fishing]
 published: True
 comments: True
+ads: True
 image:
     teaser: LakeSuperiorCoho.jpg
     feature: LakeSuperiorCoho.jpg

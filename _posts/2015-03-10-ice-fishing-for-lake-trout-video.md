@@ -5,6 +5,7 @@ published: True
 categories: [fishing]
 tags: [lake trout, ice fishing, fishing, video]
 comments: True
+ads: True
 image:
     teaser: Superior_Lake_Trout.jpg
     feature: Superior_Lake_Trout.jpg

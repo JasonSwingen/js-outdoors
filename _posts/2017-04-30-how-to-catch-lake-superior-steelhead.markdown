@@ -6,6 +6,7 @@ categories: [fishing]
 tags: [fishing, fly-fishing, trout, salmon, shore fishing]
 published: False
 comments: True
+ads: True
 excerpt: The ultimate beginners guide to catching steelhead, kamloops, coho salmon, and lake trout in Lake Superior and its tributaries.
 image:
   feature: 2017-buck-steelhead.jpg

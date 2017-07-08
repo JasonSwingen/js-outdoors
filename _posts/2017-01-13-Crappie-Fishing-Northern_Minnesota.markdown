@@ -6,6 +6,7 @@ categories: [fishing]
 tags: [fishing, ice-fishing]
 published: True
 comments: True
+ads: True
 image:
   teaser: mn_crappie.jpg
   feature: mn_crappie.jpg

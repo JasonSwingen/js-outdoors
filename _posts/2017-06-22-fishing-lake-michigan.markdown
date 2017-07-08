@@ -6,6 +6,7 @@ categories: [fishing]
 tags: [fishing, trolling, salmon, trout, wisconsin, michigan]
 published: True
 comments: True
+ads: True
 image:
   feature: 2017-king-salmon.jpg
   teaser: 2017-king-salmon.jpg

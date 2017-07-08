@@ -6,6 +6,7 @@ categories: [fishing]
 tags: [tips, fishing, ice-fishing, fly-fishing, tips]
 published: True
 comments: True
+ads: True
 excerpt: The knots that you need to know, when you should use them, and why they are used over other knots.
 image:
   feature: Fishing_Knot.jpg
@@ -34,7 +35,16 @@ If you are brand new to fishing and are learning to tie fishing knot for the fir
 ## Stubborn Fisherman
 If you are stubborn and only want to learn one knot and use if for every application you should learn how to tie the <a href="#Uni">Uni</a> knot. This knot is made to tie your line to a hook, but in a pinch can be used to tie your line onto your spool, or even tie two lines together through the use of a <a href="#Double Uni">Double Uni</a>
 
-<hr>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-2944231685290718"
+     data-ad-slot="3115465782"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Instructions
 

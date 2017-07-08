@@ -5,6 +5,7 @@ published: True
 categories: [fishing]
 tags: [fishing, kayak fishing]
 comments: True
+ads: True
 image:
     teaser: Fishing-Kayak.jpg
     feature: Fishing-Kayak.jpg

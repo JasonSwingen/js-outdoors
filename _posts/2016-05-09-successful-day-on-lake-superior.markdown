@@ -6,6 +6,7 @@ published: True
 categories: [fishing]
 tags: [fishing, lake superior, coho, trout, salmon, minnesota]
 comments: True
+ads: True
 image:
     teaser: Trolling-for-lake-trout-and-coho_1.jpg
     feature: Trolling-for-lake-trout-and-coho_1.jpg

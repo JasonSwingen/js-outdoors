@@ -6,6 +6,7 @@ published: True
 categories: [fishing]
 tags: [lake trout, casting, fishing]
 comments: True
+ads: True
 image:
     teaser: North_Shore_Laker_Casting_1.jpg
     feature: North_Shore_Laker_Casting_1.jpg

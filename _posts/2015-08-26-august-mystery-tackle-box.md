@@ -5,6 +5,7 @@ categories: [reviews]
 tags: [reviews, fishing, mystery tackle box, unboxing]
 published: True
 comments: True
+ads: True
 image:
     teaser: Aug15MTB.jpg
     feature: Aug15MTB.jpg

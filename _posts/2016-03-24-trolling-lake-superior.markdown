@@ -5,6 +5,7 @@ published: True
 categories: [fishing]
 tags: [steelhead, coho, lake trout, trolling, fishing, video]
 comments: True
+ads: True
 image:
     teaser: Trolling-Lake-Superior.jpg
     feature: Trolling-Lake-Superior.jpg

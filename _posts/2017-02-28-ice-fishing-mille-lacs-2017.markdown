@@ -6,6 +6,7 @@ categories: [fishing]
 tags: [fishing, ice-fishing, walleye, mille lacs, minnesota]
 published: True
 comments: True
+ads: True
 image:
   feature: Mille_Lacs_Walleye_2.jpg
   teaser: Mille_Lacs_Walleye_2.jpg
