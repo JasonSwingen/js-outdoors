@@ -17,19 +17,14 @@ image:
       </div>
   </div>
 
-<div id="main" role="main" class="wide" id="posts">
-  <h1>Recent Posts</h1>
+<div id="main" role="main" id="posts">
+  <h1><a href="{{ domain }}/blog.html">Recent Posts</a></h1>
     <div class="tiles">
       {% for post in site.posts limit:12 %}
           {% include post-grid.html %}
       {% endfor %}
     </div>
 </div>
-
-<div class="section center">
-  <h2><a href="{{ domain }}/blog.html">View More</a></h2>
-</div>
-  
 
 <div class="section">
   <div class="wide">
