@@ -6,6 +6,7 @@ categories: [fishing]
 tags: [fishing, fly-fishing, north shore, lake superior, trout, salmon]
 published: True
 comments: True
+ads: True
 excerpt: I spent an hour changing flies trying to get a fish to bite. I eventually hooked into my first pink using a small size 16 copper john style nymph.
 image:
   feature: Pink_Salmon.jpg
