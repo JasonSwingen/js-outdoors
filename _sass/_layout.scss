@@ -226,8 +226,8 @@
 }
 // page lead
 .page-lead {
-	@include media($medium) {
-		height: 600px;
+	@include media($large) {
+		height: 800px;
 		background-attachment: fixed;
 	}
 	background-position: center;
@@ -529,12 +529,7 @@
 	    padding: 40px;
 	    margin-top: 20px;
 
-		@include media($large) {
-			float: left;
-		    width: 424px;
-		    padding: 20px;
-		    margin-top: 103px;
-		}
+		
 		width: 100%;
 		h1 {
 			
@@ -548,8 +543,8 @@
 		padding: 0em;
 		@include media($large) {
 			padding: 6em 2em;
-			float: right;
-			max-width: 784px;
+			max-width: 800px;
+		    margin: 0 auto;
 		}
 		@include media($small) {
 			padding: 6em 2em;

@@ -18,6 +18,9 @@
   }
   .post-title {
     @include font-size(18,no);
+    a {
+      color: #313130;
+    }
   }
   .post-excerpt {
     @include font-size(16);
