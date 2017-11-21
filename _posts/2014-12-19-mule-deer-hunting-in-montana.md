@@ -21,16 +21,7 @@ It is a two day drive out to Montana from Duluth, luckily I have family in North
 
 I was also fortunate to find a fantastic shooting range just south of Lincoln that I could sight my gun. I haven't been able to find a good shooting range in Minnesota since most gun hunting in Minnesota, and Wisconsin is done at close ranges, there are few long range rifle shooting ranges. I met another hunter there that was sighting his rifle in preparing for his cow elk hunt in Wyoming. It was 7 degrees and I was not dressed well enough to spend very much time outside. I set up at 200 yards and put some lead downrange. Luckily my first three shots ended up being my only three shots as I could barely feel my fingers. I was pretty confident that any nice buck withing 300 yards was going down.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-format="fluid"
-     data-ad-layout="in-article"
-     data-ad-client="ca-pub-2944231685290718"
-     data-ad-slot="3115465782"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{% include inline-ad.html %}
 
 After a day of playing with Henry, I hit the road for the second time to begin my hunt in Montana's region 6 (Northeast section). I arrived at my hunting buddy, Mark Sullivan's house and began unloading my gear. Mark has taken me hunting and fishing dozens and dozens of times when I was growing up, and is really the one that has gotten me to be the outdoorsman that I am today.
 
@@ -51,8 +42,6 @@ From the beginning I had told myself that I wasn't going to be picky and if I sa
 ![Snowy Montana Prairie](/images/snowy-prairie.jpg)
 
 We changed our initial route to see if we would be able to find that deer again. Once we got to the top of the draw we could see a deer walking by himself close to 1000 yards away in the bottom of the next coulee. Even at that distance we could see antlers and tell he was a buck by the way he was walking. Head down, and nose up with a little strut. We set up on the edge and got out the spotting scope. Once we were able to take a look at him, we were able to confirm our suspicion that this was a buck worth going after.
-
-adsense
 
 He was down in the bottom with very little cover to sneak up on him, and he was on the move. We couldn't drop down and loose sight of him, because he would have just disappeared. While trying to figure out the best way to get to him he started to change directions and it looked like he was going to come right too us. Unfortunately he soon changed his mind and started heading toward a group of does further down the coulee. The wind was on our backs, there were over 20 deer in that group, and it didn't look like there was enough cover to get much closer than 400 yards. and to make it worse one of the does had split from the group and was wondering around the only draw we would be able to sneak through to get close enough.
 

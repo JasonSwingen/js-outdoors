@@ -89,6 +89,8 @@ Just a few minutes before sunrise, I heard crunch crunch... crunch crunch. This 
 
 Deer 1 - Jason 0
 
+{% include inline-ad.html %}
+
 ### November 3rd 2015 - Not the animal I want to see
 
 I decided to hunt a quick afternoon and got everything ready and headed out to my stand. There was a white car parked next to where I normally do that didn't look like a hunters car, but I figured that wouldn't be a problem as I'm headed off the trail. After less than and hour of getting into my stand, I hear movement to my right! Unfortunatly the driver of the car and her dog decided to take a walk off the trail, right next to my stand. Her dog never saw me but about 25 yards away it was barking up a different tree, most likely smelling the buck bomb I had just sprayed a half hour before. Hunt over.

@@ -147,7 +147,7 @@
 		(vimeo, $vimeo-color),
 		(youtube, $youtube-color);
 	@extend .btn-inverse;
-	color: $text-color !important;
+	color: $accent-color  !important;
 	&:visited,
 	&:active {
 		color: $text-color;

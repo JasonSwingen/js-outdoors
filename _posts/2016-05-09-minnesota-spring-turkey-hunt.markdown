@@ -25,16 +25,7 @@ After a half hour of listening to occasional gobbles I looked over and saw a tur
 
 Trying not to replicate my hunt from last year I decided not to overcall the birds. Instead of being aggressive, I decided to play hard to get. Listening to that hen was extremely helpful as I was able to use my box call to replicate the hen's purrs to try to and get the gobbler to come in.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-format="fluid"
-     data-ad-layout="in-article"
-     data-ad-client="ca-pub-2944231685290718"
-     data-ad-slot="3115465782"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{% include inline-ad.html %}
 
 A few soft purrs later and I was getting the gobbler in the woods fired up. Every time I heard his muffled gobbles from the woods it sounded like he was getting closer and closer until eventually his gobbles echoed from being out in the open field. I glanced over and saw him tail fan up, and strutting right towards me. He could see my decoy and was on his way in. This was it. I was picturing his fan and beard hanging up on my wall and what the best way to cook him should be. Roasted whole on the grill? Maybe breast him out and put him in the crock pot. I was excited, but new if I just stayed calm and still he would be mine.
 
@@ -63,16 +54,7 @@ We got back to camp and were waiting for Dick to get back. The sun had set and w
 
 We decided to head back to the same area as the first day so I could try my luck at the tom that got away. I heard gobbling just as I had the morning before but this morning they were not interested in coming in. After sitting for a few hours I got up to try a different area. After walking around and foolishly jumping a few birds I saw Larry walking a few hundred yards away from me. I walked over to him and we were just going to call it a day, but since we were already dressed and in the field we decided to hunt for one more hour before heading to the truck.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-format="fluid"
-     data-ad-layout="in-article"
-     data-ad-client="ca-pub-2944231685290718"
-     data-ad-slot="3115465782"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{% include inline-ad.html %}
 
 Larry head off to a field that he had only hunted one other time and never seen a turkey in. I went back to the area I was in the morning to see if anything had come out of the woods. After hearing a few gobbles, but not having enough time to go after anything I decided to go back to the truck a little early. I was halfway to the truck and BOOM, I heard a shot. Shortly after I see Larry coming back to the truck with his bird.
 

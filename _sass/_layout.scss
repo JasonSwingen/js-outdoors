@@ -226,8 +226,12 @@
 }
 // page lead
 .page-lead {
-	@include media($large) {
-		height: 800px;
+	// @include media($medium) {
+	// 	height: 400px;
+	// 	background-attachment: fixed;
+	// }
+	@include media($medium) {
+		height: 600px;
 		background-attachment: fixed;
 	}
 	background-position: center;
@@ -250,6 +254,21 @@
 	}
 	@include media($large) {
 		padding: 3em;
+	}
+	h2 {
+
+		@include media($medium) {
+			// padding-top: 70px;
+			font-size: 2em;
+			width: 521px;
+			text-align: left;
+		}
+		@include media($large) {
+			// padding-top: 70px;
+			font-size: 2.7em;
+			width: 600px;
+			text-align: left;
+		}
 	}
 	.page-lead-title {
 		@include media($micro) {
@@ -415,6 +434,17 @@
   // float: left;
 }
 
+.banner {
+	margin-top: 3em;
+	border-bottom: 1px solid $body-color;
+	font-family: sans-serif;
+	.buttons {
+		@include media($small) {
+			max-width: 100%;
+		}
+	}
+}
+
 /*
    Page footer
    ========================================================================== */
@@ -481,7 +511,7 @@
 
 .PageNavigation {
 	bottom: 10px;
-	height: 110px;
+	height: $gutter;
 	@include media($medium) {
 		clear: both;
 		width: 100%;
@@ -500,11 +530,11 @@
 }
 
 .prev {
-	float: left;
+	float: right;
 }
 
 .next {
-	float: right;
+	float: left;
 }
 
 .youtube-lead {

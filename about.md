@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: archive
 permalink: about.html
 title: "About JS-Outdoors"
-published: True
+published: False
 comments: False
 image:
   feature: Jason_Swingen_Fishing.jpg

@@ -15,16 +15,7 @@ Luckily my grandparents have a farm less than 30 miles from Devils Lake, which m
 
 Unfortunately, I have only fished Devils Lake one other time in the past and it was during the summer. It was however some of the best fishing I have ever done. My Great-Uncle Oliver took me and my cousin Michael to a road that was built up that would have been covered in the growing Devils lake waters. There was a strong North wind as we set up on the south side of the road. It was extremely hard to cast into the wind, but it didn't make much of a difference. The white bass were on a feeding frenzy and we would catch a fish with almost every cast. The limit was 32 white bass and just as we were getting ready to leave, I ended up catching my limit, between the three of us we had between 70 and 80 fish for only an hour or two of fishing.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-format="fluid"
-     data-ad-layout="in-article"
-     data-ad-client="ca-pub-2944231685290718"
-     data-ad-slot="3115465782"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{% include inline-ad.html %}
 
 ## Location
 

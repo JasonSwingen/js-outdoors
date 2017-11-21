@@ -28,6 +28,8 @@ We ended up catching around 24 lake trout and one coho. We missed a few fish inc
 
 ![Lake Trout in the Net with a side of Coho](/images/Trolling-for-lake-trout-and-coho_2.jpg)
 
+{% include inline-ad.html %}
+
 ![All Lined Up](/images/Trolling-for-lake-trout-and-coho_3.jpg)
 
 ![Baked Lake Trout and Coho](/images/Trolling-for-lake-trout-and-coho_4.jpg)

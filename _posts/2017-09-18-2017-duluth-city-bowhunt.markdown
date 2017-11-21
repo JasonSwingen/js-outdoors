@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2017 Duluth City Bowhunt"
-modified: 2017-11-16T11:12:27-05:00
+modified: 2017-11-21T11:12:27-05:00
 categories: [hunting]
 tags: [hunting, bow, bowhunting, duluth]
 published: True
@@ -22,11 +22,17 @@ The next day I went out in the morning hoping to see the doe, but again did not 
 
 I turned around and watched a nice 10 point buck standing 20 yards behind me. Exciting right!? Yes, except for the fact that the Duluth City Bowhunt has an earn-a-buck rule that means that you must harvest a doe before you can shoot a buck. So instead of grabbing my bow and hitting the trigger, I grab my phone and hit record.
 
+<div class="video">
+  <div class="video-wrapper">
+      <iframe src="https://www.youtube.com/embed/hJZAk-syfUo?rel=0" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
 He walked right past me at 15 yards then made a rub and bedded down only 30 yards from me. For an hour I watched this buck as if he knew that I wasn't able to take a shot at him. I did gain a huge amount of confidence in my scent control. The wind was directly toward this bedded buck, but he didn't seem spooked in the slightest.
 
 Now that I knew there was a shooter buck in the area I decided to grab my climber and hit a different area to try and get my doe.
 
-Public land whitetail doe down!
+## New Area
 
 After seeing a nice buck this weekend I decided to move to a new area so I didn't risk the chance of bumping him. Threw my climber on my back and walked into the woods. There was not much deer sign, but a few tracks in the mud have me a little motivation. I climbed up a birch tree on a side hill near intersecting trails.
 
@@ -34,8 +40,9 @@ After seeing a nice buck this weekend I decided to move to a new area so I didn'
 
 I watched as my lighted nock flew through the air. I thought a may have shot a little high, but with such a steep angle I new the exit wound would be about perfect.
 
-After waiting 30 minutes I climbed down and Morgan came to help track it. We looked at the arrow and I was a little worried there was not much blood, but I had payed close attention after the shot and thought I heard a crash not too far away.
+After waiting 30 minutes I climbed down and called my wife Morgan help track it. We looked at the arrow and I was a little worried there was not much blood, but I had payed close attention after the shot and thought I heard a crash not too far away.
 
 We started looking for blood drops, and finally found our first drop 15 yards away. I was getting more worried about the lack of blood we were finding, but not long after we found her! Less than 60 yards from my stand.
 
 ![Duluth City Hunt Doe](/images/2017_City_Hunt_Doe.jpg)
+

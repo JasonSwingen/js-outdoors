@@ -40,16 +40,7 @@ $230
 ## Look
 The Concept C as well as all of 13 fishings Concept reels really do look like a concept. There are swooping lines and curves the flow into one another. It looks as if it was designed by someone at Ferrari. It has a great fit and finish, with smooth semi glossy paint. It looks matte in the shade, but shimmers in the sun without being blindingly reflective.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-format="fluid"
-     data-ad-layout="in-article"
-     data-ad-client="ca-pub-2944231685290718"
-     data-ad-slot="3115465782"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{% include inline-ad.html %}
 
 ## Feel
 Extremely low profile that positions the reel nearly right in-line with the rod. The thumb lever is U-shaped and fits your thumb extremely well. There is also a nice rubber pad that gives a nice feel and helps keep your thumb on the lever. The cork grips not only feel great, but really bring the whole package together.

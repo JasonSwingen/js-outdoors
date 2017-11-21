@@ -21,6 +21,8 @@ I am writing this because after moving to Duluth I spent most of my time figurin
 
 So the first thing you need to know is that trout fishing Lake Superior and its tributaries can be as easy or as complicated as you want it to be. You also need to take advantage of opportunities. Throughout the year there will be places you can go to catch these fish, but knowing when to go, where to go, what to use will be the key to getting that tug on the end of your line.
 
+{% include inline-ad.html %}
+
 ## Species of Fish in Lake Superior.
 
 Lake Superior hold a large variety of fish.

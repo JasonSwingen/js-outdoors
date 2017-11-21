@@ -45,6 +45,8 @@ I fished a handful of rivers and ended up finding and catching pinks in each of 
 
 ![Pink Salmon](/images/Pink2.jpg)
 
+{% include inline-ad.html %}
+
 # Late September Update
 
 After a week of rain and taking a break from my the water to sit in my tree stand, I made my way back to the river. It took a little while to find the fish, but once I found them I was catching them one after another. The hens were dropping eggs like crazy so after catching my first fish on a streamer I changed to a small orange egg pattern that matched the eggs.

@@ -6,16 +6,31 @@ image:
 
 <div id="content" class="main">
 
-  <div class="page-lead" style="background-image:url(/images/2017-king-salmon.jpg)">
-      <div class="page-lead-content">
-        <div class="page-lead-title">
-          <!-- <img src="images/JS_OUTDOORS_long_logo.jpg" alt=""> -->
-          <p>Welcome to JS-Outdoors. Hunting and Fishing stories written for and by the Midwestern Outdoorsman. If you have a passion for the outdoors too, then check out some of my most recent adventures below!</p>
-          <a class="btn" target="_blank" href="#instagram">Follow Along</a>
-          <a class="btn btn-accent" href="#posts">View Posts</a>
-        </div>
+<!-- <div class="page-lead" style="background-image:url(/images/2017-king-salmon.jpg)">
+    <div class="page-lead-content">
+      <div class="page-lead-title">
+        <p>Welcome to JS-Outdoors. Hunting and Fishing stories written for and by the Midwestern Outdoorsman. If you have a passion for the outdoors too, then check out some of my most recent adventures below!</p>
+        <a class="btn" target="_blank" href="#instagram">Follow Along</a>
+        <a class="btn btn-accent" href="#posts">View Posts</a>
       </div>
+    </div>
+</div> -->
+
+{% include jumbotron.html %}
+  
+
+<div class="banner">
+  <div class="center">
+    <p>
+      <span>Get notified when I add new articles </span>
+      <span class="buttons">
+        <a class="btn-social instagram" target="_blank" href="https://www.instagram.com/jasonswingen/">Instagram</a>
+        <a class="btn-social twitter" target="_blank" href="https://twitter.com/jasonswingen">Twitter</a>
+      </span>
+    </p>
   </div>
+</div>
+
 
 <div id="main" role="main" id="posts">
 <div class="wrap">
@@ -28,18 +43,34 @@ image:
 </div>
 </div>
 
+
+<div class="center">
+  <p>
+    <span class="buttons">
+      <a class="btn-accent" href="/blog.html">View More</a>
+    </span>
+  </p>
+</div>
+
 <div class="section">
   <div class="wide">
       {% include youtube-grid.html %}
   </div>
 </div>
 
-<div id="instagram" class="">
-  {% include device.html %}
+<div class="banner">
+  <div class="center">
+    <p>
+      <span>Subscribe on </span>
+      <span class="buttons">
+        <a class="btn-social youtube" target="_blank" href="https://www.youtube.com/channel/UCJuAVRLRC6AFV-YqN1a_6EQ">YouTube</a>
+      </span>
+    </p>
+  </div>
 </div>
 
 <div class="section">
-  {% include subscribe.html %}
+   {% include snapwidget.html %}
 </div>
 
 </div>
