@@ -4,7 +4,7 @@ title: "In The News"
 modified:
 categories: [fishing]
 tags: [fishing, shore fishing, lake superior, trout, salmon]
-published: True
+published: False
 comments: True
 ads: True
 excerpt: Jason Swingen of Duluth watches his bobber while fishing for Kamloops rainbow trout and coho salmon Monday morning along the Lake Superior shore near the French River. He caught a coho salmon shortly after this photo was taken.

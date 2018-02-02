@@ -32,6 +32,8 @@ image:
 </div>
 
 
+
+
 <div id="main" role="main" id="posts">
 <div class="wrap">
   <h1><a href="{{ domain }}/blog.html">Recent Posts</a></h1>
