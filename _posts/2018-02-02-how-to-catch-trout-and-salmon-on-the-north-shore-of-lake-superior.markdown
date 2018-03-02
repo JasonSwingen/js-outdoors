@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "How to Catch Trout and Salmon on Lake Superior's North Shore"
-modified:
+title: "Fishing on Lake Superior's North Shore for Trout and Salmon"
+modified: 2018-03-02
 categories: [fishing]
 tags: [fishing, fly-fishing, trout, salmon, shore fishing]
 published: True
 comments: True
-excerpt: The ultimate guide to catching steelhead, Kamloops rainbow trout, coho salmon, lake trout, and more on the north shore of Lake Superior.
+excerpt: The ultimate guide to shore fishing for steelhead, Kamloops rainbow trout, coho salmon, lake trout, and more on the north shore of Lake Superior.
 image:
   feature: Sunrise_in_Looper_Land.jpg
   teaser: Sunrise_in_Looper_Land.jpg
@@ -14,11 +14,9 @@ image:
 date: 2018-02-02T12:03:46-06:00
 ---
 
-Minnesota is full of lakes, rivers, and streams that provide us with a large variety of fishing opportunities. The most sought-after fish for most Minnesota anglers is most likely the walleye, crappies, or bass. Many anglers take long trips to Red, Mille Lacs, Lake of the Woods, Leech Lake, and many other popular lakes looking for fish, but many overlook Lake Superior as a great fishing destination.
+The ultimate guide fishing Lake Superior's North Shore for steelhead, Kamloops rainbow trout, coho salmon, lake trout, and more.
 
-I am writing this because after moving to Duluth I spent most of my time figuring out how to catch these common fish species thinking that without taking a boat out on Lake Superior I wouldn't have an opportunity to catch any of the fish that inhabited the big lake.
-
-This article is mainly targeted toward the beginner but has some great tips any shore angler can use. I will break down nearly everything you need to know to get started, including equipment, flies, tackle, where to fish, when to go, and other techniques that help you catch more fish. So, if you want to catch a fish on the north shore of Lake Superior. Well, then you have come to the right place. 
+This article is mainly targeted toward the beginner fisherman but has some great tips any shore angler can use. I will break down nearly everything you need to know to get started, including biology, regulations, fishing equipment, flies, tackle, where to fish, when to go, and other techniques that help you catch more fish on the north shore of Lake Superior.
 
 <figure>
   <img title="Trevor Rodd fishing Lake Superior" src="/images/shorefishing.jpg">
@@ -30,13 +28,6 @@ The best advice I can give you is to get out and put your time in. Try different
 ## Species of Fish in Lake Superior
 
 There is a large variety of fish in Lake superior that are catchable from shore. The most popular fish targeted by shore fishermen are Kamloops rainbow trout (looper), and coho salmon. There are also good opportunities to catch steelhead, lake trout, pink salmon, and even lake whitefish. Occasionally brook trout, king salmon, and Atlantic salmon, as well as walleye, and pike can be found as well.
-
-<figure>
-  <img title="My first Steelhead" src="/images/Superior_Rainbow_Trout.jpeg">
-  <figcaption>Lake Superior Steelhead</figcaption>
-</figure>
-
-<blockquote>Catching a trout or salmon from shore, especially Lake Superior's shore, is one of those experiences that I believe every fisherman should have.</blockquote>
 
 ## Know the Regulations
 
@@ -51,19 +42,39 @@ This article would be way too long and boring to read if I included all the regu
     <li>If you are going to keep fish, know the <a target="_blank" href="http://www.dnr.state.mn.us/fishmn/regs.html">current fishing regulations</a> for size and quantity. <i>Below are the current limits for 2017, you must check the current fishing regulations for updated limits.</i></li>
         <ul>
             <li>Kamloops Rainbow trout - 3 with a minimum size limit of 16". Total allowed number of brook trout, splake, brown trout and rainbow trout is 5.</li>
-            <li>Lake Trout - 3</li>
+            <li>Lake Trout - 3 (season typically ends in October)</li>
             <li>Salmon (Chinook, Coho, Pink, Atlantic) - 5 combined (only one can be Atlantic salmon). Minimum size 10".</li>
 
         </ul>
 </ul>
 
+
 ### Steelhead vs Kamloops
 
 If you want to learn more about the difference between Kamloops rainbow trout and "wild" steelhead as well as some of the history, you should read this great article by local fisherman Leif Birnbaum - <a target="_blank" href="https://www.bigkype.com/2012/04/the-stocked-rainbow-trout-in-minnesota-waters-of-lake-superior/">The Stocked Rainbow Trout In Minnesota Waters Of Lake Superior</a>
 
+<figure>
+  <img title="My first Steelhead" src="/images/Superior_Rainbow_Trout.jpeg">
+  <figcaption>Lake Superior Steelhead (notice the intact adipose fin next to my right thumb, indicating a steelhead that must be released)</figcaption>
+</figure>
+
 #### Interbreeding Between Steelhead and Kamloops rainbow trout.
 
-The MN DNR has been conducting a study on the hybridization between steelhead and Kamloops rainbow trout for years trying to determine if these two species of rainbow trout are interbreeding. It has recently been found to be true and because the offspring of these hybrid fish are found not to survive as well as the pure steelhead strain of rainbow trout, the French River Hatchery that has been stocking Kamloops into Lake Superior will be closing. If you would like to learn more, there are many great articles about the <a target="_target" href="http://www.minnesotasteelheader.com/SGP.html">Steelhead Genetics Project</a>, the <a target="_blank" href="http://www.duluthnewstribune.com/sports/outdoors/4243375-study-steelhead-kamloops-rainbows-interbreeding-north-shore">Interbreeding of steelhead and Kamloops</a>, as well as the <a target="_blank" href="http://www.minnesotasteelheader.com/SGP/Final_updated%20Fact%20Sheet%20Steelhead%20Genetics%20Project.pdf">MNDNR Rainbow Trout Genetics and Future Management Plan (pdf)</a> and <a target="_target" href="http://www.kamloopsadvocates.org/uploads/1/6/4/0/16405852/lake_superior_advisory_group_steelhead_genetics_project_year_1__update.pdf">Steelhead Genetics Project: Year-1 Update (pdf)</a>.  
+The MN DNR has been conducting a study on the hybridization between steelhead and Kamloops rainbow trout for years trying to determine if these two species of rainbow trout are interbreeding. It has recently been found to be true and because the offspring of these hybrid fish are found not to survive as well as the pure steelhead strain of rainbow trout, the French River Hatchery that has been stocking Kamloops into Lake Superior will be closing. If you would like to learn more, there are many great articles about the <a target="_target" href="http://www.minnesotasteelheader.com/SGP.html">Steelhead Genetics Project</a>, the <a target="_blank" href="http://www.duluthnewstribune.com/sports/outdoors/4243375-study-steelhead-kamloops-rainbows-interbreeding-north-shore">Interbreeding of steelhead and Kamloops</a>, as well as the <a target="_blank" href="http://www.minnesotasteelheader.com/SGP/Final_updated%20Fact%20Sheet%20Steelhead%20Genetics%20Project.pdf">MNDNR Rainbow Trout Genetics and Future Management Plan (pdf)</a> and <a target="_target" href="http://www.kamloopsadvocates.org/uploads/1/6/4/0/16405852/lake_superior_advisory_group_steelhead_genetics_project_year_1__update.pdf">Steelhead Genetics Project: Year-1 Update (pdf)</a>.
+
+##### MNDNR Stocking [Updated Spring 2018]
+
+During the March 2018 <a target="_blank" href="http://mntu.org/gitche-gumee/">Gitche Gumee</a> Trout Unlimited meeting we had speakers talk from the MN DNR and WI DNR talk about fisheries management issues. One of the speakers was Nick Peterson, a Fisheries Specialist with the MN DNR and coordinator of the Steelhead genetics project. He explained that because of the hybridization of Kamloops rainbow trout and steelhead it would be "irresponsible to continue the Kamloops project".
+
+The DNR had proposed 4 possibilities (listed below) for stocking and asked 10 local organizations for their input.
+
+
+* **No Change in Management** (continue stocking Kamloops)
+* **Wait-and-See** (cease stocking Kamloops and evaluate natural reproduction and recruitment of steelhead)
+* **Limited Wild Steelhead Harvest** (cease stocking Kamloops, but continue steelhead fry stocking, open a limited harvest of wild steelhead)
+* **Alternative Hatchery Product for Harvest** (cease stocking Kamloops and steelhead fry, but stock genetically-screened, adipose-clipped pre-smolt steelhead stocked for harvest)
+
+The most likely outcome will be the fourth option, or an **alternative hatchery product for harvest**, which means the DNR will cease stocking Kamloops and replacing them with a new broodstock at the Crystal Springs hatchery. They would be stocking 100,00 pre-smolt steelhead in the Lester and French Rivers beginning in April of 2018. These fish would be clipped in the same fashion as Kamloops are currently clipped (adipose fin clip) in order to reduce confusion on harvesting. These new "clipped steelhead" would allow anglers to keep fish without hurting the current wild steelhead population.
 
 ## Equipment
 
@@ -119,7 +130,7 @@ Looper Bugs are a great fly to use when fishing for Coho Salmon and Kamloops (lo
 
 If you don't tie your own flies don't worry these bugs can be found in most of the local shops in Duluth including <a target="_blank" href="http://fishermanscorner.net/">Fisherman's Corner</a>, and <a target="_blank" href="http://www.marinegeneral.com/">Marine General</a>
 
-<blockquote>Loopers will often take a bare bug, but if you are trying to catch coho it is best to tip your hook with some meat. Like a waxworm or butterworm.</blockquote>
+<blockquote>Loopers will often take a plain looper bug, but if you are trying to catch coho it is best to tip your hook with some meat. Like a waxworm or butterworm.</blockquote>
 
 &nbsp;
 
