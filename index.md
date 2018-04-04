@@ -19,7 +19,7 @@ image:
 {% include jumbotron.html %}
   
 
-<div class="banner">
+<!-- <div class="banner">
   <div class="center">
     <p>
       <span>Get notified when I add new articles </span>
@@ -29,30 +29,32 @@ image:
       </span>
     </p>
   </div>
-</div>
+</div> -->
 
 
 
 
-<div id="main" role="main" id="posts">
-<div class="wrap">
-  <h1><a href="{{ domain }}/blog.html">Recent Posts</a></h1>
-    <div class="tiles">
-      {% for post in site.posts limit:12 %}
-          {% include post-grid.html %}
-      {% endfor %}
-    </div>
-</div>
-</div>
-
-
+<div class="section">
+  <div id="main" role="main" id="posts">
+  <div class="wrap">
+  <!--   <h1><a href="{{ domain }}/blog.html">Recent Posts</a></h1> -->
+      <div class="tiles">
+        {% for post in site.posts limit:12 %}
+            {% include post-grid.html %}
+        {% endfor %}
+      </div>
+  </div>
+  </div>
 <div class="center">
   <p>
-    <span class="buttons">
-      <a class="btn-accent" href="/blog.html">View More</a>
+    <span class="">
+      <a class="btn btn-accent" href="/blog.html">Read More</a>
     </span>
   </p>
 </div>
+</div>
+
+
 
 <div class="section">
   <div class="wide">
@@ -73,6 +75,17 @@ image:
 
 <div class="section">
    {% include snapwidget.html %}
+</div>
+
+<div class="banner">
+  <div class="center">
+    <p>
+      <span>Follow on </span>
+      <span class="">
+        <a class="btn-social instagram" target="_blank" href="https://www.instagram.com/jasonswingen/">Instagram</a>
+      </span>
+    </p>
+  </div>
 </div>
 
 </div>
