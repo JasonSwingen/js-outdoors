@@ -3,7 +3,7 @@ layout: post
 title: "What Knot To Know: The Fishing Knot Guide"
 modified:
 categories: [fishing]
-tags: [tips, fishing, ice-fishing, fly-fishing, tips]
+tags: [tips, fishing, ice-fishing, fly-fishing]
 published: True
 comments: True
 ads: True
