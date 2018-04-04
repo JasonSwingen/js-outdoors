@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fishing on Lake Superior's North Shore for Trout and Salmon"
-modified: 2018-03-02
+modified: 2018-03-13
 categories: [fishing]
 tags: [fishing, fly-fishing, trout, salmon, shore fishing]
 published: True
@@ -63,6 +63,7 @@ If you want to learn more about the difference between Kamloops rainbow trout an
 The MN DNR has been conducting a study on the hybridization between steelhead and Kamloops rainbow trout for years trying to determine if these two species of rainbow trout are interbreeding. It has recently been found to be true and because the offspring of these hybrid fish are found not to survive as well as the pure steelhead strain of rainbow trout, the French River Hatchery that has been stocking Kamloops into Lake Superior will be closing. If you would like to learn more, there are many great articles about the <a target="_target" href="http://www.minnesotasteelheader.com/SGP.html">Steelhead Genetics Project</a>, the <a target="_blank" href="http://www.duluthnewstribune.com/sports/outdoors/4243375-study-steelhead-kamloops-rainbows-interbreeding-north-shore">Interbreeding of steelhead and Kamloops</a>, as well as the <a target="_blank" href="http://www.minnesotasteelheader.com/SGP/Final_updated%20Fact%20Sheet%20Steelhead%20Genetics%20Project.pdf">MNDNR Rainbow Trout Genetics and Future Management Plan (pdf)</a> and <a target="_target" href="http://www.kamloopsadvocates.org/uploads/1/6/4/0/16405852/lake_superior_advisory_group_steelhead_genetics_project_year_1__update.pdf">Steelhead Genetics Project: Year-1 Update (pdf)</a>.
 
 ##### MNDNR Stocking [Updated Spring 2018]
+
 
 During the March 2018 <a target="_blank" href="http://mntu.org/gitche-gumee/">Gitche Gumee</a> Trout Unlimited meeting we had speakers talk from the MN DNR and WI DNR talk about fisheries management issues. One of the speakers was Nick Peterson, a Fisheries Specialist with the MN DNR and coordinator of the Steelhead genetics project. He explained that because of the hybridization of Kamloops rainbow trout and steelhead it would be "irresponsible to continue the Kamloops project".
 
@@ -221,8 +222,10 @@ Here is a list of other items that may be helpful when fishing the north shore.
 If you can get down to the shore and it is public water, throw a line in! There are opportunities to fish all the way from the Canal Park lighthouse all the way up the shore into Canada. Some of the best areas to fish are in close proximity to river mouths. Many fishermen prefer to fish at the French river, but there can be equal or better fishing at many other areas up and down the shore. Especially with the recent closing of the French River Hatchery.
 
 ## When to Go
+<a href="http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KMNDULUT74"><img class="image-right" src="http://banners.wunderground.com/cgi-bin/banner/ban/wxBanner?bannertype=pws250&weatherstationcount=KMNDULUT74" width="250" height="150" border="0" alt="Weather Underground PWS KMNDULUT74" /></a>
+The summer is the only season that you won't be able to find fish with regularity. The lake can change conditions quickly. Going from crystal clear to muddy, dead calm to crushing waves. Keep an eye on the wind speed and direction. If the wind has been blowing hard the waves can make it difficult to drift a bobber or bottom rig. Dead calm can make for unnatural presentations and in the winter months a lack of wind can cause the shore to freeze over making fishing from shore a frustrating task.
 
-There aren't many times when you can't catch fish on the north shore. Although there are a few times of the year that can be better than others.
+If you have good enough cold weather gear and can keep the ice off your guides long enough to make long casts then you can get into fish without getting into the crowds.
 
 ### Fall
 
