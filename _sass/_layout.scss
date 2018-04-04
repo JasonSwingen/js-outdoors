@@ -230,17 +230,21 @@
 	// 	height: 400px;
 	// 	background-attachment: fixed;
 	// }
-	@include media($medium) {
-		height: 600px;
-		background-attachment: fixed;
-	}
-	background-position: center;
+	background-position: top;
 	background-repeat: no-repeat;
 	text-align: center;
 	color: $white;
 	background-size: cover;
-	height: 350px;
+	height: 400px;
 	box-shadow: inset 1px 1px 36px -9px #000;
+	@include media($medium) {
+		height: 500px;
+		background-attachment: fixed;
+	}
+	@include media($large) {
+		height: 700px;
+		background-attachment: fixed;
+	}
 }
 .blur-image {
 	filter: blur(5px);
@@ -255,8 +259,8 @@
 	@include media($large) {
 		padding: 3em;
 	}
-	h2 {
-
+	h1 {
+		text-shadow: 1px 2px 5px rgba(0,0,0,0.5);
 		@include media($medium) {
 			// padding-top: 70px;
 			font-size: 2em;
