@@ -12,8 +12,9 @@ layout: default
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
 
 
-		<div class="centerpost .slide-up-fade-in">
+		<div class="centerpage">
 			<div id="content" class="page-content" itemprop="articleBody">
+
 				{{ content }}
 				&nbsp;
 				<footer class="page-footer">
@@ -29,8 +30,5 @@ layout: default
 				</aside>
 
 		</div><!-- /.inner-wrap -->
-			{% include sidebar.html %}
-
-			{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
 	</article><!-- ./wrap -->
 </div><!-- /#main -->

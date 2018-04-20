@@ -1,5 +1,21 @@
 <div class="rightsidebar">
-	
+	&nbsp;
+
+	<div class="page-meta">Written by <a href="#author">Jason Swingen</a></div>
+		{% include page-meta.html %}
+		{% include breadcrumbs.html %}
+
+	<h3>Tags</h3>
+	<div class="page-tag">
+	  {% for tag in page.tags %}
+	    <span>
+	        <a href="{{site.baseurl}}/tags#{{tag}}" class="btn-social tag">{{ tag }}</a>
+	    </span>
+	  {% endfor %}
+		<a class="btn-social tag" href="{{site.baseurl}}/tags">view all tags</a>
+	</div>
+
+	<h3>Share</h3>
 	<div class="inline-btn">
 		<a class="btn-social twitter" href="https://twitter.com/intent/tweet?text={{ page.title | escape | replace:' ','%20' }}&amp;&url=http:%2F%2Fwww.js-outdoors.com{{ page.url }}&amp;via={{ site.owner.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> {{ site.data.messages.locales[site.locale].share }} Twitter</a>
 		<a class="btn-social facebook" href="https://www.facebook.com/sharer/sharer.php?u=http:%2F%2Fwww.js-outdoors.com" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> {{ site.data.messages.locales[site.locale].share }} Facebook<meta property="og:image" content="http://www.js-outdoors.com/images/JS_OUTDOORS_logo.jpg" /></a>
@@ -7,20 +23,16 @@
 	</div><!-- /.share-this -->
 
 	<h3>Recent Articles</h3>
-	<ul class="page-tag">
-	{% for post in site.posts limit:10 %}
-		<li class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-	{% endfor %}
-	</ul>
 
-	<h3>Tags</h3>
+	{% for post in site.posts limit:5 %}
+	<a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
+    {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">
+    {% endif %}</a>
+	<p class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></p>
+  	{% endfor %}
 
-	<ul class="page-tag">
-	  {% for tag in page.tags %}
-	    <li>
-	        <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">{{ tag }}</a>
-	    </li>
-	  {% endfor %}
-	</ul>
+
+
+
 
 </div>

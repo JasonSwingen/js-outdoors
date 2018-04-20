@@ -2,17 +2,27 @@
 layout: default
 ---
 
-<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
-    <div class="wrap page-lead-content">
-        <h1>{{ page.title }}</h1>
-    </div>
-</div>
-
 <div id="main" role="main">
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
+		{% if page.image.feature %}
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+				{% if page.image.credit %}
+				{% include image-credit.html %}
+				{% endif %}
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		{% endif %}
 
+		{% include page-navigation.html %}
 
-		<div class="centerpost .slide-up-fade-in">
+		{% include breadcrumbs.html %}
+		<div class="page-title">
+			<h1>{{ page.title }}</h1>
+		</div>
+
+		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
 				&nbsp;
@@ -26,11 +36,15 @@ layout: default
 					{% include comments.html %}
 				{% endif %}
 				{% include related-posts.html %}
+				{% include subscribe.html %}
 				</aside>
 
-		</div><!-- /.inner-wrap -->
+			</div><!-- /.content -->
 			{% include sidebar.html %}
 
 			{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
+
+		</div><!-- /.inner-wrap -->
+
 	</article><!-- ./wrap -->
 </div><!-- /#main -->

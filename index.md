@@ -36,22 +36,22 @@ image:
 
 <div class="section">
   <div id="main" role="main" id="posts">
-  <div class="wrap">
+  <div class="wrap centerpage">
   <!--   <h1><a href="{{ domain }}/blog.html">Recent Posts</a></h1> -->
       <div class="tiles">
-        {% for post in site.posts limit:12 %}
+        {% for post in site.posts limit:16 %}
             {% include post-grid.html %}
         {% endfor %}
       </div>
   </div>
   </div>
+</div>
 <div class="center">
   <p>
     <span class="">
-      <a class="btn btn-accent" href="/blog.html">Read More</a>
+      <a class="btn btn-accent" href="/blog.html">View More Posts</a>
     </span>
   </p>
-</div>
 </div>
 
 
