@@ -10,7 +10,10 @@ body {
 	font-family: $base-font;
 	color: $text-color;
 	@include font-size(16);
-	background: linear-gradient(to bottom, white, white, white, white, white, white, white, $accent-color);
+	background: linear-gradient(to bottom, white, white, white, white, white, white, white, white, white, white, #808080);
+	@include media($large) {
+		background: linear-gradient(to bottom, #fff, #f3f3f3, #f3f3f3, #f3f3f3, #f3f3f3, #f3f3f3, #cecece, #808080);
+	}
 }
 
 p {

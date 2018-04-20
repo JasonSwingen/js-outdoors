@@ -261,17 +261,21 @@
 	}
 	h1 {
 		text-shadow: 1px 2px 5px rgba(0,0,0,0.5);
+		text-align: center;
+		@include media($micro) {
+			// padding-top: 70px;
+			font-size: 1.8em;
+			// width: 521px;
+		}
 		@include media($medium) {
 			// padding-top: 70px;
 			font-size: 2em;
-			width: 521px;
-			text-align: left;
+			// width: 521px;
 		}
 		@include media($large) {
 			// padding-top: 70px;
-			font-size: 2.7em;
-			width: 600px;
-			text-align: left;
+			font-size: 3.7em;
+			// width: 600px;
 		}
 	}
 	.page-lead-title {
@@ -283,25 +287,28 @@
 			max-width: 600px;
 			padding: 26px;
 		}
-		opacity: 0.8;
-		padding-left: 1.5em;
+		// opacity: 0.8;
+		// padding-left: 1.5em;
 		position: relative;
-		background-color: #fff;
-		color: #000;
-		box-shadow: 16px 16px 65px -33px #000;
-	    left: -48px;
-	    max-width: 400px;
-	    padding: 6px 30px;
-	    top: 20px;
-		font-size: 1.4em;
+		// background-color: #fff;
+		// color: #000;
+		// box-shadow: 16px 16px 65px -33px #000;
+	    // left: -48px;
+	    // max-width: 400px;
+	    // padding: 6px 30px;
+	    top: 4px;
+		// font-size: 1.4em;
     // transform: skewY(3deg);
 		h1 {
 			opacity: 1;
-		    padding: 0px 20px;
+		    // padding: 0px 20px;
 			text-decoration: none !important;
 			@include font-size(24);
 			line-height: 1.4;
 			// text-shadow: 0px 2px 3px #000;
+			@include media($small) {
+				@include font-size(28);
+			}
 			@include media($medium) {
 				@include font-size(38);
 			}
@@ -428,6 +435,32 @@
 	}
 }
 
+.centerpost {
+	@include media($large) {
+	    background: #fff;
+	    margin-top: -100px;
+	    padding: 30px;
+	    border-radius: 4px;
+	    box-shadow: 0px 0px 50px -10px rgba(0,0,0,0.3);
+	    float: left;
+	    width: 75%;
+		.breadcrumbs {
+			margin-top: 0px;
+			padding-top: 0px;
+		}
+	}
+}
+
+.centerpage {
+	@include media($large) {
+	    background: #fff;
+	    margin-top: -166px;
+	    padding: 30px;
+	    border-radius: 4px;
+	    box-shadow: 0px 0px 50px -10px rgba(0,0,0,0.3);
+	}
+}
+
 .snapwidget-widget {
 	// max-width: 40%;
   // position: absolute;
@@ -440,7 +473,7 @@
 
 .banner {
 	margin-top: 3em;
-	border-bottom: 1px solid $body-color;
+	// border-bottom: 1px solid $body-color;
 	font-family: sans-serif;
 	.buttons {
 		@include media($small) {
@@ -506,11 +539,20 @@
 
 .rightsidebar {
 	display: none;
-	@include media($medium) {
+	@include media($large) {
 		display: inline;
 		float: right;
 		width: 23%;
 	}
+}
+
+.page-meta {
+	color: gray;
+    font-size: 0.8em;
+}
+
+.tag {
+	font-size: 0.7em;
 }
 
 .PageNavigation {
