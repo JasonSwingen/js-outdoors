@@ -44,7 +44,7 @@ If you are stubborn and only want to learn one knot and use if for every applica
 <h3 id="{{ link.Name }}"> {{ link.Name }} Knot </h3>
 
 {% if link.Application %}
-<h5>Applictions</h5>
+<h5>Applications</h5>
 <p>This knot if used to connect your <strong>{{ link.Application }}</strong>.</p>
 {% endif %}
 

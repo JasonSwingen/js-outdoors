@@ -2,9 +2,9 @@
 layout: post
 title: Rainbow Trout Fishing on Lake Superior
 categories: [fishing]
-tags: [kamloops, north shore, fishing, steelhead, trout, rainbow trout]
+tags: [fishing, steelhead, trout]
 published: True
-ads: True
+ads: False
 image:
     teaser: Superior_Rainbow_Trout.jpeg
     feature: Superior_Rainbow_Trout.jpeg
@@ -30,8 +30,6 @@ We were planning on heading up the north shore and fishing the mouth of the rive
 Thinking that we figured out what we were doing we headed up the shore to see what the other rivers could produce...
 
 After fishing three different river mouths and talking with a few knowledgeable fisherman we decided to head back to town stock up on a few new lures at [Marine General](http://www.marinegeneral.com/). A few handfuls of casting spoons later (Krocodiles and lil Cleos) we were on our way back up the shore.
-
-{% include inline-ad.html %}
 
 We stopped at the mouth of Stewart River to try out our new spoons. I tied on my 2/5oz gold and orange Lil Cleo and cast as far out as I could. I started reeling in and almost had the rod ripped from my hands. I yelled to Ben and Shane and as soon as I did the trout jumped out of the water. After fighting for a while I finally got her to shore. I had caught my very first steelhead.
 
