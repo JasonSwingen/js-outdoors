@@ -88,9 +88,9 @@ Just like bass fishing, there are different types of rods that work better for d
 
 <blockquote>If I had one shore rod that I could use for any type of fishing it would be a medium power, moderate fast action, 10 to 12-foot rod.</blockquote>
 
-You can get cheap rods that will work fine, although you should make sure that any rod you buy has regular/large guides. Most of the shore fishing opportunities occur when the temperatures are near or below zero. If you guides are too small ice build-up on your line and guides will cause your fishing line to stick and possibly break.
+<img class="image-right" src="/images/fenwick_hmx_salmon_steelhead.jpg" alt="Fenwick HMX Salmon/Steelhead Rod">
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01IDEO7KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IDEO7KI&linkCode=as2&tag=jsoutdoors-20&linkId=47b460acaefe2709fc7b4a658d960ec7"><img class="image-right" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01IDEO7KI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=jsoutdoors-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=jsoutdoors-20&l=am2&o=1&a=B01IDEO7KI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important; " />
+You can get cheap rods that will work fine, although you should make sure that any rod you buy has regular/large guides. Most of the shore fishing opportunities occur when the temperatures are near or below zero. If you guides are too small ice build-up on your line and guides will cause your fishing line to stick and possibly break.
 
 Another option shore rods have it grip design. This isn't a huge factor, but typically if you spend more time casting it is better to have a rod with a longer rear grip and short foregrip. If you spend more time bobber fishing you will want a rod with a longer foregrip. This will allow you to balance the rod horizontally so you are able to make a quick hookset when your bobber goes down.
 
@@ -100,7 +100,7 @@ There are many great shore rods built by <a target="_blank" href="http://amzn.to
 
 ## Reels
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00LDYJN3C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LDYJN3C&linkCode=as2&tag=jsoutdoors-20&linkId=c0c9a4e1b0ed6e52c4118962bb0d70cc"><img class="image-right" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LDYJN3C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=jsoutdoors-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=jsoutdoors-20&l=am2&o=1&a=B00LDYJN3C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<img class="image-right" src="/images/daiwa_exceler.jpg" alt="Daiwa Exceler EXE Spinning Fishing Reel">
 
 Reels with a big arbor, a large amount of line capacity, and a smooth drag work the best for fishing. You can get away with any 200 size spinning reel, but the larger 300 to 400 sizes are ideal. Typically larger reels are cheaper and have a better drag, so you can typically find inexpensive reels that are very high in quality for as low as $30. Like the <a target="_blank" href="http://amzn.to/2E1t468">Shimano Sienna</a>. I am currently using a <a target="_blank" href="http://amzn.to/2EqLhIc">Daiwa Exceler 3500H</a> and it has never let me down.
 
