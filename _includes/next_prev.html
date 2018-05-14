@@ -1,0 +1,28 @@
+<div class="tiles wrap">
+
+  {% if page.previous.url %}
+    <a href="{{page.previous.url}}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.url }}/images/{{page.previous.url}}" alt="teaser" itemprop="image">
+          {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}</a>
+          <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+  {% else %}
+    <a class="next"></a>
+  {% endif %}
+
+  {% if page.next.url %}
+    <a href="{{page.next.url}}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.url }}/images/{{page.next.url}}" alt="teaser" itemprop="image">
+          {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}</a>
+          <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+  {% else %}
+    <a class="prev"></a>
+  {% endif %}
+
+</div>
+
+<div class="">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</div>
