@@ -4,7 +4,7 @@
 
 .breadcrumbs {
   @include row;
-  margin-top: $gutter;
+  // margin-top: $gutter;
   padding-top: $gutter;
   clear: both;
   @include font-size(10,no);

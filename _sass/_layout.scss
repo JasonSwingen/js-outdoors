@@ -543,6 +543,18 @@
 		display: inline;
 		float: right;
 		width: 23%;
+		position: sticky;
+		top: -50px;
+	}
+	.sidebar-text {
+		a {
+			color: #fff;
+		    position: absolute;
+		    margin-top: -157px;
+		    margin-left: 5px;
+		    text-shadow: 1px 1px 10px black;
+		    text-decoration: none;
+		}
 	}
 }
 
