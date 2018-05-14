@@ -12,25 +12,31 @@ layout: default
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
 
 
-		<div class="centerpost .slide-up-fade-in">
+		<div class="centerpost">
 			<div id="content" class="page-content" itemprop="articleBody">
+
+	{% include breadcrumbs.html %}
+	<div class="page-meta">Written by <a href="#author">Jason Swingen</a>, {% include page-meta.html %}</div>
+
 				{{ content }}
 				&nbsp;
 				<footer class="page-footer">
-					{% if page.share != false %}{% include share-this.html %}{% endif %}
-					{% if page.categories %}{% include page-author.html %}{% endif %}
-					{% include page-meta.html %}
-				</footer><!-- /.footer -->
-				<aside>
-				{% if page.comments == true %}
-					{% include comments.html %}
-				{% endif %}
-				{% include related-posts.html %}
-				</aside>
 
-		</div><!-- /.inner-wrap -->
+						<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FJasonSwingenOutdoors%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+
+					<div class="section">{% if page.categories %}{% include page-author.html %}{% endif %}</div>
+
+					<div class="section">{% include page-meta.html %}</div>
+					<aside class="section">
+					{% if page.comments == true %}
+						{% include comments.html %}
+					{% endif %}
+					{% include related-posts.html %}
+					</aside>
+				</footer><!-- /.footer -->
+			</div><!-- /.inner-wrap -->
 			{% include sidebar.html %}
 
-			{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
 	</article><!-- ./wrap -->
 </div><!-- /#main -->

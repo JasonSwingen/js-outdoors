@@ -12,9 +12,11 @@ layout: default
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
 
 
-		<div class="centerpage">
-			<div id="content" class="page-content" itemprop="articleBody">
 
+		<div class="centerpage">
+
+			<div id="content" class="page-content" itemprop="articleBody">
+				{% include breadcrumbs.html %}
 				{{ content }}
 				&nbsp;
 				<footer class="page-footer">
@@ -26,9 +28,18 @@ layout: default
 				{% if page.comments == true %}
 					{% include comments.html %}
 				{% endif %}
+				<h3>Tags</h3>
+					<div class="page-tag">
+					  {% for tag in page.tags %}
+					    <span>
+					        <a href="{{site.baseurl}}/tags#{{tag}}" class="btn-social tag">{{ tag }}</a>
+					    </span>
+					  {% endfor %}
+						<a class="btn-social tag" href="{{site.baseurl}}/tags">view all tags</a>
+					</div>
 				{% include related-posts.html %}
 				</aside>
-
+			</div>
 		</div><!-- /.inner-wrap -->
 	</article><!-- ./wrap -->
 </div><!-- /#main -->
