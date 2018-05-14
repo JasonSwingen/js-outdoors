@@ -1,13 +1,17 @@
 ---
 layout: post
 title: Rainbow Trout Fishing on Lake Superior
+modified:
 categories: [fishing]
 tags: [fishing, steelhead, trout]
 published: True
+comments: True
+excerpt: 
 ads: False
 image:
-    teaser: Superior_Rainbow_Trout.jpeg
     feature: Superior_Rainbow_Trout.jpeg
+    teaser: Superior_Rainbow_Trout.jpeg
+    thumb: Superior_Rainbow_Trout.jpeg
 ---
 
 My friends Ben and Shane drove up from near the Cities to hit up the shore and see what we could catch.
@@ -33,14 +37,13 @@ After fishing three different river mouths and talking with a few knowledgeable 
 
 We stopped at the mouth of Stewart River to try out our new spoons. I tied on my 2/5oz gold and orange Lil Cleo and cast as far out as I could. I started reeling in and almost had the rod ripped from my hands. I yelled to Ben and Shane and as soon as I did the trout jumped out of the water. After fighting for a while I finally got her to shore. I had caught my very first steelhead.
 
-<figure class="half">
+<figure>
   <img title="Jason's Steelhead Rainbow Trout" src="/images/Superior_Rainbow_Trout.jpeg">
-  <img title="Jason's Steelhead Rainbow Trout" src="/images/Superior_Rainbow_Trout2.jpeg">
   <figcaption>My first Steelhead Rainbow Trout</figcaption>
 </figure>
 
 It was a cold and windy day out on the lake. I was the only person fishing the mouth of the French river. The wind made it extremely hard to cast, but I assumed the waves would help wash any bait-fish in closer to shore.
 
-After dozens and dozens of casts I finally hooked up with a nice Lake Superior lake trout.
-
 ![Jason's Lake Trout](/images/North_Shore_Lake_Trout.jpg)
+
+After dozens and dozens of casts I finally hooked up with a nice Lake Superior lake trout.

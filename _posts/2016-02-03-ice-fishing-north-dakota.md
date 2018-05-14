@@ -4,6 +4,7 @@ title: Ice Fishing North Dakota
 categories: [fishing]
 tags: [fishing, ice fishing, north dakota]
 published: True
+comments: True
 ads: True
 image:
     teaser: 2015-Jumbo_Perch.jpg

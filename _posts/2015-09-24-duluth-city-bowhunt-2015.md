@@ -4,6 +4,7 @@ title: 2015 Duluth City Bowhunt
 categories: [hunting]
 tags: [hunting, bow, bowhunting, duluth]
 published: True
+comments: True
 ads: True
 image:
     teaser: 2015-Treestand-1.jpg
