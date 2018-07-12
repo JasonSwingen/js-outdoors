@@ -3,7 +3,7 @@ layout: post
 title: 2014 Montana Mule Deer Hunt
 published: True
 categories: [hunting]
-tags: [mule deer, montana, hunting]
+tags: [hunting, mule deer, montana]
 comments: True
 ads: True
 image:

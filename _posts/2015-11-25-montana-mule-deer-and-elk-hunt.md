@@ -2,7 +2,7 @@
 layout: post
 title: MT Mule Deer and Elk Hunt
 categories: [hunting]
-tags: [mule deer, montana, hunting]
+tags: [hunting, mule deer, montana]
 published: True
 comments: True
 ads: True
