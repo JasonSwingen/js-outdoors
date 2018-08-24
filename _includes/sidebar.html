@@ -1,9 +1,9 @@
-<div class="rightsidebar">
+<div class="rightsidebar animate fadeInLeft delay">
 	&nbsp;
 
 		<h3>Share</h3>
 		{% include share-this.html %}
-		
+
 		<h3>Follow</h3>
 		<div class="inline-btn">
 			<a class="btn-social instagram" href="https://www.instagram.com/jasonswingen/" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> Follow on Instagram</a>
@@ -12,7 +12,7 @@
 			<!-- <a class="btn-social twitter" href="https://twitter.com/jasonswingen" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Follow on Twitter</a>
 			<a class="btn-social google-plus" href="https://plus.google.com/+JasonSwingen" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i> Follow on Google+</a> -->
 		</div><!-- /.share-this -->
-		
+
 		<h3>Keep Reading</h3>
 		<div class="page-tag">
 		  {% for post in site.posts limit:3 %}
@@ -32,7 +32,7 @@
 		  {% endfor %}
 			<a class="btn-social tag" href="{{site.baseurl}}/tags">view all tags</a>
 		</div>
-		
+
 		<!-- <h3>Recent Articles</h3>
 		{% for post in site.posts limit:5 %}
 		<a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">

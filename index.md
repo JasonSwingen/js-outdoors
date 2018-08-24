@@ -17,7 +17,7 @@ image:
 </div> -->
 
 {% include jumbotron.html %}
-  
+
 
 <!-- <div class="banner">
   <div class="center">
@@ -36,7 +36,7 @@ image:
 
 <div class="section">
   <div id="main" role="main" id="posts">
-  <div class="wrap centerpage">
+  <div class="wrap centerpage animate fadeInUp">
   <!--   <h1><a href="{{ domain }}/blog.html">Recent Posts</a></h1> -->
       <div class="tiles">
         {% for post in site.posts limit:16 %}

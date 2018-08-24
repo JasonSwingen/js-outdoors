@@ -12,7 +12,7 @@ layout: default
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
 
 
-		<div class="centerpost">
+		<div class="centerpost animate fadeInUp">
 			<div id="content" class="page-content" itemprop="articleBody">
 
 	{% include breadcrumbs.html %}
@@ -21,22 +21,25 @@ layout: default
 				{{ content }}
 				&nbsp;
 				<footer class="page-footer">
-					
+
 					<aside class="section">
 
 					<div class="section">{% if page.categories %}{% include page-author.html %}{% endif %}</div>
-					
+
 					<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FJasonSwingenOutdoors%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="250" height="120" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 					{% include related-posts.html %}
-					
+
 					{% if page.comments == true %}
 						{% include comments.html %}
 					{% endif %}
+
+          {% include subscribe.html %}
+
 					</aside>
 				</footer><!-- /.footer -->
 			</div><!-- /.inner-wrap -->
-			{% include sidebar.html %}
+        {% include sidebar.html %}
 
 	</article><!-- ./wrap -->
 </div><!-- /#main -->
