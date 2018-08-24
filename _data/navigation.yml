@@ -20,10 +20,21 @@
   excerpt:
   image: Aug15MTB.jpg
 
-# - title: About
-#   url: /about.html
+- title: Tips
+  url: /tips.html
+  excerpt:
+  image: tip-up-tip.jpg
+
+- title: About
+  url: /about.html
+  excerpt:
+  image: Jason_Swingen_Fishing.jpg
+
+# - title: Contact
+#   url: /contact.html
 #   excerpt:
-#   image: Jason_Swingen_Fishing.jpg
+#   image: teaser.jpg
+
 
 # - title: Reports
 #   url: /reports/fishing-report/
