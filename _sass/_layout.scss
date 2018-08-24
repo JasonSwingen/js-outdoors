@@ -90,9 +90,9 @@
 .top-menu {
 	display: none;
 	position: relative;
-	@include media($medium) {
-		@include span-columns(12);
-	}
+	// @include media($jumbo) {
+	// 	@include span-columns(12);
+	// }
 	@include media($large) {
 		@include span-columns(7);
 		ul {
@@ -617,13 +617,13 @@
 	    padding: 40px;
 	    margin-top: 20px;
 
-		
+
 		width: 100%;
 		h1 {
-			
+
 		}
 		p {
-			
+
 		}
 	}
 	.youtube {
@@ -646,5 +646,5 @@
 			    margin-bottom: 30px;
 			}
 		}
-	}	
+	}
 }
