@@ -55,7 +55,7 @@ Pink Salmon only spawn every other year. After they were first introduced into L
 
 ## Where Can I Catch Them?
 
-You can catch Pink Salmon on almost any river on the North Shore that flow from Lake Superior. All the way from Duluth into Canada pink salmon will eventually make a run. Usually, they start running in rivers further north and eventually make their way into the rivers closer to Duluth. I've personally caught pink salmon in the Lester, Sucker, Stewart, Split Rock, Baptism, Talmadge, and the Cascade.
+You can catch Pink Salmon on almost any river on the North Shore that flow to Lake Superior. All the way from Duluth into Canada pink salmon will eventually make a run. Usually, they start running in rivers further north and eventually make their way into the rivers closer to Duluth. I've personally caught pink salmon in the Lester, Sucker, Stewart, Split Rock, Baptism, Temperance, and the Cascade.
 
 <figure class="center">
 <img title="North Shore Lake Superior Rivers" src="/images/north_shore_map.jpg" alt="North Shore Lake Superior Rivers">

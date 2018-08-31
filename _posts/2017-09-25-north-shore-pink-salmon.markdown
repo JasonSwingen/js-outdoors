@@ -15,7 +15,7 @@ image:
 date: 2017-09-25T17:27:19-05:00
 ---
 
-If you are here just to learn about how to catch these fish, you can skip down to my article on <a href="/fishing/catch-pink-salmon/">How to Catch Pink Salmon on the North Shore</a>.
+If you would like to learn how to catch these fish, you should read my updated article on <a href="/fishing/superior-pink-salmon/">How to Catch Pink Salmon on the North Shore</a>.
 
 The very first time I heard about pink salmon was last October during the first <a target="_blank" href="http://www.facebook.com/GitcheGumeeTU">Gitche Gumee Trout Unlimited</a> meeting of the year. (More specifically what I heard about pink salmon is that they had just finished running and that the north shore rivers were full of them! Notice I said "were". After a year of feeling an opportunity had been missed I was determined to catch this new bucket list fish.
 
