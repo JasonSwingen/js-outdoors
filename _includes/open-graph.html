@@ -5,15 +5,18 @@
 	{% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}
 	{% if page.image.feature %}
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:image" content="{{ site.url }}/images/{{ page.image.feature }}">
+	<meta name="twitter:image" content="http://www.js-outdoors.com/images/{{ page.image.teaser }}">
 	{% else %}
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}">
 	{% endif %}
 	<!-- Open Graph -->
+	<meta property="fb:app_id" content="966242223397117" />
 	<meta property="og:locale" content="{{ site.locale }}">
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-	{% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html }}">{% endif %}
-	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+	{% if page.excerpt %}<meta property="og:description" content="{{ post.excerpt | strip_html | truncate: 100 }}">{% endif %}
+	<meta property="og:url" content="http://www.js-outdoors.com{{ page.url | replace:'index.html','' | prepend: site.url }}">
 	<meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:image" content="http://www.js-outdoors.com/images/{{ page.image.teaser }}" />
+	<meta property="og:image:alt" content="{{ post.excerpt | strip_html | truncate: 100 }}" />
