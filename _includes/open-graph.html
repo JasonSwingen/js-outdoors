@@ -15,8 +15,16 @@
 	<meta property="og:locale" content="{{ site.locale }}">
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-	{% if page.excerpt %}<meta property="og:description" content="{{ post.excerpt | strip_html | truncate: 100 }}">{% endif %}
+	{% if page.excerpt %}
+	<meta property="og:description" content="{{ post.excerpt | strip_html | truncate: 100 }}">
+	{% else %}
+	<meta property="og:description" content="{{ site.description }}">
+	{% endif %}
 	<meta property="og:url" content="http://www.js-outdoors.com{{ page.url | replace:'index.html','' | prepend: site.url }}">
 	<meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:image" content="http://www.js-outdoors.com/images/{{ page.image.teaser }}" />
 	<meta property="og:image:alt" content="{{ post.excerpt | strip_html | truncate: 100 }}" />
+	{% if page.image.feature %}
+	<meta property="og:image" content="http://www.js-outdoors.com/images/{{ page.image.teaser }}" />
+	{% else %}
+	<meta property="og:image" content="http://www.js-outdoors.com/images/Brule_River_Spring_Steelhead.jpg" />
+	{% endif%}
