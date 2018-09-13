@@ -236,7 +236,7 @@ From my own personal experience, I have found that the fall is one a great time 
   <figcaption><a target="_blank" href="https://www.facebook.com/bendo.elfelt?ref=br_rs">Ben Elfelt</a> with at Lake Superior Looper</figcaption>
 </figure>
 
-Early fall is also a great time to catch pink salmon. I recently wrote an article on <a href="/fishing/north-shore-pink-salmon/">how to catch pink salmon</a> during their fall run.
+Early fall is also a great time to catch pink salmon. I recently wrote an article on <a href="/fishing/superior-pink-salmon/">how to catch pink salmon</a> during their fall run.
 
 <figure>
   <img title="Pink Salmon" src="/images/Pink_Salmon.jpg" alt="">
