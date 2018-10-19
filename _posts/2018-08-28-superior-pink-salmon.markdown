@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To: Catch A Lake Superior Pink Salmon"
-modified:
+modified: September 24, 2018
 categories: [fishing]
 tags: [fishing, salmon, north shore, lake superior, fly-fishing, trout]
 published: True
@@ -111,6 +111,6 @@ If you are fishing in fast dirty water try fishing an egg pattern, like a small 
   <a href="https://www.amazon.com/dp/B0767PVYFX/ref=as_li_ss_il?psc=1&pd_rd_i=B0767PVYFX&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=a54d13fc-b8a1-4ce8-b285-d77489a09cf6&pf_rd_r=FJCH03S22TERBMYEW7AB&pd_rd_wg=TeWN1&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&pd_rd_w=YrRMl&pf_rd_i=desktop-dp-sims&pd_rd_r=bb72d210-ab14-11e8-b96a-75051c3f57a5&linkCode=li2&tag=jsoutdoors08-20&linkId=896423ca4b9485b2b5646c0066452ca5" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0767PVYFX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jsoutdoors08-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=jsoutdoors08-20&l=li2&o=1&a=B0767PVYFX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
-If you aren't getting any bites using nymphs, or are looking to step up the size of fish you are catching, try throwing a streamer in front of them. I tied up a few custom wooly buggers in combinations of red/black, white/pink, and black/pink (which seemed to be the best color). Even though they come up to the surface, it is best to fish either a weighted streamer or some type of sinking line. This will allow you to strip your streamer in short quick strips to entice a big humpie to bite!
+If you aren't getting any bites using nymphs, or are looking to step up the size of fish you are catching, try throwing a streamer in front of them. I have had good luck using a size 8 bead-headed wooly buggers in black, olive, or pink. Even though they come up to the surface, it is best to fish either a weighted streamer or some type of sinking line in slack water and tailouts. The weight or sinking line will allow you to strip your streamer in short quick strips to entice a big humpie to bite!
 
 That's it. Time to hit the water! If you have more questions feel free to <a href="#comments">comment below</a>.
