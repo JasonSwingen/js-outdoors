@@ -22,15 +22,29 @@ p {
 }
 
 li {
-	@include font-size(16,12,24);
+	// @include font-size(16,12,24);
 	list-style: none;
 }
 
-#content > ul > li:before {
-	content: "\f105";
-    font-family: FontAwesome;
-    color: $accent-color ;
-    margin-right: 4px;
+// #content > ul > li:before {
+// 	content: "\f105";
+//     font-family: FontAwesome;
+//     color: $accent-color ;
+//     margin-right: 4px;
+// }
+
+#content{
+	ul {
+		li {
+		    margin-top: 0.7rem;
+			&:before {
+				content: "\f101";
+			    font-family: FontAwesome;
+			    color: $accent-color ;
+			    margin-right: 8px;
+			}
+		}
+	}
 }
 
 /* Headings */
