@@ -4,7 +4,7 @@ title: "North Shore Steelhead Techniques"
 modified:
 categories: [fishing, tips]
 tags: [fishing, fly-fishing, trout, techniques, tips, lake superior]
-published: False
+published: True
 comments: True
 ads: False
 excerpt: Steelheading Equipment, Technique, and Local Resources. The ultimate guide for beginners to seasoned steelhead anglers fishing the North Shore of Lake Superior for Steelhead.
@@ -33,7 +33,7 @@ The main reason for needing an arsenal of steelheading techniques is because the
         -   In-line
     -   Euro Nymphing
     -   Indicator Nymphing
-        -   Horizontal 
+        -   Horizontal
         -   Vertical
 -   Streamer Fishing
     -   Swinging Streamers
@@ -50,13 +50,13 @@ Out of all the different ways to catch steelhead, nymphing is by far the most co
 There is nothing elegant about this type of fishing. You add a bunch of weight to your line, add a fly and huck it all upstream. This technique is most beneficial in deep, short runs (very common on the north shore) especially when the water is fast and muddy. However, it is a very versatile technique that you can be used nearly any time of year and in any water condition. Not only does it keep your fly down in the strike-zone longer, but you can fish nearly any water depth without changing any of your rigging, other than adjusting the size or amount of split shot. You can also use this technique to fish from right under your feet to across the river. This technique relies on feeling the bite so you will want to have a fairly light and sensitive rod that will allow you to set the hook when you feel a fish hit.
 
 You can either use almost any type of fly line or monofilament line for this technique. Using Mono will allow you to fish further runs with more sensitivity and less drag, but will not allow you to easily switch to a different technique easily, unless you bring an extra reel or spool with you.
-        
+
 The downside to this technique is that it is fairly common to foul hook fish. Snagging fish is not always avoidable, but some anglers use this technique unethically. Try to avoid using this technique if you are sight fishing, and don't set the hook randomly though your drift hoping to snag fish.
 
 ##### Three different ways to rig your weight
 
 -   **Drop Shot** _(My first choice)_
-    -   Drop Shotting allows you to change the size and amount of split shot easily, change the length and weight of your leader, and because you aren't putting split shot directly on your main line, your won't risk weakening your main line crimping on split-shot. 
+    -   Drop Shotting allows you to change the size and amount of split shot easily, change the length and weight of your leader, and because you aren't putting split shot directly on your main line, your won't risk weakening your main line crimping on split-shot.
     -   **Rigging:** To fish this way you will either need to use a small swivel, tippet ring, or use a line to line knot like the <a href="http://js-outdoors.com/fishing/What-Knot-To-Know/#Blood">blood knot</a>. You can either use straight mono, or tie on a 10-12ft leader of 10-15lb fluorocarbon then attach a swivel or tippet ring. Leave the tag end of your line unclipped and roughly 3-4 inches long. I like to tie a single overhand knot at the end then crimp on my split shot. Then tie on a section of 6-8lb fluorocarbon tippet to the other end of the swivel or tippet ring and attach your favorite fly or egg pattern. You'll want to fish a lighter tippet that your main line so if you do get snagged you don't loose your entire setup, just the last foot or two of your tippet.
 
 -   **Slinky Rig**
