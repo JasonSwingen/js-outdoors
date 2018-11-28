@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fishing on Lake Superior's North Shore for Trout and Salmon"
-modified: 2018-03-13
+modified: 2018-11-27
 categories: [fishing]
 tags: [fishing, fly-fishing, trout, salmon, shore fishing]
 published: True
@@ -14,20 +14,24 @@ image:
 date: 2018-02-02T12:03:46-06:00
 ---
 
-The ultimate guide fishing Lake Superior's North Shore for steelhead, Kamloops rainbow trout, coho salmon, lake trout, and more.
+The ultimate guide fishing Lake Superior's North Shore for steelhead, Kamloops rainbow trout, coho salmon, lake trout, and more!
 
-This article is mainly targeted toward the beginner fisherman but has some great tips any shore angler can use. I will break down nearly everything you need to know to get started, including biology, regulations, fishing equipment, flies, tackle, where to fish, when to go, and other techniques that help you catch more fish on the north shore of Lake Superior.
+If you are like me, you love catching trout and salmon, but waiting through the long winter months for the rivers to break free has you going stir-crazy. It may be time for you to try out a new type of fishing: shore fishing on the north shore of Lake Superior! There are great opportunities to catch trout and salmon on the shore starting in the fall and continuing into the spring steelhead run.
+
+This article is mainly targeted toward the beginner fisherman but has some great tips any shore angler can use. By the end of this article you will have way more knowledge about shore fishing then I had starting out, including a good idea of what species you can expect to catch, when and where to target them, and all the equipment, flies, and tackle you will need to have a great day on the shore.
 
 <figure>
   <img title="Trevor Rodd fishing Lake Superior" src="/images/shorefishing.jpg">
   <figcaption>Even if you don't catch fish. There is no beating the view of Lake Superior's North Shore.</figcaption>
 </figure>
 
-The best advice I can give you is to get out and put your time in. Try different methods and talk to other <a href="#fishermen">local fishermen</a>. There is not a single way to catch these fish. The best way to catch these fish can depend on the water temperature, water clarity, wind, time of day. So be prepared to change tactics or locations to capitalize on the best bites.
+A few years ago, my friend Ben sent me a text saying we should try shore fishing on Lake Superior. At first, I was skeptical that we would catch any fish from shore on the world's largest freshwater lake, but I was willing to entertain the idea. Ben came up the next morning and we tried fishing for whatever we could catch. Just as the sun started to rise, Ben hooked a fish. Every few seconds we could see it jumping out of the water in the first rays of sunlight coming across the lake. At that point, I knew I was hooked.
+
+The single best advice I can give you is to get out and put your time in. Try different methods and talk to other <a href="#fishermen">local fishermen</a>. There is not a single way to catch these fish. The best way to catch these fish can depend on the water temperature, water clarity, wind, time of day. So be prepared to change tactics or locations to capitalize on the best bites.
 
 ## Species of Fish in Lake Superior
 
-There is a large variety of fish in Lake superior that are catchable from shore. The most popular fish targeted by shore fishermen are Kamloops rainbow trout (looper), and coho salmon. There are also good opportunities to catch steelhead, lake trout, pink salmon, and even lake whitefish. Occasionally brook trout, king salmon, and Atlantic salmon, as well as walleye, and pike can be found as well.
+There are many species of fish in Lake Superior that you can catch from shore. The most popular fish targeted by shore fishermen are Kamloops rainbow trout (also called "loopers"), <a href="http://js-outdoors.com/fishing/rainbow-trout-fishing-on-lake-superior/" title="Steelhead Shore Fishing on Lake Superior">steelhead</a>, and <a href="http://js-outdoors.com/fishing/north-shore-coho/" title="North Shore Coho">Coho salmon</a>. There are also good opportunities to catch steelhead, <a href="http://js-outdoors.com/fishing/lake-trout-ice-fishing-lake-superior/" title="Ice Fishing for Lake Trout in Lake Superior">lake trout</a>, <a href="http://js-outdoors.com/fishing/superior-pink-salmon/" title="How To: Catch a Lake Superior Pink Salmon">pink salmon</a>, lake whitefish and coaster brook trout!
 
 ## Know the Regulations
 
@@ -39,7 +43,7 @@ This article would be way too long and boring to read if I included all the regu
         <img src="/images/clippedSteelhead.jpg" alt="">
     </div>
     <li>You should know the difference between <br>a <a target="_blank" href="http://www.minnesotasteelheader.com/Kamloops.html">Kamloops rainbow trout</a> (with a clipped adipose fin) that you <b>can keep</b> and <br>a <a target="_blank" href="http://www.minnesotasteelheader.com/Steelhead.html">wild steelhead</a> (with an intact adipose fin) that you <b>must release</b>.</li>
-    <li>If you are going to keep fish, know the <a target="_blank" href="http://www.dnr.state.mn.us/fishmn/regs.html">current fishing regulations</a> for size and quantity. <i>Below are the current limits for 2017, you must check the current fishing regulations for updated limits.</i></li>
+    <li>If you are going to keep fish, know the <a target="_blank" href="http://www.dnr.state.mn.us/fishmn/regs.html">current fishing regulations</a> for size and quantity. <i>Below are the current limits for 2018, you must check the current fishing regulations for updated limits.</i></li>
         <ul>
             <li>Kamloops Rainbow trout - 3 with a minimum size limit of 16". Total allowed number of brook trout, splake, brown trout and rainbow trout is 5.</li>
             <li>Lake Trout - 3 (season typically ends in October)</li>
@@ -81,16 +85,14 @@ The most likely outcome will be the fourth option, or an **alternative hatchery 
 
 Alright, now that we are done with all of <i>that</i> we can get into the really fun stuff. And by fun stuff, I mean buying some fishing gear!
 
-If you live close to Lake Superior and are looking to get into shore fishing or you want to make a trip of fishing the north shore you can easily start out without buying too much more gear than you probably already have. You can use nearly any regular bass or walleye rod and get into fish. However, if you want to increase your chances of catching a fish, or plan on fishing the shore more than a few times it is a good idea to start with a dedicated shore rod. The biggest difference between a shore rod and your typical fishing rod is the length. Having a long rod will allow you to cast further and get better hooksets.
+You can use nearly any type of fishing rod. However, if you want to increase your chances of catching and landing a fish, then it is a good idea to buy a dedicated shore rod. Having a long rod (10-12ft) will allow you to cast further and get better hooksets. It is also important to have a rod with large guides that won't freeze up in the winter.
 
 ### Buying your first shore rod
 Just like bass fishing, there are different types of rods that work better for different techniques. Heavy, fast action rods that will allow you to use jigs to punch through and pull fish out of thick cover. Shorter, moderate action rods that will allow you to walk a topwater and keep a fish pinned on lures with treble hooks. There are also different techniques of shore fishing that ideally take a different rod, although there are jack-of-all-trade rods that will do all of them fairly well.
 
 <blockquote>If I had one shore rod that I could use for any type of fishing it would be a medium power, moderate fast action, 10 to 12-foot rod.</blockquote>
 
-<img class="image-right" src="/images/fenwick_hmx_salmon_steelhead.jpg" alt="Fenwick HMX Salmon/Steelhead Rod">
-
-You can get cheap rods that will work fine, although you should make sure that any rod you buy has regular/large guides. Most of the shore fishing opportunities occur when the temperatures are near or below zero. If you guides are too small ice build-up on your line and guides will cause your fishing line to stick and possibly break.
+<a target="_blank" href="https://amzn.to/2KDIM8y"><img class="image-right" src="/images/fenwick_hmx_salmon_steelhead.jpg" alt="Fenwick HMX Salmon/Steelhead Rod"></a>
 
 Another option shore rods have it grip design. This isn't a huge factor, but typically if you spend more time casting it is better to have a rod with a longer rear grip and short foregrip. If you spend more time bobber fishing you will want a rod with a longer foregrip. This will allow you to balance the rod horizontally so you are able to make a quick hookset when your bobber goes down.
 
@@ -100,20 +102,20 @@ There are many great shore rods built by <a target="_blank" href="http://amzn.to
 
 ## Reels
 
-<img class="image-right" src="/images/daiwa_exceler.jpg" alt="Daiwa Exceler EXE Spinning Fishing Reel">
+<a target="_blank" href="https://amzn.to/2TS1TA0"><img class="image-right" src="/images/daiwa_exceler.jpg" alt="Daiwa Exceler EXE Spinning Fishing Reel"></a>
 
-Reels with a big arbor, a large amount of line capacity, and a smooth drag work the best for fishing. You can get away with any 200 size spinning reel, but the larger 300 to 400 sizes are ideal. Typically larger reels are cheaper and have a better drag, so you can typically find inexpensive reels that are very high in quality for as low as $30. Like the <a target="_blank" href="http://amzn.to/2E1t468">Shimano Sienna</a>. I am currently using a <a target="_blank" href="http://amzn.to/2EqLhIc">Daiwa Exceler 3500H</a> and it has never let me down.
+You'll also want to pair your shore rod with a reel that has a large arbor, large line capacity, and a smooth drag. You can get away with any 200 size spinning reel, but the larger 300 to 400 sizes are ideal. These larger reels often have a better drag and hold more line. Typically larger reels are cheaper and have a better drag, so you can typically find inexpensive reels that are very high in quality for as low as $30. Like the <a target="_blank" href="http://amzn.to/2E1t468">Shimano Sienna</a>. I am currently using a <a target="_blank" href="http://amzn.to/2EqLhIc">Daiwa Exceler 3500H</a> and it has never let me down.
 
 ## Line, Flies, Bugs, and Other Tackle
 
 ### Line
 
-You can use whatever line you want, but the majority of shore fisherman choose 4-10 lb monofilament. 90% of the time I use 6 lb mono and it works for nearly all applications. My personal favorite is <a target="_blank" href="http://amzn.to/2GzrMOs">Maxima Ultragreen</a>. Mono is cheap, it floats (which is ideal for bobber fishing, and has enough stretch to soften some of the violent head shakes and rolls of the bigger fish you will be catching. Tying on a swivel and fluorocarbon leader can also be a good idea especially with the water is extremely clear.
+The majority of shore fisherman use 4-8 lb monofilament. Monofilament is cheap, it floats (which is ideal for bobber fishing), and has enough stretch to soften some of the violent head shakes and rolls of the bigger fish you will be catching. My personal favorite is <a target="_blank" href="http://amzn.to/2GzrMOs">Maxima Ultragreen</a>. Tying on a swivel and fluorocarbon leader can also be a good idea especially when the water is extremely clear.
 
 ### Bobber Fishing
 
-<a target="_blank" href="http://www.marinegeneral.com/productdetails.asp?productid=1635417"><img class="image-right" src="/images/castingbobber.png" alt=""></a>
-Bobber fishing is one of the most common ways to catch salmon and steelhead from shore. These heavily weighted bobbers allow you to launch your fly out to where the fish are feeding. These bobbers come in 3-4 different sizes. You may have to buy a couple different sizes to see what ones match up with your rod the best. You need to have a combination of the smallest bobber you are able to cast, as well as see way out in the often wavy waters. Black bobbers are typically the easiest to see, but if there are a bunch of other fishermen near you, it can be helpful to have a different color so you can pick out your bobber from your neighbors.
+<img class="image-right" src="/images/castingbobber.png" alt="">
+Bobber fishing is one of the most common ways to catch salmon and steelhead from shore. Heavily weighted bobbers allow you to launch your fly out to where the fish are feeding. These bobbers come in 3-4 different sizes. You may have to buy a couple of different sizes to see what ones match up the best with your rod. Rigging for bobber fishing is fairly simple, just peg your casting bobber onto your line two to four feet from the end of your line and tie on a fly or looper bug. Just like trout fishing on a river, you need to be quick with your hooksets. Since these bobbers are bigger than a typical strike indicator they don't always drop completely below the water. If you notice any odd wobbles or erratic movement of your bobber, set the hook!
 
 <figure>
   <img title="Fisherman at the French River" src="/images/FrenchRiverFishing.jpg">
@@ -125,15 +127,17 @@ Rigging for bobber fishing is fairly simple, just peg your casting bobber onto y
 
 #### Looper Bugs
 
-<a href="/images/looperbugs.jpg"><img style="width:150px;" class="image-right" src="/images/looperbugs.jpg" alt=""></a>
+<img style="width:150px;" class="image-right" src="/images/looperbugs.jpg" alt="looper bugs">
 
-Looper Bugs are a great fly to use when fishing for Coho Salmon and Kamloops (looper) rainbow trout and steelhead on the North Shore of Lake Superior. They are very easy to tie, all you only need a jig hook and four different materials. If you can tie a wooly bugger, you can tie a looper bug. They can be tied in a variety of different jig sizes (1/8 to 1/64 oz). Just make sure that the hook is a premium heavy gauge hook. You can also tie these in nearly any color combination. As you can see I prefer darker colors including black, brown, and purple, especially in muddy or wavy water. Although you shouldn't overlook white, pink, and green.
+Looper Bugs are a great fly to use when fishing for Coho Salmon and Kamloops (looper) rainbow trout and steelhead on the North Shore of Lake Superior. You can buy them in many of the local shops, but are also very easy to tie. All you only need is a jig hook and a couple of different materials including marabou, flashabou, dubbing, and rubber legs. If you can tie a wooly bugger, you can tie a looper bug. They can be bought or tied in a variety of sizes and color combinations. I prefer darker colors including black, brown, and purple (especially in muddy or wavy water). Midwinter and muddy water conditions are the best times to bobber fish with looper bugs.
 
 If you don't tie your own flies don't worry these bugs can be found in most of the local shops in Duluth including <a target="_blank" href="http://fishermanscorner.net/">Fisherman's Corner</a>, and <a target="_blank" href="http://www.marinegeneral.com/">Marine General</a>
 
-<blockquote>Loopers will often take a plain looper bug, but if you are trying to catch coho it is best to tip your hook with some meat. Like a waxworm or butterworm.</blockquote>
+<blockquote>Loopers and steelhead will often take a plain looper bug, but if you are trying to catch a Coho it is best to tip your fly with some meat (like a waxworm or butterworm).</blockquote>
 
 &nbsp;
+
+##### Fly Tying Tutorial
 
 <div class="video">
   <div class="video-wrapper">
@@ -153,46 +157,50 @@ If you don't tie your own flies don't worry these bugs can be found in most of t
 
 #### Traditional Flies
 
-If you fly fish or tie flies many of these flies can be used fishing from shore as well. Stoneflies and nymphs, including the prince nymph and pheasant tail nymph are go-to flies in almost any body of water, including lake superior. These flies tied anywhere from size 6 to 16 can produce fish. In some cases going all the way down to a size 20 or smaller can be the only way to get a bite.
+If you fly fish or tie your own flies you can use your standard trout flies to fish from shore as well. Stoneflies and nymphs, including the prince nymph and pheasant tail nymph, are go-to flies in almost any body of water, including Lake Superior. These flies tied anywhere from size 6 to 16 can produce fish. As the spring starts warming the water, or if the water is fairly clear you will want to tie on a fly instead of a looper bug.
 
 <figure class="third">
-  <a href="/images/frenchie.jpg"><img title="Frenchie" src="/images/frenchie.jpg" alt="Frenchie"></a>
-  <a href="/images/hairyassstone.jpg"><img title="Hairy Ass Stone" src="/images/hairyassstone.jpg" alt="Hairy Ass Stone"></a>
-  <a href="/images/princenymph.jpg"><img title="Prince Nymph" src="/images/princenymph.jpg" alt="Prince Nymph"></a>
+  <img title="Frenchie" src="/images/frenchie.jpg" alt="Frenchie">
+  <img title="Hairy Ass Stone" src="/images/hairyassstone.jpg" alt="Hairy Ass Stone"></a>
+  <img title="Prince Nymph" src="/images/princenymph.jpg" alt="Prince Nymph">
 </figure>
 
 <figure class="third">
-  <a href="/images/xlegs.jpg"><img title="Superior X-Legs" src="/images/xlegs.jpg" alt="Superior X-Legs"></a>
-  <a href="/images/pheasanttail.jpg"><img title="Pheasant Tail" src="/images/pheasanttail.jpg" alt="Pheasant Tail"></a>
-  <a href="/images/zebramidge.jpg"><img title="Zebra Midge" src="/images/zebramidge.jpg" alt="Zebra Midge"></a>
+  <img title="Superior X-Legs" src="/images/xlegs.jpg" alt="Superior X-Legs">
+  <img title="Pheasant Tail" src="/images/pheasanttail.jpg" alt="Pheasant Tail">
+  <img title="Zebra Midge" src="/images/zebramidge.jpg" alt="Zebra Midge">
 </figure>
 
 ### Casting Spoons
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B0000AUUPQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000AUUPQ&linkCode=as2&tag=jsoutdoors-20&linkId=dab27ae7b91c64484573625daa586241"><img class="image-right" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0000AUUPQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=jsoutdoors-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=jsoutdoors-20&l=am2&o=1&a=B0000AUUPQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-The first fish I caught from shore was with casting spoon. I love catching fish casting spoons because you get to feel the take and casting can be a little more entertaining than staring at your rod or waiting for a bobber to go down. The biggest downfall of casting spoons is that <i>you - will - lose - them</i>, and why they are not extremely expensive (on average $5 a piece) the costs will add up if you primarily throw spoons. If you let your spoon fall all the way to the bottom you might as well have just untied it and thrown it in the water.
 
-With all that said, spoons can be extremely productive and when the fish are actively feeding. Some of the most popular spoons are <a target="_blank" href="http://amzn.to/2rVd1SR">Kastmasters</a>, <a target="_blank" href="http://amzn.to/2FxeTTQ">Lil Cleos</a>, and <a target="_blank" href="http://amzn.to/2GtftmG">Krocodiles</a>. My favorite spoon is a 2/5 oz orange and gold Lil Cleo, but blue and silver is often a better choice in clear water situations. Depending on the power of your rod you will want to get spoons from 1/4 oz up to 3/4 oz. I believe Lil Cleos have the best action, but if you need to get more distance there is no beating a Kastmaster, especially with the wind in your face.
+The first fish I caught from shore was with a casting spoon. I love catching fish with spoons because you are able to feel the fish hit. Once you cast, count down a couple of seconds, then start to reel with a fairly quick and constant retrieve (one to two revolutions per second)
 
-Trout and salmon typically like to chase and are natural predators. Once you cast, wait a couple seconds for your spoon to drop in the water column, then a fairly quick and constant retrieve is often the best way to get a bite.
+Popular Casting Spoons:
+
+  * <a target="_blank" href="http://amzn.to/2rVd1SR">Kastmasters</a>
+  * <a target="_blank" href="http://amzn.to/2FxeTTQ">Lil Cleos</a>
+  * <a target="_blank" href="http://amzn.to/2GtftmG">Krocodiles</a>
+
+Start with a few 1/4 to 3/4 ounce spoons in orange/gold or blue/silver. Spoons can be a great way to catch fish in the fall, winter, or spring. From my experience, you are most likely to catch lake trout and steelhead in the fall, Coho in the winter, and loopers in the spring.
 
 ### Bottom Rigging
 
 #### Slinky Rig
 
-You can use a standard sinker when fishing from shore but while you're at local fishing store re-stocking all the spoons you lost, you might as well pick up a few dozen sinkers. Or, you can use the slinky rig - a sinker built out of parachute cord and split-shot. You can either buy them from local fishing stores like Marine General or you can make your own slinky rigs. Kamloops advocates have good instructions on <a target="_blank" href="http://www.kamloopsadvocates.org/the-slinky.html">building a slinky rig</a>.
+When bottom rigging, you can use a standard sinker or you can try the popular slinky rig (a sinker built out of parachute cord and split-shot). You can either buy them from local fishing stores like Marine General or you can make your own slinky rigs. Kamloops advocates have good instructions on <a target="_blank" href="http://www.kamloopsadvocates.org/the-slinky.html">building a slinky rig</a>.
 
 ##### Rigging
-You will want to slip your main line through the swivel of the slinky rig then tie on another swivel, leader, and hook. This will allow a fish to run and gives you a direct connection to the fish without the fish feeling the weight of the slinky rig. After you make your cast, place your rod in a rod holder (which can easily be built by duct taping PVC pipe to a metal rod). After your weight sinks to the bottom slowly reel in the slack until your rod begins to bend. Make sure your drag isn't so tight a fish will pull your rod into the water, but not so loose that you can't detect a bite or get a good hookset.
+To get this system rigged up you'll first want to slip your main line through the swivel of the slinky rig. Then tie on another larger swivel. Finally, tie on a two to four foot section of leader and your preferred hook. Slipping your line through the first swivel will allow a fish to run without it feeling the weight of the sinker or slinky rig. Most anglers will fish this setup with spawn bags, but you can also catch fish with a simple worm. If you fish with a worm, you will either need a worm blower to make the worm float or you will need to add a small float to your leader. After you make your cast, place your rod in a rod holder (which can easily be built by duct taping PVC pipe to a metal rod). After your weight sinks to the bottom, slowly reel in the slack until your rod begins to bend. Late winter and spring are typically the best times to fish with bottom rigs.
 
 #### Spawn
 
 <div class="image-right">
-  <a href="/images/spawn.jpg"><img style="width:250px;" title="rainbow trout spawn" src="/images/spawn.jpg" alt="rainbow trout spawn"></a>
+  <img style="width:250px;" title="rainbow trout spawn" src="/images/spawn.jpg" alt="rainbow trout spawn">
 </div>
 
 You can buy spawn, but if you catch and keep a female looper you can, <i>and should</i> cure the eggs and make your own spawn sacks. There are many ways to cure eggs, Here is a video from the <a target="_blank" href="https://youtu.be/yPsryzBUUpk">Consummate Sportsman on how to use borax to cure eggs</a> as well as a video from <a target="_blank" href="https://youtu.be/Vki31kS9Hck">Pautzke Bait on how to tie spawn sacks</a>. If you do catch a hen (female) looper and aren't planning on using the eggs, see if any other fisherman could use them.
-
 
 #### Worms
 
@@ -207,11 +215,11 @@ You can fish with worms just like you would fish with spawn. Although, You will 
 Here is a list of other items that may be helpful when fishing the north shore.
 
 <ul>
-  <li>Headlamp</li>
+  <li><a target="_blank" href="https://amzn.to/2PWtpho">Headlamp</a></li>
   <li>Warm Clothes (some of the best fishing occurs on cold winter mornings.)</li>
   <li>Rod Holders (for bottom rigging)</li>
-  <li>Ice Cleats </li>
-  <li>Waterproof boots</li>
+  <li><a target="_blank" href="https://amzn.to/2DOzKUM">Ice Cleats </a></li>
+  <li><a target="_blank" href="https://amzn.to/2TWUEqC">Waterproof boots</a></li>
   <li>Sunglasses</li>
   <li>Long-Handled Net</li>
   <li>Pliers - Buy a pair of <a target="_blank" href="http://amzn.to/2rSKBc5">Scissor Mitten Clamps</a>, you won't regret it.</li>
@@ -219,13 +227,12 @@ Here is a list of other items that may be helpful when fishing the north shore.
 
 ## Where to Fish
 
-If you can get down to the shore and it is public water, throw a line in! There are opportunities to fish all the way from the Canal Park lighthouse all the way up the shore into Canada. Some of the best areas to fish are in close proximity to river mouths. Many fishermen prefer to fish at the French river, but there can be equal or better fishing at many other areas up and down the shore. Especially with the recent closing of the French River Hatchery.
+If you can make it down to a public section of shoreline, throw a line in! There are opportunities to fish all the way from Canal Park all the way up the shore into Canada. Some of the best areas to fish are near river mouths and from break walls. Just make sure you get to the lake early in the day or stay late. Most of the action happens with during dawn and dusk.
 
 ## When to Go
 <a href="http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KMNDULUT74"><img class="image-right" src="http://banners.wunderground.com/cgi-bin/banner/ban/wxBanner?bannertype=pws250&weatherstationcount=KMNDULUT74" width="250" height="150" border="0" alt="Weather Underground PWS KMNDULUT74" /></a>
-The summer is the only season that you won't be able to find fish with regularity. The lake can change conditions quickly. Going from crystal clear to muddy, dead calm to crushing waves. Keep an eye on the wind speed and direction. If the wind has been blowing hard the waves can make it difficult to drift a bobber or bottom rig. Dead calm can make for unnatural presentations and in the winter months a lack of wind can cause the shore to freeze over making fishing from shore a frustrating task.
 
-If you have good enough cold weather gear and can keep the ice off your guides long enough to make long casts then you can get into fish without getting into the crowds.
+Keep an eye on the weather, the big lake can go from crystal clear and dead calm to muddy and crashing waves within a few hours. If the wind has blown hard the waves can make it difficult to drift a bobber or bottom rig. Dead calm days can make for unnatural presentations when bobber fishing. In the dead of winter, a lack of wind can cause the shore to freeze over making fishing from shore a frustrating task.
 
 ### Fall
 
