@@ -4,9 +4,9 @@ title: "2018 Montana Elk Hunt"
 modified:
 categories: [hunting]
 tags: [hunting, mule deer, elk, montana]
-published: True
+published: False
 comments: True
-ads: True
+ads: False
 image:
   feature: 2018_MT_ELK.jpg
   teaser: 2018_MT_ELK.jpg

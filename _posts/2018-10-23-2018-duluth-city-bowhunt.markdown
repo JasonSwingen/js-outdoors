@@ -4,9 +4,9 @@ title: "2018 Duluth City Bowhunt"
 modified:
 categories: [hunting]
 tags: [hunting, bow, bowhunting, duluth]
-published: True
+published: False
 comments: True
-ads: True
+ads: False
 image:
   feature: 2018_WT_Buck_Bow.jpg
   teaser: 2018_WT_Buck_Bow.jpg
@@ -31,7 +31,7 @@ A nice buck walked slowly through the gabs in the trees and bedded down 40 yards
 
 Eventually, he got up and started feeding on leaves and was making his way closer. He circled around getting to 25 yards then slowly made his way back and bedded in the exact same spot and position he was before, then just before the sunset a few deer ran behind my stand around 50 yards away. He didn't run after them, but I eventually heard what sounded like antlers in the distance and he took off.
 
-It was extremely hard letting a really nice buck walk within shooting distance, but without shooting a doe first I had to let him pass. It was still amazing to watch him. Even though letting a shooter buck 
+It was extremely hard letting a really nice buck walk within shooting distance, but without shooting a doe first I had to let him pass. It was still amazing to watch him. Even though letting a shooter buck
 
 
 ## 9-17

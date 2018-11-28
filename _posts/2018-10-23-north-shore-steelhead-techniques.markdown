@@ -4,7 +4,7 @@ title: "North Shore Steelhead Techniques"
 modified:
 categories: [fishing, tips]
 tags: [fishing, fly-fishing, trout, techniques, tips, lake superior]
-published: True
+published: False
 comments: True
 ads: False
 excerpt: Steelheading Equipment, Technique, and Local Resources. The ultimate guide for beginners to seasoned steelhead anglers fishing the North Shore of Lake Superior for Steelhead.

@@ -4,7 +4,7 @@ title: "Fly Fishing Gear for Lake Superior Steelhead"
 modified:
 categories: [fishing]
 tags: [fishing, gear, fly-fishing, trout, steelhead, shop]
-published: True
+published: False
 comments: True
 ads: False
 excerpt: All the fly fishing gear and equipment you need to catch steelhead, trout, and salmon on the north and south shore tributaries of Lake Superior.
