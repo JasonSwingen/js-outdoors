@@ -41,12 +41,12 @@ layout: default
         		</div><!-- /.share-this -->
 
 
+          {% if page.comments == true %}
+            {% include comments.html %}
+          {% endif %}
 
 					{% include related-posts.html %}
 
-					{% if page.comments == true %}
-						{% include comments.html %}
-					{% endif %}
 
           {% include subscribe.html %}
           <!-- {% include subscribe_popup.html %} -->
