@@ -4,7 +4,7 @@ title: "North Shore Steelhead Techniques"
 modified:
 categories: [fishing]
 tags: [fishing, fly-fishing, trout, techniques, tips, lake superior]
-published: False
+published: True
 comments: True
 ads: False
 excerpt: Steelheading Equipment, Technique, and Local Resources. The ultimate guide for beginners to seasoned steelhead anglers fishing the North Shore of Lake Superior for Steelhead.
@@ -12,7 +12,7 @@ image:
   feature: lake-superior-steelhead-techniques.jpg
   teaser: lake-superior-steelhead-techniques.jpg
   thumb: lake-superior-steelhead-techniques.jpg
-date: 2018-10-23T11:38:35-05:00
+date: 2018-12-02T11:38:35-05:00
 ---
 
 When I first started steelheading it was crazy to think that you could tie on a fly or colorful ball of yarn the size of your fingernail, toss it into a muddy fast moving river and somehow catch a steelhead. It took me an entire season struggling to get my first steelhead on the fly and looking back at my flies and the technique I was using, it was no wonder I didn't catch any.
@@ -24,7 +24,7 @@ Ever since I caught my first steelhead I have been doing research, talking with 
   <figcaption>A Beautiful North Shore Steelhead</figcaption>
 </figure>
 
-The main reason for needing an arsenal of steelheading techniques is because the water (especially on the north shore of Lake Superior) is constantly changing. During the early spring season the water will be fast and muddy with all of the snow melting and by the end of the spring season the water will be low, slow, and clear. Fishing the same way in these different conditions will not give you the best presentation in all situations. Below are the types of techniques that will be covered. For each technique I will give information on the type of line you can use, and during what conditions each technique will excel in.
+The main reason for needing an arsenal of steelheading techniques is because the water (especially on the north shore of Lake Superior) is constantly changing. During the early spring season the water will be fast and muddy with all of the snow melting and by the end of the spring season the water will be low, slow, and clear. Fishing the same way in these different conditions will not give you the best presentation in all situations. Below are the types of techniques that will be covered. For each technique I will give information on the type of line you can use, and during what conditions each technique will work the best.
 
 -   Nymphing
     -   Chuck-n-Duck

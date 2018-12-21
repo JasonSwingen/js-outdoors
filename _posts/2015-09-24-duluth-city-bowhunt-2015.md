@@ -20,13 +20,13 @@ This year will hopefully be different. I completed all of the requirements for t
 
 
 
-1. Complete an approved [Bowhunter Education Course](http://www.dnr.state.mn.us/safety/bowhunter/index.html).
-2. Pass a [shooting proficiency test](http://www.bowhuntersalliance.org/proficiency-test).
-3. Register at [www.bowhuntersalliance.org](http://www.bowhuntersalliance.org/).
-4. Complete the [Bowhunters Alliance Online Application](http://www.bowhuntersalliance.org/edit-profile?view=login).
-5. Write a $25.00 check or money order made payable to the City of Duluth.
-6. Complete [Part 2 of the application (pdf)](http://www.bowhuntersalliance.org/downloads/2015%20Application%20Part%202.pdf).
-7. Send in your application.
+  - Complete an approved [Bowhunter Education Course](http://www.dnr.state.mn.us/safety/bowhunter/index.html).
+  - Pass a [shooting proficiency test](http://www.bowhuntersalliance.org/proficiency-test).
+  - Register at [www.bowhuntersalliance.org](http://www.bowhuntersalliance.org/).
+  - Complete the [Bowhunters Alliance Online Application](http://www.bowhuntersalliance.org/edit-profile?view=login).
+  - Write a $25.00 check or money order made payable to the City of Duluth.
+  - Complete [Part 2 of the application (pdf)](http://www.bowhuntersalliance.org/downloads/2015%20Application%20Part%202.pdf).
+  - Send in your application.
 
 If there are more hunters than spots available there will be a lottery. This year there were 383 total applicants (285 were returning hunters and 97 were new). 369 of the hunters have been placed in a DHA.
 
