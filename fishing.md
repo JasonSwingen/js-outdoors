@@ -2,6 +2,7 @@
 layout: archive
 permalink: fishing.html
 title: "Latest Fishing Posts"
+excerpt: 
 image:
 ---
 

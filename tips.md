@@ -2,6 +2,7 @@
 layout: archive
 permalink: tips.html
 title: "Latest Tips"
+excerpt: 
 image:
 ---
 

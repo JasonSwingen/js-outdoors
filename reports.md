@@ -2,6 +2,7 @@
 layout: archive
 permalink: reports.html
 title: "Latest Reports"
+excerpt: 
 image:
 ---
 

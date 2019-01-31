@@ -2,6 +2,7 @@
 layout: archive
 permalink: reviews.html
 title: "Latest Reviews"
+excerpt: 
 image:
 ---
 

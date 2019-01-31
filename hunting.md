@@ -2,6 +2,7 @@
 layout: archive
 permalink: hunting.html
 title: "Latest Hunting Posts"
+excerpt: 
 image:
 ---
 

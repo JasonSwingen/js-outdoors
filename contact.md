@@ -2,6 +2,7 @@
 layout: page
 permalink: contact.html
 title: "Contact Me"
+excerpt: 
 image:
   feature: 2015_MT_Hunt_7.jpg
 ---

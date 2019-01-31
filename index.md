@@ -2,6 +2,8 @@
 layout: default
 permalink: /
 image:
+title: JS-Outdoors | Hunting and Fishing Stories and Tutorials
+excerpt: Hunting and Fishing stories written for and by the Midwestern Outdoorsman.
 ---
 
 <div id="content" class="main">

@@ -2,6 +2,7 @@
 layout: archive
 permalink: fly-tying.html
 title: "Fly Tying Tutorials"
+excerpt: 
 image:
 ---
 
