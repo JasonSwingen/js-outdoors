@@ -6,7 +6,7 @@ categories: [fly-tying]
 tags: [fly tying, fly fishing]
 published: True
 comments: True
-excerpt:
+excerpt: This pattern that takes basics of a wooly bugger and uses the tying techniques from an intruders to produce a fly that imitates many different food sources including leeches, minnows, and sculpins.
 ads: False
 image:
   feature: Intruder_Bugger.jpg
