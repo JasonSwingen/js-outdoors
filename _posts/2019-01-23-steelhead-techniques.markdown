@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "North Shore Steelhead Techniques [Complete Guide]"
+title: "North Shore Steelheading Techniques [Complete Guide]"
 modified:
 categories: [fishing]
-tags: [fishing, fly-fishing, trout, techniques, tips, lake superior]
-published: False
+tags: [fly-fishing, steelhead, lake superior, trout, techniques, tips]
+published: True
 comments: True
 ads: False
 excerpt: The best techniques used to fly fish for steelhead on the north shore of Lake Superior. Steelheading Equipment, Technique, and Local Resources. The ultimate guide for beginners to seasoned steelhead anglers fishing the North Shore of Lake Superior for Steelhead.
@@ -12,36 +12,49 @@ image:
   feature: lake-superior-steelhead-techniques.jpg
   teaser: lake-superior-steelhead-techniques.jpg
   thumb: lake-superior-steelhead-techniques.jpg
-date: 2019-01-23T11:38:35-05:00
+date: 2019-02-11T11:38:35-05:00
 ---
 
-When I first started steelheading it was crazy to think that you could tie on a fly or colorful ball of yarn the size of your fingernail, toss it into a muddy fast moving river and somehow catch a steelhead. It took me an entire season to get my first steelhead on the fly and looking back at my flies and the technique I was using, it was no wonder I didn't catch any.
+Do you want to learn the most effective techniques used to catch steelhead on the fly?
 
-Ever since I caught my first steelhead I have been doing research, talking with local fisherman, <a href="/fishing/northern-minnesota-fishing-resources/" title="Northern Minnesota Fly Fishing Resources">looking up local fly fishing resources</a>, and trying out new techniques, flies, hooks, weight, rods, fly lines and all of the other <a href="/fishing/steelhead-equipment/" title="Fly Fishing Gear for Lake Superior Steelhead">fly fishing gear you need on the north shore</a> to find out for myself some of the best tactics to catch Lake Superior steelhead with a fly rod. Hopefully by the end of this article you will either have learned the basics of steelheading on the north shore or if you have been steelheading for a while will have learned a new technique that will allow you to catch more fish during different water conditions.
+Great! This article is going to cover each of all of the techniques that I use when fishing the north shore tributaries of Lake Superior. By the end of this article you will have learned the following:
+
+-   Multiple nymphing and swinging techniques.
+-   How to rig your flies for each technique.
+-   How to choose which technique to use for different water conditions.
+-   A few tips to make you more efficient on the water.
 
 <figure>
   <img title="North Shore Steelhead" src="/images/north-shore-steelhead-techniques.jpg">
-  <figcaption>A Beautiful North Shore Steelhead.</figcaption>
+  <!-- <figcaption>A Beautiful North Shore Steelhead.</figcaption> -->
 </figure>
+
+<blockquote>Steelhead, the fish of 1,000 casts... Make sure each of them counts!</blockquote>
+
+When I first started steelheading it was crazy to think that you could tie on a fly or colorful ball of yarn the size of your fingernail, toss it into a muddy fast moving river and somehow catch a steelhead. It took me an entire season to get my first steelhead on the fly and looking back at my flies and the technique I was using, it was no wonder I didn't catch any. Skip the learning curve and use these proven techniques!
+
+<!-- Ever since I caught my first steelhead I have been doing research, talking with local fisherman, <a href="/fishing/northern-minnesota-fishing-resources/" title="Northern Minnesota Fly Fishing Resources">looking up local fly fishing resources</a>, and trying out new techniques, flies, hooks, weight, rods, fly lines and all of the other <a href="/fishing/steelhead-equipment/" title="Fly Fishing Gear for Lake Superior Steelhead">fly fishing gear you need on the north shore</a> to find out for myself some of the best tactics to catch Lake Superior steelhead with a fly rod. -->
 
 ## Learning a New Steelheading Technique
 
 The main reason for needing an arsenal of steelheading techniques is because the water (especially on the north shore of Lake Superior) is constantly changing. During the early spring season the water will be fast and muddy with all of the snow melting and by the end of the spring season the water will be low, slow, and clear. Fishing the same way in these different conditions will not give you the best presentation in all situations. Below are the types of techniques that will be covered. I will cover when and why to use each technique as well as how to rig each specific setup.
 
--   <a href="#tight">Tight Line Nymphing</a>
+-   <a href="#tight">Tight Line Nymphing 	&#x21B4;</a>
     -   Chuck-n-Duck
         -   Drop Shot
         -   Slinky Rig
         -   In-line
     -   Euro Nymphing
--   <a href="#suspension">Suspension Nymphing</a>
+-   <a href="#suspension">Suspension Nymphing	&#x21B4;</a>
     -   Horizontal Indicator
     -   Vertical Indicator
--   <a href="#streamer">Streamer Fishing</a>
+-   <a href="#streamer">Streamer Fishing &#x21B4;</a>
     - Swinging Streamers
     - Stripping Streamers
 
 ### Rigging (The Foundation)
+
+I'll assume you already have a fly rod and reel, but if you don't or have questions about gear selection check out my recent post on <a href="http://js-outdoors.com/fishing/steelhead-equipment/">fly fishing gear needed to catch a steelhead</a>.
 
 Each of these techniques starts out with the same or at least a very similar rigging foundation. This is especiallaly important when you want adapt to the conditions you are fishing. Water conditions can change daily if not hourly on the north shore of Lake Superior and you may need to switch tactics. Rigging your rod to easily switch between tight-line setup and indicator setups can save you time and allow you to fish in pools, buckets, tail-outs, and riffles without needing to bring an arsenal of fly rods and reels with you.
 
@@ -61,7 +74,7 @@ I usually start out with 20lb of backing to fill the reel and allow to faster re
 
 ### Nymphing
 
-Out of all the different ways to catch steelhead, nymphing is by far the most common and easiest way to catch a steelhead. However, there are multiple different presentations you can use that allow your nymph to get in the right zone and drift in a natural way. Each one works better in different water depths, flows, and clarity. The chart below shows a scale from 1 to 5, with 5 being the most ideal condition for each technique.
+<p>Out of all the different ways to catch steelhead, nymphing is by far the most common and easiest way to catch a steelhead. However, there are multiple different presentations you can use that allow your nymph to get in the right zone and drift in a natural way. Each one works better in different water depths, flows, and clarity. The chart below shows a scale from 1 to 5, with 5 being the most ideal condition for each technique.</p>
 
 <figure>
   <img title="Conditions for Changing Nymphing Techniques" src="/images/nymphing_conditions_data.jpg">
@@ -165,8 +178,14 @@ Not as common on the north shore, but a very popular technique when <a href="/fi
 -   **Swinging Streamers**
     -   The basics of swinging streamers include casting a fly at roughly a 45 degree downstream angle and letting your streamer "swing" across the river. This is a great technique to cover lots of water as well as catch aggressive steelhead.
     -   Streamers are often swung with with the use of a specific type of two-handed (switch) rod and a (shooting head) fly line that allows you to cast weighted flies across larger rivers. These rods and line combos make fishing easier, but when fishing the smaller tributaries found on the north shore you can get away with a standard weight forward line or a sink tip line. If you need to get deeper than you can use a polyleader, a weighted fly, or even both.
+    -   **Rigging:**
 
 -   **Stripping Streamers**
     -   This type of streamer fishing should should almost be combined with swinging streamers. At the end of your swing you should slowly strip your fly back to you since a fish may have seen your fly and is waiting to strike. However, you can also strip streamers without swinging them first. Especially in slack water and deep pools.
+    -   **Rigging:**
 
 To change from nymphing to streamer fishing there are two good options. If you are fishing with running line or monofilament you can add on a shooting head and a sink tip and 3-4' of flourocarbon tippet. If you fish with fly line you can either fish with heavily weighted streamers or use a polyleader or versileader. Just remove your standard nymphing leader and add on of these leaders that turns your floating fly line into a sink tip. Just add tippet and your streamer of choice!
+
+## Conclusion
+
+That's it! You should now be ready to hit the water!
