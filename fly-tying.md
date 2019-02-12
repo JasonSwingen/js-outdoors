@@ -2,7 +2,7 @@
 layout: archive
 permalink: fly-tying.html
 title: "Fly Tying Tutorials"
-excerpt: 
+excerpt: Fly Tying Tutorials from Duluth MN based fly tyier - Jason Swingen. Learn fly tying patterns that are proven in Minnesota rivers.
 image:
 ---
 

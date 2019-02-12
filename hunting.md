@@ -1,8 +1,8 @@
 ---
 layout: archive
 permalink: hunting.html
-title: "Latest Hunting Posts"
-excerpt: 
+title: "Hunting Articles"
+excerpt: From spot and stock mule deer hunts in Montana to urban bow hunts in Minnesota. Follow along with a midwestern outdoorsman.
 image:
 ---
 

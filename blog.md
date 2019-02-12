@@ -1,7 +1,8 @@
 ---
 layout: archive
 permalink: blog.html
-title: "Latest Posts"
+title: "All Hunting and Fishing Articles"
+excerpt: View the lastest hunting and fishing stories, tips, and techniques. Written for and by a Midwestern Outdoorsman.
 image:
 ---
 

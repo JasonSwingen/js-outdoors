@@ -1,8 +1,8 @@
 ---
 layout: archive
 permalink: reviews.html
-title: "Latest Reviews"
-excerpt: 
+title: "Outdoor Gear Reviews"
+excerpt: See the latest outdoor gear reviews.
 image:
 ---
 

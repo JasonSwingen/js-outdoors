@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: contact.html
-title: "Contact Me"
-excerpt: 
+title: "Contact JS-Outdoors"
+excerpt: Have questions about hunting or fishing species, want to learn new fishing technigues, or have an idea for a new article you would like me to write? Let me know!
 image:
   feature: 2015_MT_Hunt_7.jpg
 ---

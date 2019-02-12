@@ -1,8 +1,8 @@
 ---
 layout: archive
 permalink: fishing.html
-title: "Latest Fishing Posts"
-excerpt: 
+title: "Fishing Articles"
+excerpt: Fishing Tips, Tricks, and Techniques for the Midwestern Outdoorsman. Minnesota based fly fisherman and ice fisherman.
 image:
 ---
 

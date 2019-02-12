@@ -2,8 +2,8 @@
 layout: default
 permalink: /
 image:
-title: JS-Outdoors | Hunting and Fishing Stories and Tutorials
-excerpt: Hunting and Fishing stories written for and by the Midwestern Outdoorsman.
+title: JS-Outdoors | Fishing & Hunting Tips for the Midwestern Outdoorsman
+excerpt: Hunting and Fishing stories, tips, and techniques. Written for and by a Midwestern Outdoorsman. From hunting mule deer in MT to fly fishing for steelhead in MN and everything in between.
 ---
 
 <div id="content" class="main">

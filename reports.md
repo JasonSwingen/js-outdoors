@@ -1,8 +1,8 @@
 ---
 layout: archive
 permalink: reports.html
-title: "Latest Reports"
-excerpt: 
+title: "Latest Minnesota Fishing Reports"
+excerpt: Get the latest fishing reports in Northern Minnesota. Fly fishing for Steelhead, Shore fishing for Loopers, Ice fishing for Walleye, and much more.
 image:
 ---
 

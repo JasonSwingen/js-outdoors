@@ -1,8 +1,8 @@
 ---
 layout: archive
 permalink: tips.html
-title: "Latest Tips"
-excerpt: 
+title: "Hunting and Fishing Tips and Tricks"
+excerpt: Make hunting and fishing easier with these proven tips, tricks, and techniques.
 image:
 ---
 
