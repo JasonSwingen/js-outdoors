@@ -92,25 +92,25 @@ Just like bass fishing, there are different types of rods that work better for d
 
 <blockquote>If I had one shore rod that I could use for any type of fishing it would be a medium power, moderate fast action, 10 to 12-foot rod.</blockquote>
 
-<a target="_blank" href="https://amzn.to/2KDIM8y"><img class="image-right" src="/images/fenwick_hmx_salmon_steelhead.jpg" alt="Fenwick HMX Salmon/Steelhead Rod"></a>
+<a target="_blank" href="https://amzn.to/2tIahX4"><img class="image-right" src="/images/fenwick_hmx_salmon_steelhead.jpg" alt="Fenwick HMX Salmon/Steelhead Rod"></a>
 
 Another option shore rods have it grip design. This isn't a huge factor, but typically if you spend more time casting it is better to have a rod with a longer rear grip and short foregrip. If you spend more time bobber fishing you will want a rod with a longer foregrip. This will allow you to balance the rod horizontally so you are able to make a quick hookset when your bobber goes down.
 
-I am currently using a <a target="_blank" href="http://amzn.to/2DL30c9">Fenwick HMX Salmon/Steelhead rod</a>. It is a 10.5' medium auction, moderate-fast action rod that can be used for a variety of different applications, but it is most often rigged with a casting bobber and a looper bug or fly.
+I am currently using a <a target="_blank" href="https://amzn.to/2tIahX4">Fenwick HMX Salmon/Steelhead rod</a>. It is a 10.5' medium auction, moderate-fast action rod that can be used for a variety of different applications, but it is most often rigged with a casting bobber and a looper bug or fly.
 
-There are many great shore rods built by <a target="_blank" href="http://amzn.to/2GxdNZd">St Croix</a>, <a target="_blank" href="http://amzn.to/2rURMQO">G Loomis</a>, that can are expensive, but you often get what you pay for. If you are looking in the custom market there is no better rod builder in the Duluth area that <a target="_blank" href="https://www.damgoodsandgear.com/">Dam Goods and Gear</a>. They make custom ice, fly-fishing, walleye, and <a target="_blank" href="https://www.damgoodsandgear.com/product-page/steelie-99-mono-rod">steelhead rods</a>.
+There are many great shore rods built by <a target="_blank" href="https://amzn.to/2T5JYcq">St Croix</a>, <a target="_blank" href="https://amzn.to/2BRChvG">G Loomis</a>, that can are expensive, but you often get what you pay for. If you are looking in the custom market there is no better rod builder in the Duluth area that <a target="_blank" href="https://www.damgoodsandgear.com/">Dam Goods and Gear</a>. They make custom ice, fly-fishing, walleye, and <a target="_blank" href="https://www.damgoodsandgear.com/product-page/steelie-99-mono-rod">steelhead rods</a>.
 
 ## Reels
 
-<a target="_blank" href="https://amzn.to/2TS1TA0"><img class="image-right" src="/images/daiwa_exceler.jpg" alt="Daiwa Exceler EXE Spinning Fishing Reel"></a>
+<a target="_blank" href="https://amzn.to/2Sv9suk"><img class="image-right" src="/images/daiwa_exceler.jpg" alt="Daiwa Exceler EXE Spinning Fishing Reel"></a>
 
-You'll also want to pair your shore rod with a reel that has a large arbor, large line capacity, and a smooth drag. You can get away with any 200 size spinning reel, but the larger 300 to 400 sizes are ideal. These larger reels often have a better drag and hold more line. Typically larger reels are cheaper and have a better drag, so you can typically find inexpensive reels that are very high in quality for as low as $30. Like the <a target="_blank" href="http://amzn.to/2E1t468">Shimano Sienna</a>. I am currently using a <a target="_blank" href="http://amzn.to/2EqLhIc">Daiwa Exceler 3500H</a> and it has never let me down.
+You'll also want to pair your shore rod with a reel that has a large arbor, large line capacity, and a smooth drag. You can get away with any 200 size spinning reel, but the larger 300 to 400 sizes are ideal. These larger reels often have a better drag and hold more line. Typically larger reels are cheaper and have a better drag, so you can typically find inexpensive reels that are very high in quality for as low as $30. Like the <a target="_blank" href="https://amzn.to/2Xmj1jb">Shimano Sienna</a>. I am currently using a <a target="_blank" href="https://amzn.to/2Sv9suk">Daiwa Exceler 3500H</a> and it has never let me down.
 
 ## Line, Flies, Bugs, and Other Tackle
 
 ### Line
 
-The majority of shore fisherman use 4-8 lb monofilament. Monofilament is cheap, it floats (which is ideal for bobber fishing), and has enough stretch to soften some of the violent head shakes and rolls of the bigger fish you will be catching. My personal favorite is <a target="_blank" href="http://amzn.to/2GzrMOs">Maxima Ultragreen</a>. Tying on a swivel and fluorocarbon leader can also be a good idea especially when the water is extremely clear.
+The majority of shore fisherman use 4-8 lb monofilament. Monofilament is cheap, it floats (which is ideal for bobber fishing), and has enough stretch to soften some of the violent head shakes and rolls of the bigger fish you will be catching. My personal favorite is <a target="_blank" href="https://amzn.to/2H409j3">Maxima Ultragreen</a>. Tying on a swivel and fluorocarbon leader can also be a good idea especially when the water is extremely clear.
 
 ### Bobber Fishing
 
@@ -179,9 +179,9 @@ The first fish I caught from shore was with a casting spoon. I love catching fis
 
 Popular Casting Spoons:
 
-  * <a target="_blank" href="http://amzn.to/2rVd1SR">Kastmasters</a>
-  * <a target="_blank" href="http://amzn.to/2FxeTTQ">Lil Cleos</a>
-  * <a target="_blank" href="http://amzn.to/2GtftmG">Krocodiles</a>
+  * <a target="_blank" href="https://amzn.to/2Svb5rW">Kastmasters</a>
+  * <a target="_blank" href="https://amzn.to/2BTlIiW">Lil Cleos</a>
+  * <a target="_blank" href="https://amzn.to/2BPrEJV">Krocodiles</a>
 
 Start with a few 1/4 to 3/4 ounce spoons in orange/gold or blue/silver. Spoons can be a great way to catch fish in the fall, winter, or spring. From my experience, you are most likely to catch lake trout and steelhead in the fall, Coho in the winter, and loopers in the spring.
 
@@ -215,14 +215,14 @@ You can fish with worms just like you would fish with spawn. Although, You will 
 Here is a list of other items that may be helpful when fishing the north shore.
 
 <ul>
-  <li><a target="_blank" href="https://amzn.to/2PWtpho">Headlamp</a></li>
+  <li><a target="_blank" href="https://amzn.to/2SvGR8d">Headlamp</a></li>
   <li>Warm Clothes (some of the best fishing occurs on cold winter mornings.)</li>
   <li>Rod Holders (for bottom rigging)</li>
-  <li><a target="_blank" href="https://amzn.to/2DOzKUM">Ice Cleats </a></li>
-  <li><a target="_blank" href="https://amzn.to/2TWUEqC">Waterproof boots</a></li>
+  <li><a target="_blank" href="https://amzn.to/2SvczCw">Ice Cleats </a></li>
+  <li><a target="_blank" href="https://amzn.to/2SvH4s1">Waterproof boots</a></li>
   <li>Sunglasses</li>
   <li>Long-Handled Net</li>
-  <li>Pliers - Buy a pair of <a target="_blank" href="http://amzn.to/2rSKBc5">Scissor Mitten Clamps</a>, you won't regret it.</li>
+  <li>Pliers - Buy a pair of <a target="_blank" href="https://amzn.to/2H5JKL9">Scissor Mitten Clamps</a>, you won't regret it.</li>
 </ul>
 
 ## Where to Fish
