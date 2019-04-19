@@ -132,7 +132,6 @@ Ready to get into fly fishing, buy some new equipment, learn about new waters, c
 
 ## Fishing Reports
 -   <a target="_blank" href="https://www.dnr.state.mn.us/areas/fisheries/lakesuperior/lake-superior-fishing-report.html">MNDNR: Lake Superior Fishing Reports</a>
--   <a target="_blank" href="http://www.kamloopsadvocates.org/fishing-reports.html">Kamloops Advocates: Fishing Report</a>
 -   <a target="_blank" href="http://minnesotasteelheader.blogspot.com/">MN Steelheader: Fishing Reports</a>
 
 ## Water Conditions
