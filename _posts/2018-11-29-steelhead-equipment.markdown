@@ -94,6 +94,8 @@ Everyone has there own ideas on their favorite brands and styles for fishing gea
 -   **Split Shot**
     -   You'll want an assortment of spit shot depending on the depth, and speed and the water as well as the technique you are using. I mostly use #B, #BB, #7, and #5 Split Shot depending on depth and the type of presentation.
 
+If you are have everything you need to catch steelhead, but are looking to get a few more products to make your time on the water more enjoyable, check out my list of <a href="http://js-outdoors.com/fishing/best-fly-fishing-accessories/">10 Fly Fishing Accessories For Under $20</a>
+
 &nbsp;
 <figure>
   <img title="North Shore Steelhead" alt="North Shore Steelhead" src="/images/North_Shore_Fall_Steelhead.jpg">
@@ -113,7 +115,7 @@ Everyone has there own ideas on their favorite brands and styles for fishing gea
 {% endif %}
 
 {% if item.Link %}
-{{item.Link}}
+<span title="Buy {{item.Name}} on Amazon">{{item.Link}}</span>
 {% endif %}
 
 {% endfor%}

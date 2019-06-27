@@ -61,7 +61,7 @@ The main reason for needing an arsenal of steelheading techniques is because the
 
 <h3 id="rigging">Basic Rigging (The Foundation)</h3>
 
-I'll assume you already have a fly rod and reel, but if you don't, or you have questions about gear selection check, then check out my recent article on the <a href="http://js-outdoors.com/fishing/steelhead-equipment/">fly fishing gear for Lake Superior steelhead</a>.
+I'll assume you already have a fly rod and reel, but if you don't, or you have questions about gear selection check, then check out my recent article on the <a href="http://js-outdoors.com/fishing/steelhead-equipment/">fly fishing gear for Lake Superior steelhead</a>, and my list of <a href="http://js-outdoors.com/fishing/best-fly-fishing-accessories/">fly fishing accessories for under $20</a>.
 
 Each of these techniques starts out with the same or at least a very similar rigging foundation. This is especially important when you want to adapt to the ever-changing water conditions without bringing 6 rods with you. Rigging your reel to easily switch between tight-line, indicator nymphing, and swinging can save you time and allow you to fish in any type of water including; pools, buckets, tail-outs, and riffles.
 
