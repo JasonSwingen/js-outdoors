@@ -681,3 +681,21 @@ hr {
 		}
 	}
 }
+
+.mobileonly {
+	display: block;
+}
+
+.desktoponly {
+	display: none;
+}
+
+@include media($small) {
+	.mobileonly {
+		display: none;
+	}
+
+	.desktoponly {
+		display: block;
+	}
+}
