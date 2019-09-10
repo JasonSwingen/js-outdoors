@@ -74,9 +74,12 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-left: $gutter;
+  margin-bottom:$gutter;
   @include media($medium) {
     float: right;
     margin-left: $gutter;
+    margin-bottom:$gutter;
   }
 }
 

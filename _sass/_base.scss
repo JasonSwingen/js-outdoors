@@ -49,6 +49,13 @@ li {
 	}
 }
 
+::selection {
+  background: lighten($accent-color, 30); /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: lighten($accent-color, 30); /* Gecko Browsers */
+}
+
 /* Headings */
 
 h1, h2, h3, h4, h5, h6 {
