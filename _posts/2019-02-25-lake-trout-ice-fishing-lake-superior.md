@@ -39,13 +39,13 @@ Your typical 200 or 300 size spinning reels that you use for walleye and bass ar
 
 Spool up your reel with at least 100 yards of line of 10-20lb braid. Lake trout are typically caught in deep water and can easily pull 100 feet of line on their long powerful runs. Braid is important in order to set the hook in deep water as well as keep your line from bowing in in the current.
 
-I prefer to tie on 10-20ft of 10-20lb flourocarbon. Lake Superior has extremely clear water so using a strong nearly invisible leader is important. You can connent your leader to your braid using a variety of [fishing knots](/fishing/What-Knot-To-Know/), like the [double uni knot](/fishing/What-Knot-To-Know/#Double%20Uni), or my personal favorite braid to flouro connection the [FG knot](/fishing/What-Knot-To-Know/#FG).
+I prefer to tie on 10-20ft of 10-20lb flourocarbon. Lake Superior has extremely clear water so using a strong nearly invisible leader is important. You can connect your leader to your braid using a variety of [fishing knots](/fishing/What-Knot-To-Know/), like the [double uni knot](/fishing/What-Knot-To-Know/#Double%20Uni), or my personal favorite braid to flouro connection the [FG knot](/fishing/What-Knot-To-Know/#FG).
 
 ### Lures
 
 ![Lake Trout Lures](/images/Lake_Trout_Lures.jpg)
 
-See a pattern? Smelt is the number one food source for lake trout That means white lures are your best bet. Having some orange, chartreuse, or pink can also be benefitial during certain conditions.
+See a pattern? Smelt is the number one food source for lake trout That means white lures are your best bet. Having some orange, chartreuse, or pink can also be beneficial during certain conditions.
 
 Leave your finesse at home, because when it comes to lake trout they can be extremely aggressive and will swim the entire depth of water your are fishing to attach your bait. The basics include loud, smelly, and white. You can get bites off of jigging raps, rattling traps, spoons, tube jigs, swim baits, bucktails, and other similar jigs. Half ounce jigs are about as light as you'll want to fish and during some conditions fishing lures up to 2 ounces may be ideal.
 
@@ -65,13 +65,13 @@ Lake Trout are typically found in deep water from 60 to 200 feet of water or mor
 
 Two of the best tactics to catch lakers are pounding bottom, and playing keep away. Sometimes just lifting your jig and dropping it against the lake bottom will kick up enough sediment to call in a laker. You won't always mark fish when they come in off the bottom, but you'll notice them when they nearly rip the rod our of your hand!
 
-Playing keep away is the most common way to catch lake trout. It is not unheard of to have a fish shoot off the bottom and chase your lure 50, 60, 70 feet or more. One of the hardest habits to break is not finesing them. They will become uninterested if you try and intise them to bite like you would a walleye or panfish. If you mark a fish, then start reeling! Typically the marks that show up mid column are more tuned up. Burn past them and watch them close the distance. If they hit, set the hook hard and hold on!
+Playing keep away is the most common way to catch lake trout. It is not unheard of to have a fish shoot off the bottom and chase your lure 50, 60, 70 feet or more. One of the hardest habits to break is not finessing them. They will become uninterested if you try and intise them to bite like you would a walleye or panfish. If you mark a fish, then start reeling! Typically the marks that show up mid column are more tuned up. Burn past them and watch them close the distance. If they hit, set the hook hard and hold on!
 
 ## Where to Go
-You can fish for lake trout anywhere that you can get to the right depths. Starting at 21st Ave E in downtown duluth there are a few great spots to get out on the ice and into deep water. Follow scenic highway north and you will find multiple locations that you can park and get to the ice.
+You can fish for lake trout anywhere that you can get to the right depths. Starting at 21st Ave E in downtown Duluth there are a few great spots to get out on the ice and into deep water. Follow scenic highway north and you will find multiple locations that you can park and get to the ice.
 
 ## Safety First
-Be careful out there, Even if there is 12" of ice in one area there can be cracks and ice heaves a few ft wide with skim ice. Bring a spud bar, rope, ice picks, and a buddy. Keep an eye on the wind as well. A strong wind from the west can push the ice out into the middle of the lake. If you are looking for current ice conditions, call [Marine General](https://www.marinegeneral.com/) at (218) 724-8833.
+Be careful out there, Even if there is 12" of ice in one area there can be cracks and ice heaves a few feet wide with skim ice. Bring a spud bar, rope, ice picks, and a buddy. Keep an eye on the wind as well. A strong wind from the west can push the ice out into the middle of the lake. If you are looking for current ice conditions, call [Marine General](https://www.marinegeneral.com/) at (218) 724-8833.
 
 ## A Mememorable fish
 

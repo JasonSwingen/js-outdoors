@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To: Catch A Lake Superior Pink Salmon"
-modified: September 10, 2019
+modified: September 20, 2019
 categories: [fishing]
 tags: [fishing, salmon, north shore, lake superior, fly-fishing, trout]
 published: True
@@ -17,7 +17,9 @@ date: 2018-08-28T07:27:19-05:00
 
 <h1 id="howtopink">Getting Started In Pink Salmon Fishing</h1>
 
-> **September 10th, 2019 update**: There have been a few reports of pink salmon being caught near the mouths of the north shore tributaries. The recent rains should help push them in. Check the current <a href="/fishing/north-shore-river-flows">north shore river flows here</a>.
+> **September 10th, 2019 update**: There have been a few reports of pink salmon being caught near the mouths of the north shore tributaries. The recent rains should help push them in.
+
+> **September 20th, 2019 update**: The recent rains have increased the river flow and pushed pink salmon well up into the rivers! There doesn't seem to be as many as last year, but the fish tend to be larger! Check the current <a href="/fishing/north-shore-river-flows">north shore river flows here</a>.
 
 Pink salmon are one of the most underrated migratory fish on the north shore. They often enter Lake Superior's tributaries in great numbers, they can be fairly easy to find, and **they fight extremely hard for their size**. They are a great species for beginners to get started into fly fishing as well as great for advanced anglers to fine-tune their skills in preparation for the spring steelhead run.
 
@@ -47,7 +49,9 @@ Most pinks are typically 12 to 16 inches long and weigh a couple of pounds. Alth
 Under the <a target="_blank" href="https://www.dnr.state.mn.us/regulations/fishing/index.html">current MNDNR regulations</a> you can catch and keep a combination of any **5 salmon** (Chinook, Coho, Pink, Atlantic), with a minimum length of 10". Although not thought of as one of the best-eating fish, you shouldn't feel too bad about keeping a few since pink salmon will not live after spawning, so keeping a limit of pinks will have a very minimal impact on the overall population. Unlike steelhead that run up the river to spawn then travel back down to the lake, pink salmon will stay in the rivers after spawning but will start to decay after a few weeks.
 
 ## When Can I Catch Them?
-Depending on river temperature and river flow, the fall run usually begins in **September** but can start as early as August or as late as October. The typical life cycle of a pink salmon consists of hatching during the winter after the fall spawn, then moving out into the lake to grow and returning after two years. Originally they would only spawn every other year (on even years), but today there are schools that have gotten off-track, so there is currently a run of pink salmon every year!
+Depending on river temperature and river flow, the fall run usually begins in **September** but can start as early as August or as late as October. It is important to keep your eyes on the <a href="/fishing/north-shore-river-flows/">north shore river flows</a> in order to see when the best time to fish is. You should look for a spike in river flows that will push the fish into the rivers. The spike in flow will also cause the rivers be more difficult to fish and decrease visibility. Generally a day or two after a significant rain is the best time to fish the north shore.
+
+The life cycle of a pink salmon consists of hatching during the winter after the fall spawn, then moving out into the lake to grow and returning after two years. Originally they would only spawn every other year (on even years), but today there are schools that have gotten off-track, so there is currently a run of pink salmon every year!
 
 ## Where Can I Catch Them?
 There is no secret spot to find them. Most tributaries on the north shore will take a run of pinks, from Duluth all the way into Canada. Once you find a river on the north shore that you want to fish you'll still have to find them. It is usually a good idea to work your way from the mouth of the rivers and work your way up. These fish aren't the best jumpers, so if you get to a medium-sized waterfall there is a good chance they haven't made it past that point.

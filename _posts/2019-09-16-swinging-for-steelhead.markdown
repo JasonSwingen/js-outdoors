@@ -4,7 +4,7 @@ title: "How To Swing for Steelhead [Beginner's Guide]"
 modified:
 categories: [fishing]
 tags: [fly-fishing, steelhead, lake superior, trout, techniques, tips]
-published: True
+published: False
 comments: True
 ads: False
 excerpt: The gear, locations, casts, and techniques used to swing for steelhead on the Brule River as well as any river steelhead are located in.
