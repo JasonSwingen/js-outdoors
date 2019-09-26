@@ -128,6 +128,20 @@
 	}
 }
 
+
+.btn-inline {
+	@extend .btn;
+	background-color: $accent-color;
+	padding: 0px 10px;
+	margin-bottom: 0.3rem;
+	&:visited {
+		color: $white;
+	}
+	&:hover {
+		background-color: lighten($accent-color, 10);
+	}
+}
+
 /*
    Social media buttons
    ========================================================================== */
