@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Northern Minnesota Fly Fishing Resources"
-modified:
+modified: September 20, 2019
 categories: [fishing]
 tags: [fishing, fly-fishing, trout, salmon, guides, lake superior]
 published: True
@@ -95,6 +95,9 @@ Ready to get into fly fishing, buy some new equipment, learn about new waters, c
 -   <a target="_blank" href="http://www.northshoreguideservice.com/">North Shore Guide Service</a>
     -   Aaron Gerlovich and Jamie Cotner know how to find fish no matter what time of year. They are often fishing the shore in the winter, hitting the steelhead in the spring, transitioning to brook trout in the summer, and pinks salmon and Brule river steelhead again for the fall run. They can always put you on fish. Check out a recent video of <a target="_blank" href="https://www.youtube.com/watch?v=GCYmVaINz-g&t=2s">Aaron fishing for Steelhead with In-Depth Outdoors</a>
     - <a target="_blank" rel="nofollow" class="btn-social facebook" href="https://www.facebook.com/MNNorthshoreguideservice/"><i class="fa fa-facebook" aria-hidden="true"></i></a> <a target="_blank" rel="nofollow" class="btn-social instagram" href="https://www.instagram.com/mnnorthshoreguideservice/"><i class="fa fa-instagram" aria-hidden="true"></i></a> <a class="btn btn-social" target="_blank" href="http://www.northshoreguideservice.com/contact.html">Contact</a>
+-   <a target="_blank" href="http://catchingadventures.com/">Catching Adventures</a>
+    - Dedicated to helping people of all ages learn to fish. Our mission is to work with beginners and teach them the basic tools needed for an enjoyable day of fishing. Success is rooted in three simple principles; Introduction, Education and Enjoyment. Come fishing with Catching Adventures today!
+    - <a target="_blank" rel="nofollow" class="btn-social facebook" href="https://www.facebook.com/catchingadventures/"><i class="fa fa-facebook" aria-hidden="true"></i></a> <a target="_blank" rel="nofollow" class="btn-social instagram" href="https://www.instagram.com/catching_adventures/"><i class="fa fa-instagram" aria-hidden="true"></i></a> <a class="btn btn-social" target="_blank" href="http://catchingadventures.com/contact/">Contact</a>
 -   <a target="_blank" href="https://faroutflyfishing.com/">Far Out Fly Fishing</a>
     -   Better known for catching giant muskies on the fly. Far Out Fly Fishing also has options for steelhead, pike, and bass.
     - <a target="_blank" rel="nofollow" class="btn-social instagram" href="https://www.instagram.com/faroutflyfishing/"><i class="fa fa-instagram" aria-hidden="true"></i></a> <a class="btn btn-social" target="_blank" href="https://faroutflyfishing.com/contact/">Contact</a>
@@ -135,6 +138,7 @@ Ready to get into fly fishing, buy some new equipment, learn about new waters, c
 -   <a target="_blank" href="http://minnesotasteelheader.blogspot.com/">MN Steelheader: Fishing Reports</a>
 
 ## Water Conditions
+-   <a href="/fishing/north-shore-river-flows/">North Shore River Flows</a>
 -   <a target="_blank" href="http://www.coastwatch.msu.edu/superior/s11.html">Lake Superior Water Surface Temps</a>
 -   <a target="_blank" href="https://coastwatch.glerl.noaa.gov/modis/modis.php?region=s">Lake Superior Satellite Imagery</a>
 -   <a target="_blank" href="https://waterdata.usgs.gov/nwis/uv?04015330">Knife River</a>
