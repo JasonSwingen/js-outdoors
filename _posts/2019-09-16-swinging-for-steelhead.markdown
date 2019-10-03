@@ -15,6 +15,17 @@ image:
 date: 2019-09-16T11:38:35-05:00
 ---
 
+So you think you want to get into the world of swinging for steelhead. There is a lot to cover, and even more opinions on techniques and gear you should be using, but first you should decide if swinging is right for you.
+
+I tend to think of fishing as a timeline. Many of us starting out with a hook, link, and sinker. Place a worm or minnow on your hook, tie on a bobber and wait. Then eventually we moved onto casting lures. And finally, picked up a fly rod and dove into the world of fly fishing. I feel that swinging flies is simply the next step in the progression of the angler. Catching steelhead or any fish for that matter can easily be done with the simplest forms of fishing. You can catch a steelhead or nearly any fish with a worm and hook, but as fly-fisherman I believe we shouldn't just monotonously go through the motions, but challenge ourselves to try something different and more challenging. You will not catch as many fish as you would nymphing, but if all you cared about is catching the most amount of fish there are much easier ways that fly-fishing, and that is the reason why we do it. So to summarize - swinging flies isn't for everyone. It depends on what you care about more the destination or the trip. As well as your dedication, ability to put time in on the water, and willingness to catch less fish, but have each fish you do catch be that much more special.
+
+Swinging flies can be extremely intimating. New rods, reels, lines, flies, techniques. Should you really go out and buy hundreds of dollars worth of gear just to catch steelhead in a less efficient way? It seems a little counter intuitive. Then once you have all that new gear are you going to actually use it, or will it end up like your old spinning rods stacked in the corner of your garage.
+
+The good thing is that that you don't necessarily need to go out and buy a bunch of new gear to get started. The first fish I ever caught on the swing was using a 9' 5wt fly rod with floating line, a rod that you probably already have. I simply tied on a weighted streamer and extended my leader to 12'. A forceful roll cast clumsily got my fly to the other side of the main current towards the tailout of a large pool and a few seconds into the swing my rod was nearly pulled out of my hand. With the confidence that I could catch a steelhead on the swing allowed me to put more time in swinging and a few days later I hooked two more steelhead on the swing!
+
+
+
+
 Do you want to learn the most effective techniques used to catch steelhead on the fly? This article will cover all of the **most popular fly fishing techniques** as well as the **best conditions to use each one**. It mainly covers tributaries on the north shore of Lake Superior, but also rivers like the Brule in Wisconsin, and many other Great Lakes Tributaries. By the end of this article you will have learned the following:
 
 -   Multiple nymphing and swinging techniques.
@@ -25,7 +36,7 @@ Do you want to learn the most effective techniques used to catch steelhead on th
 <hr>
 
 <figure>
-  <img title="**North Shore Steelhead**" src="/images/**north-shore-steelhead-techniques**.jpg">
+  <img title="*" src="/images/*.jpg">
   <figcaption>*</figcaption>
 </figure>
 
