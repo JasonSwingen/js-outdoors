@@ -3,43 +3,44 @@ layout: default
 ---
 
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
-    <div class="wrap page-lead-content">
-        <h1>{{ page.title }}</h1>
-    </div>
+  <div class="wrap page-lead-content">
+    <h1>{{ page.title }}</h1>
+  </div>
 </div>
 
 <div id="main" role="main">
-	<article class="wrap" itemscope itemtype="http://schema.org/Article">
+  <article class="wrap" itemscope itemtype="http://schema.org/Article">
 
 
 
-		<div class="centerpage">
+    <div class="centerpage">
 
-			<div id="content" class="page-content" itemprop="articleBody">
-				{% include breadcrumbs.html %}
-				{{ content }}
-				&nbsp;
-				<footer class="page-footer">
-					{% if page.share != false %}{% include share-this.html %}{% endif %}
-					{% if page.categories %}{% include page-author.html %}{% endif %}
-					{% include page-meta.html %}
-				</footer><!-- /.footer -->
-				<aside>
-				{% if page.comments == true %}
-					{% include comments.html %}
-				{% endif %}
-				<h3>Tags</h3>
-					<div class="page-tag">
-					  {% for tag in page.tags %}
-					    <span>
-					        <a href="{{site.baseurl}}/tags#{{tag}}" class="btn-social tag">{{ tag }}</a>
-					    </span>
-					  {% endfor %}
-						<a class="btn-social tag" href="{{site.baseurl}}/tags">view all tags</a>
-					</div>
-				{% include related-posts.html %}
-				</aside>
-			</div>
-		</div><!-- /.inner-wrap -->
-	</article><!-- ./wrap -->
+      <div id="content" class="page-content" itemprop="articleBody">
+        {% include breadcrumbs.html %}
+        <div class="page-meta">Written by <a href="{{ site.url }}/about.html">Jason Swingen</a>, {% include page-meta.html %}</div>
+        {{ content }}
+        &nbsp;
+        <footer class="page-footer">
+          {% if page.share != false %}{% include share-this.html %}{% endif %}
+          {% if page.categories %}{% include page-author.html %}{% endif %}
+          {% include page-meta.html %}
+        </footer><!-- /.footer -->
+        <aside>
+          {% if page.comments == true %}
+          {% include comments.html %}
+          {% endif %}
+          <h3>Tags</h3>
+          <div class="page-tag">
+            {% for tag in page.tags %}
+            <span>
+              <a href="{{site.baseurl}}/tags#{{tag}}" class="btn-social tag">{{ tag }}</a>
+            </span>
+            {% endfor %}
+            <a class="btn-social tag" href="{{site.baseurl}}/tags">view all tags</a>
+          </div>
+          {% include related-posts.html %}
+        </aside>
+      </div>
+    </div><!-- /.inner-wrap -->
+  </article><!-- ./wrap -->
 </div><!-- /#main -->
