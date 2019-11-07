@@ -79,9 +79,6 @@ Ready to get into fly fishing, buy some new equipment, learn about new waters, c
     - <a target="_blank" rel="nofollow" class="btn-social facebook" href="https://www.facebook.com/BruleRiverSportsmensClub/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
 -   <a target="_blank" href="http://www.lrcd.org/lake-superior-coldwater-coalition.html">Lake Superior Coldwater Coalition</a>
     - An organization built to maintain, protect, and restore healthy cold water ecosystems with relatively stable flows and a diversity of habitat for fish and wildlife to enhance our quality of life.
--   <a target="_blank" href="http://www.kamloopsadvocates.org/">Kamloops Advocates</a>
-    - They Provide information and education on Minnesota's premier hatchery based Lake Superior trophy and harvest rainbow trout fishery. Kamloops Advocates are a user group dedicated to supporting an effective Kamloops program and the economic, recreational, and social fishing opportunities that it provides.
-
 
 ## Local Guides
 
@@ -91,7 +88,6 @@ Ready to get into fly fishing, buy some new equipment, learn about new waters, c
 -   <a target="_blank" href="http://flyboxmn.com/">Fly Box & Company</a>
     -  They offer classes in Tenkara fly fishing, and an introduction to fly casting. Once you are ready to hit the water they guide steelhead fly fishing trips in the spring and inland lake fly fishing during the summer.
     - <a target="_blank" rel="nofollow" class="btn-social facebook" href="https://www.facebook.com/flyboxmn"><i class="fa fa-facebook" aria-hidden="true"></i></a> <a target="_blank" rel="nofollow" class="btn-social instagram" href="https://www.instagram.com/flyboxmn/"><i class="fa fa-instagram" aria-hidden="true"></i></a> <a class="btn btn-social" target="_blank" href="http://flyboxmn.com/contact/">Contact</a>
-    <!-- - If you feel like paddling or hiking the north shore check out Make Bartz's guiding company at <a target="_blank" rel="nofollow" href="borderlakestourcompany.com">Border Lakes Tour Company</a> -->
 -   <a target="_blank" href="http://www.northshoreguideservice.com/">North Shore Guide Service</a>
     -   Aaron Gerlovich and Jamie Cotner know how to find fish no matter what time of year. They are often fishing the shore in the winter, hitting the steelhead in the spring, transitioning to brook trout in the summer, and pinks salmon and Brule river steelhead again for the fall run. They can always put you on fish. Check out a recent video of <a target="_blank" href="https://www.youtube.com/watch?v=GCYmVaINz-g&t=2s">Aaron fishing for Steelhead with In-Depth Outdoors</a>
     - <a target="_blank" rel="nofollow" class="btn-social facebook" href="https://www.facebook.com/MNNorthshoreguideservice/"><i class="fa fa-facebook" aria-hidden="true"></i></a> <a target="_blank" rel="nofollow" class="btn-social instagram" href="https://www.instagram.com/mnnorthshoreguideservice/"><i class="fa fa-instagram" aria-hidden="true"></i></a> <a class="btn btn-social" target="_blank" href="http://www.northshoreguideservice.com/contact.html">Contact</a>
@@ -101,12 +97,6 @@ Ready to get into fly fishing, buy some new equipment, learn about new waters, c
 -   <a target="_blank" href="https://faroutflyfishing.com/">Far Out Fly Fishing</a>
     -   Better known for catching giant muskies on the fly. Far Out Fly Fishing also has options for steelhead, pike, and bass.
     - <a target="_blank" rel="nofollow" class="btn-social instagram" href="https://www.instagram.com/faroutflyfishing/"><i class="fa fa-instagram" aria-hidden="true"></i></a> <a class="btn btn-social" target="_blank" href="https://faroutflyfishing.com/contact/">Contact</a>
--   <a target="_blank" href="http://fbnguideservice.com">Fly By Night Guide Service</a>
-    -   Fly By Night Guide Service has been guiding fly-fishermen on the waters of Northern Wisconsin since 1989. They guide everything from night fishing for trophy trout on the beautiful Bois Brule River (our specialty), to steelhead, smallmouth bass, pike and musky.
-    - <a target="_blank" rel="nofollow" class="btn-social facebook" href="https://www.facebook.com/Fly-By-Night-Guide-Service-LLC-179659128718336/"><i class="fa fa-facebook" aria-hidden="true"></i></a> <a class="btn btn-social" target="_blank" href="http://fbnguideservice.com/contact-us/?doing_wp_cron=1535140966.1415600776672363281250">Contact</a>
--   <a target="_blank" href="https://www.instagram.com/arrowheadangling/">Arrowhead Angling</a>
-    -  Local angler Matthew Remark has been fishing the Arrowhead for years and was recently featured on In-Depth Outdoors video on steelheading the north shore.
-    - <a target="_blank" rel="nofollow" class="btn-social instagram" href="https://www.instagram.com/arrowheadangling/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
 -   <a target="_blank" href="http://www.fishhuntuto.com/">Unlimited Trophy Outfitters</a>
     - Guided Fishing and Hunting Trips around Lake Superior's Chequamegon Bay and Surrounding Area.
 -   <a target="_blank" href="http://haywardflyfishingcompany.com/">Hayward Fly Fishing Company</a>
