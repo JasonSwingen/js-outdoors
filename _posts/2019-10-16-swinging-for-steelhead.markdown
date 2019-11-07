@@ -4,7 +4,7 @@ title: "How To Swing for Steelhead [Beginner's Guide]"
 modified:
 categories: [fishing]
 tags: [fly-fishing, steelhead, lake superior, trout, techniques, tips]
-published: False
+published: True
 comments: True
 ads: False
 excerpt: The gear, locations, casts, and techniques used to swing for steelhead on the Brule River as well as any river steelhead are located in.
@@ -12,16 +12,39 @@ image:
   feature: lake-superior-steelhead-techniques.jpg
   teaser: lake-superior-steelhead-techniques.jpg
   thumb: lake-superior-steelhead-techniques.jpg
-date: 2019-09-16T11:38:35-05:00
+date: 2019-10-16T11:38:35-05:00
 ---
 
-So you think you want to get into the world of swinging for steelhead. There is a lot to cover, and even more opinions on techniques and gear you should be using, but first you should decide if swinging is right for you.
+So you think you want to get into the world of swinging for steelhead. There is a lot to cover, and even more opinions on techniques and gear you should be using, but first you should decide if swinging is right for you. But even if you don't think swinging is right for you I truly believe learning how to spey cast will improve your fly fishing by allowing you to reach further distances in tigher spots with your standard streamer or nymphing rigs.
 
-I tend to think of fishing as a timeline. Many of us starting out with a hook, link, and sinker. Place a worm or minnow on your hook, tie on a bobber and wait. Then eventually we moved onto casting lures. And finally, picked up a fly rod and dove into the world of fly fishing. I feel that swinging flies is simply the next step in the progression of the angler. Catching steelhead or any fish for that matter can easily be done with the simplest forms of fishing. You can catch a steelhead or nearly any fish with a worm and hook, but as fly-fisherman I believe we shouldn't just monotonously go through the motions, but challenge ourselves to try something different and more challenging. You will not catch as many fish as you would nymphing, but if all you cared about is catching the most amount of fish there are much easier ways that fly-fishing, and that is the reason why we do it. So to summarize - swinging flies isn't for everyone. It depends on what you care about more the destination or the trip. As well as your dedication, ability to put time in on the water, and willingness to catch less fish, but have each fish you do catch be that much more special.
+Fishing should never be something that you master or get comfortable with. And if you do get comfortable you should experiment and try learning something new. I've talked to fisherman that have been standing on the same rock, using the same rod/reel/line, with the same fly/egg/spawn-sack that they have used since before the internet was invented. If that is all you want to do then I'm not saying that you should stop, but I just want to let you know that there is a whole new level of experience when you try something new and more challenging. We all remember that first steelhead, or bass, or walleye that we caught and how exciting it was. Don't get me wrong, I will always get excited when I catch any fish (especially a steelhead), but catching one on the swing is your best option in getting that "first fish addrenaline rush".
+
+Just like many other aspects in life the more energy and effort you put into something the more you get out.
+
+Many of us starting out with a hook, link, and sinker. Place a worm or minnow on your hook, tie on a bobber and wait. Then eventually we moved onto casting lures. And finally, picked up a fly rod and dove into the world of fly fishing. I feel that swinging flies is simply the next step in the progression of the angler. Catching steelhead or any fish for that matter can easily be done with the simplest forms of fishing. You can catch a steelhead or nearly any fish with a worm and hook, but as fly-fisherman I believe we shouldn't just monotonously go through the motions, but challenge ourselves to try something different and more challenging. You will not catch as many fish as you would nymphing, but if all you cared about is catching the most amount of fish there are much easier ways that fly-fishing, and that is the reason why we do it. So to summarize - swinging flies isn't for everyone. It depends on what you care about more the destination or the trip. As well as your dedication, ability to put time in on the water, and willingness to catch less fish, but have each fish you do catch be that much more special.
 
 Swinging flies can be extremely intimating. New rods, reels, lines, flies, techniques. Should you really go out and buy hundreds of dollars worth of gear just to catch steelhead in a less efficient way? It seems a little counter intuitive. Then once you have all that new gear are you going to actually use it, or will it end up like your old spinning rods stacked in the corner of your garage.
 
 The good thing is that that you don't necessarily need to go out and buy a bunch of new gear to get started. The first fish I ever caught on the swing was using a 9' 5wt fly rod with floating line, a rod that you probably already have. I simply tied on a weighted streamer and extended my leader to 12'. A forceful roll cast clumsily got my fly to the other side of the main current towards the tailout of a large pool and a few seconds into the swing my rod was nearly pulled out of my hand. With the confidence that I could catch a steelhead on the swing allowed me to put more time in swinging and a few days later I hooked two more steelhead on the swing!
+
+You don't *need* a dedicated rod/reel/line to swing, but it makes it easier (and more fun). Before you go out and spend a few hundred dollars on a new rod you should try single handed spey fishing. You can use your typical 9' 8wt or 7wt that you use for nymphing, buy another spool and load it up with some running line, a skagit head, and some sink tips and you can get into the swing game for less than $100.
+
+If you don't want to mess around and are ready to dive in and get rigged up for swinging you'll need to get some new gear, so let's go over some of the options you have.
+
+If you do a search for the perfect swinging rod you'll most likely find a bunch of information about fishing big west coast rivers, which a rod that works out there will work in the Great Lakes area, but it may not be the best solution. The rivers around here, like the Bois Brule and north shore rivers are not that big, and fish aren't nearly as big or have as high of flows as on the west coast so you can get away with shorter two-handed rods and lighter lines.
+
+##Gear You Will Need
+
+-   rod
+-   reel
+-   backing
+-   running line
+-   shooting head
+-   sink tips
+-   leader
+-   flies
+
+casting and technical tips
 
 
 
@@ -35,10 +58,10 @@ Do you want to learn the most effective techniques used to catch steelhead on th
 
 <hr>
 
-<figure>
+<!-- <figure>
   <img title="*" src="/images/*.jpg">
   <figcaption>*</figcaption>
-</figure>
+</figure> -->
 
 <blockquote>*</blockquote>
 
