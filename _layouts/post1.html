@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+  <div class="wrap page-lead-content">
+    <h1>{{ page.title }}</h1>
+  </div>
+</div>
+
+<div id="main" role="main">
+  <article class="wrap" itemscope itemtype="http://schema.org/Article">
+
+
+    <div class="centerpost">
+      <div id="content" class="page-content" itemprop="articleBody">
+
+        {% include breadcrumbs.html %}
+        <div class="page-meta">Written by <a href="{{ site.url }}/about.html">Jason Swingen</a>, {% include page-meta.html %}</div>
+
+        <!-- <div> {% include share-facebook.html %}</div> -->
+
+        {{ content }}
+        &nbsp;
+        <footer class="page-footer">
+
+          <aside class="section">
+            {% include share-facebook.html %}
+            <!-- <hr> -->
+            <!-- <h6>See when the fish are biting!</h6> -->
+            <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FJasonSwingenOutdoors%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="250" height="120"
+              style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+            <div class="section">{% if page.categories %}{% include page-author.html %}{% endif %}</div>
+
+            <div class="inline-btn">
+              <a class="btn-social instagram" href="https://www.instagram.com/jasonswingen/" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> Follow</a>
+              <a class="btn-social facebook" href="https://www.facebook.com/JasonSwingenOutdoors/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Like </a>
+              <a class="btn-social google-plus" href="https://www.youtube.com/channel/UCJuAVRLRC6AFV-YqN1a_6EQ" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i> Subscribe</a>
+              <!-- <a class="btn-social twitter" href="https://twitter.com/jasonswingen" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Follow on Twitter</a>
+        			<a class="btn-social google-plus" href="https://plus.google.com/+JasonSwingen" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i> Follow on Google+</a> -->
+            </div><!-- /.share-this -->
+
+
+            {% if page.comments == true %}
+            {% include comments.html %}
+            {% endif %}
+
+            {% include related-posts.html %}
+
+            {% include subscribe.html %}
+
+            {% include subscribe_popup.html %}
+
+          </aside>
+        </footer><!-- /.footer -->
+      </div><!-- /.inner-wrap -->
+      {% include sidebar.html %}
+
+  </article><!-- ./wrap -->
+</div><!-- /#main -->

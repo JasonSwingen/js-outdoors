@@ -1,0 +1,99 @@
+<div class="rightsidebar animate fadeInLeft delay">
+	&nbsp;
+
+
+	<!-- <h3>Bio</h3> -->
+	<div class="bio">
+		<img src="{{ site.url }}/images/{{ author.avatar }}" alt="{{ author.name }}">
+		<div class="">
+			Jason Swingen
+		</div>
+		<span><i class="fa fa-location-arrow"></i> Duluth, MN</span>
+		<p>{{ author.bio }}</p>
+		<div class="socialicons">
+			<a class="instagram" title="Follow on Instagram" href="https://www.instagram.com/jasonswingen/" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i></a>
+			<a class="facebook" title="Follow on Facebook" href="https://www.facebook.com/JasonSwingenOutdoors/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+			<a class="youtube" title="Follow on YouTube" href="https://www.youtube.com/channel/UCJuAVRLRC6AFV-YqN1a_6EQ" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+			<a class="twitter" title="Follow on Twitter" href="https://twitter.com/jasonswingen" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+			<a class="envelope" title="Subscribe to the Newsletter" href="http://eepurl.com/dPPVnX" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+		</div>
+	</div>
+
+	<!-- facebook -->
+	<div class="fb-page" data-href="https://www.facebook.com/JasonSwingenOutdoors" data-width="250" data-hide-cover="false" data-show-facepile="false"></div>
+
+	<!-- LightWidget WIDGET -->
+	<script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/2ba10a97594e568ebf51278ab05667c3.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+
+	<!-- <h3>Share This</h3> -->
+
+
+	<div class="relatedPosts">
+
+		<!-- <h4 class="center">You May Also Enjoy</h4> -->
+
+		{% assign maxRelated = 2 %}
+		{% assign minCommonTags = 2 %}
+		{% assign maxRelatedCounter = 0 %}
+
+		{% for post in site.posts %}
+
+		{% assign sameTagCount = 0 %}
+		{% assign commonTags = '' %}
+
+		{% for tag in post.tags %}
+		{% if post.url != page.url %}
+		{% if page.tags contains tag %}
+		{% assign sameTagCount = sameTagCount | plus: 1 %}
+		{% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+		{% assign commonTags = commonTags | append: tagmarkup %}
+		{% endif %}
+		{% endif %}
+		{% endfor %}
+
+		{% if sameTagCount >= minCommonTags %}
+		<div>
+			<h5><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">{% endif %}</h5>
+			<p class="post-title sidebar-text" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></p>
+		</div>
+		{% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+		{% if maxRelatedCounter >= maxRelated %}
+		{% break %}
+		{% endif %}
+		{% endif %}
+
+		{% endfor %}
+
+	</div>
+
+	{% include share-facebook.html %}
+
+	<!-- <div class="center"><a class="btn-inverse envelope" href="http://eepurl.com/dPPVnX" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i> Subscribe for Updates</a></div> -->
+
+	<!-- <h3>Follow Along</h3> -->
+	<!-- <div class="socialicons">
+		<a class="instagram" title="Follow on Instagram" href="https://www.instagram.com/jasonswingen/" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i></a>
+		<a class="facebook" title="Follow on Facebook" href="https://www.facebook.com/JasonSwingenOutdoors/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+		<a class="youtube" title="Follow on YouTube" href="https://www.youtube.com/channel/UCJuAVRLRC6AFV-YqN1a_6EQ" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+		<a class="twitter" title="Follow on Twitter" href="https://twitter.com/jasonswingen" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+		<a class="envelope" title="Subscribe" href="http://eepurl.com/dPPVnX" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+	</div> -->
+
+
+	<!-- <h3>Keep Reading</h3> -->
+	<!-- {% for post in site.posts limit:3 %}
+	<a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
+		{% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">
+		{% endif %}</a>
+	<p class="post-title sidebar-text" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></p>
+	{% endfor %} -->
+
+	<!-- <h3>Related Posts</h3> -->
+
+
+
+
+
+
+
+</div>

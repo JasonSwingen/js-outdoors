@@ -1,40 +1,40 @@
 <div class="rightsidebar animate fadeInLeft delay">
 	&nbsp;
 
-		<h3>Share</h3>
-		{% include share-facebook.html %}
+	<h3>Share</h3>
+	{% include share-facebook.html %}
 
-		<h3>Follow</h3>
-		<div class="inline-btn">
-			<a class="btn-social instagram" href="https://www.instagram.com/jasonswingen/" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> Follow on Instagram</a>
-			<a class="btn-social facebook" href="https://www.facebook.com/JasonSwingenOutdoors/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Like on Facebook</a>
-			<a class="btn-social youtube" href="https://www.youtube.com/channel/UCJuAVRLRC6AFV-YqN1a_6EQ" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i> Subscribe on YouTube</a>
-			<a class="btn-inverse rss" href="http://eepurl.com/dPPVnX" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i> Subscribe for Updates</a>
-			<!-- <a class="btn-social twitter" href="https://twitter.com/jasonswingen" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Follow on Twitter</a>
+	<h3>Follow</h3>
+	<div class="inline-btn">
+		<a class="btn-social instagram" href="https://www.instagram.com/jasonswingen/" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> Follow on Instagram</a>
+		<a class="btn-social facebook" href="https://www.facebook.com/JasonSwingenOutdoors/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Like on Facebook</a>
+		<a class="btn-social youtube" href="https://www.youtube.com/channel/UCJuAVRLRC6AFV-YqN1a_6EQ" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i> Subscribe on YouTube</a>
+		<a class="btn-inverse envelope" href="http://eepurl.com/dPPVnX" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i> Subscribe for Updates</a>
+		<!-- <a class="btn-social twitter" href="https://twitter.com/jasonswingen" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Follow on Twitter</a>
 			<a class="btn-social google-plus" href="https://plus.google.com/+JasonSwingen" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i> Follow on Google+</a> -->
-		</div><!-- /.share-this -->
+	</div><!-- /.share-this -->
 
-		<h3>Keep Reading</h3>
-		<div class="page-tag">
-		  {% for post in site.posts limit:3 %}
-		    <div>
-		        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="btn-social tag">{{ post.title }}</a>
-		    </div>
-		  {% endfor %}
-			<a class="btn-social tag" href="{{site.baseurl}}/blog.html">view all posts</a>
+	<h3>Keep Reading</h3>
+	<div class="page-tag">
+		{% for post in site.posts limit:3 %}
+		<div>
+			<a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="btn-social tag">{{ post.title }}</a>
 		</div>
+		{% endfor %}
+		<a class="btn-social tag" href="{{site.baseurl}}/blog.html">view all posts</a>
+	</div>
 
-		<h3>Tags</h3>
-		<div class="page-tag">
-		  {% for tag in page.tags %}
-		    <span>
-		        <a href="{{site.baseurl}}/tags#{{tag}}" class="btn-social tag">{{ tag }}</a>
-		    </span>
-		  {% endfor %}
-			<a class="btn-social tag" href="{{site.baseurl}}/tags">view all tags</a>
-		</div>
+	<h3>Tags</h3>
+	<div class="page-tag">
+		{% for tag in page.tags %}
+		<span>
+			<a href="{{site.baseurl}}/tags#{{tag}}" class="btn-social tag">{{ tag }}</a>
+		</span>
+		{% endfor %}
+		<a class="btn-social tag" href="{{site.baseurl}}/tags">view all tags</a>
+	</div>
 
-		<!-- <h3>Recent Articles</h3>
+	<!-- <h3>Recent Articles</h3>
 		{% for post in site.posts limit:5 %}
 		<a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">{% if post.image.teaser %}<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
 		    {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">

@@ -1,15 +1,18 @@
-<div class="PageNavigation">
+&nbsp;
+<div class="section">
+  <div class="PageNavigation">
 
-  {% if page.previous.url %}
+    {% if page.previous.url %}
     <a class="prev btn-accent" href="{{page.previous.url}}">{{page.previous.title}} &raquo;</a>
-  {% else %}
+    {% else %}
     <a class="next"></a>
-  {% endif %}
+    {% endif %}
 
-  {% if page.next.url %}
-    <a class="next btn" href="{{page.next.url}}">&laquo; {{page.next.title}} </a>
-  {% else %}
+    {% if page.next.url %}
+    <a class="next btn-accent" href="{{page.next.url}}">&laquo; {{page.next.title}} </a>
+    {% else %}
     <a class="prev"></a>
-  {% endif %}
+    {% endif %}
 
+  </div>
 </div>
