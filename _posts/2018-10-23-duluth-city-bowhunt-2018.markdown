@@ -4,7 +4,7 @@ title: "2018 Duluth City Bowhunt"
 modified:
 categories: [hunting]
 tags: [hunting, bow, bowhunting, duluth]
-published: False
+published: True
 comments: True
 ads: False
 image:
