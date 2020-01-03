@@ -15,6 +15,8 @@ image:
 date: 2019-09-25T09:24:24-05:00
 ---
 
+> *The rivers are currently frozen. Many of the guages will not show accurate information. Please check back in the spring!*
+
 The latest rivers flow data from all of the major North Shore Tributaries of Lake Superior. See the current (real-time) flow data from the <a href="#sucker">Sucker</a>, <a href="#knife">Knife</a>, <a href="#baptism">Baptism</a>, <a href="#poplar">Poplar</a>,
 and Arrowhead <a href="#brule">Brule</a> all on one page! You can also view <a href="#allrivers">all 5 rivers</a> in a single chart. If you need help understanding this data you can <a href="#helper">learn how to read these charts</a> below.
 <!-- There's also a bonus <a href="#brule_wi">Brule River (WI) Gauge</a>. -->
