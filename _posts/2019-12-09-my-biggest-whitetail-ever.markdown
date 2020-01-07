@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Biggest Whitetail Ever"
+title: "The Highs and Lows of Bowhunting"
 modified:
 categories: [hunting]
 tags: [hunting, bow, bowhunting, minnesota, duluth]
@@ -14,32 +14,33 @@ image:
 date: 2019-12-09T07:12:27-05:00
 ---
 
-This bowhunting season started off to a rough start. I didn't see any deer deer my first sit, then I started getting into deer, but unfortunately it was while I was walking in to my stand 2 mornings in a row in different stand locations. The first deer was standing a few feet from my stand as I was walking in, and ran off stomping and blowing for 20-30 minutes trying to figure out what I was. After hunting the rest of the morning and not seeing anything I decided to sit in my other stand the next morning. Just like my sit before I was heading into my stand in the dark and just before I got to my stand I walked right through the woods into another deer.
+I'm not going to lie. This bowhunting season started off to a rough start, and got worse.
 
-Then, my next handful of sits not seeing any deer had me telling my self that I must have scared all of the deer out of the woods.
+I was extremely excited for this year's bow season. I had just gotten my first buck with a bow the previus year and had a higher level of confidence. I had also upgraded some of my equipment and been shooting more this year than ever before. I felt confident and been seeing deer on my trail camera.
 
-I just wanted to see a deer. After only hearing deer running away in the darkness I was ready to at least see one. Eventually I did, although it was just a fork-horn.
+That excitement soon subsided after my first two morning sits resulting in walking into the woods only to spook deer that had been standing directly under my stand, then my next handful of hunts not seeing a single deer. I had to convince myself that I hadn't scared all the deer out of the woods and ruined my locations I kept hunting. All I wanted was to see a deer, to give myself some confidence that I was setup in the right areas.
 
-Right after I watched the fork-horn walked by my stand I turned back and saw a large black blob 40 yards in front of me. A black bear had wandered through the woods and stopped right in front of my stand. It stood up and scratched it's back on a tree, then within 5 yards of the tree I was in.
-
-<figure>
-<a target="_blank" href="https://www.instagram.com/p/B3f8ngPh0Ku/?utm_source=ig_web_button_share_sheet" title="watch the video on Instagram"><img src="/images/bear.jpg" alt="blackbear"></a>
-<figcaption><a target="_blank" href="https://www.instagram.com/p/B3f8ngPh0Ku/?utm_source=ig_web_button_share_sheet" title="watch on Instagram">Watch the video I took of this bear!</a></figcaption>
-</figure>
+After seven sits of bumping a few deer or simply not seeing any I finally saw my first ungulate of the year. Naturally, because the city hunt requires that I shoot an antlerless deer before a buck, the first deer I saw was a buck. It was just a fork-horn, but he was still a welcome sight in the quiet woods. Soon after watching the buck walk back behind my stand I turned around to see a big black blob through the woods about 40 yards in front of me. It took a few seconds of intense blinking to realize it was a black bear. I watched as it stood up and scratched it's back on a tree, then got back on all fours and slowly walked right toward my tree. It walked within 10 feet of my tree and just kept on walking. You can <a target="_blank" href="https://www.instagram.com/p/B3f8ngPh0Ku/?utm_source=ig_web_button_share_sheet" title="watch the video on Instagram">watch the video I took of the bear</a>.
 
 ## The Lows of Bowhunting
 
-After not seeing much for deer my previous handful of hunts I decided to move locations. I setup my climber in a tree in the middle of some oak trees and waited for a good wind to come back for a hunt.
+After only seeing that one small buck and watching two deer run by just before last light I decided to more locations. So I setup my climber in a tree in the middle of some oak trees and waited for a good wind to come back for a hunt.
 
-I went back in to hunt a few days later. It was the first morning that temperature had dipped below freezing and I was expecting to see some movement. It had just settled down in my stand and looked off over my left shoulder and saw a deer standing within 20 yards of my stand. It was still pretty dark out, but I could tell it was a fawn.
+I went back in to hunt a few days later. It was the first morning that temperature had dipped below freezing and I was expecting to see some movement. It had just settled down in my stand and looked off over my left shoulder and saw a deer standing within 20 yards of my stand. It was still pretty dark out, but I could tell it was a fawn. I grabbed for my bow and waited for more light.
 
-After 10 minutes it was just starting to get light out, and just before shooting light as I was watching the fawn I heard leaves crunching behind me. I slowly turned and watched a decent 8-point buck walk up over a hill and walk directly towards the fawn. He stopped to freshen up a scrape, then continued on walking within 15 yards of my stand. I still needed an antlerless deer before I could shoot the buck. So I watched the buck walked right past me and up to the fawn on the other side of my stand. The fawn jumped and I thought the buck was going to chase it off, but it looped around and started walking down a path 25 yards from me. I drew back my bow and grunted to stop the deer. It stopped with a sapling directly in front of it's vitals. I leaned off to the right to get a little better angle and shot.
+After 10 minutes it was just starting to get light out. Just before shooting light as I was watching the fawn I heard leaves crunching behind me. I slowly turned and watched a nice 8-point buck walk up over a hill and walk directly towards the fawn. He stopped to freshen up a scrape, then continued on walking within 15 yards of my stand. I still needed an antlerless deer before I could shoot the buck. So I watched the buck walked right past me and up to the fawn on the other side of my stand. The fawn jumped and I thought the buck was going to chase it off, but it looped around and started walking down a path 25 yards from me. I drew back my bow and grunted to stop the deer. It stopped with a sapling directly in front of it's vitals. I leaned off to the right to get a little better angle and shot.
 
-Whack! I hit the deer perfectly up and down, but I had held too close to its front shoulder because the tree was in my way and I hit it right in the shoulder. I watched the deer run off with my arrow mostly sticking out of it's side. I didn't know what to think. It seemed like a good shot, but I didn't know how much penetration I had. Because I was using a lighted nock I could see that my arrow had fallen out a maybe 20-30 yards away.
+Whack! I watched as the arrow hit the deer. It looked like a great shot, but I had held too close to its front shoulder because the tree was in my way and I hit it right in the shoulder. I watched the deer run off with my arrow mostly sticking out of it's side. I didn't know what to think. It seemed like a good shot, but it didn't look like I had very good penetration. Because I was using a lighted nock I could see that my arrow had fallen out a maybe 20-30 yards away.
 
-I sat up in my stand for 15 minutes trying to convince myself it was a good shot, then thinking my arrow just bounced off it's shoulder somehow. If I could just look at my arrow I would know. So I climbed out of my stand to grab my arrow, but just as I got to my arrow I heard a deer run off in the woods.
+I sat up in my stand for 15 minutes trying to convince myself it was a good shot, then thinking my arrow just bounced off it's shoulder somehow. If I could just look at my arrow I would know. So I climbed out of my stand to grab my arrow, but just as I got to my arrow I heard a deer run off in the woods...
 
-I texted my wife to come help track the deer, becoming more and more worried that that deer I had heard was the one that I had shot, and because of my lack of patience I had bumped it. We spend the rest of the day tracking that deer only finding small drops of blood for over 200 yards. I went back in the next morning as well and walking circles around the last drop of blood, but I never recovered the deer.
+I texted my wife to come help track the deer, becoming more and more worried that that deer I had heard was the one that I had shot, and because of my lack of patience I had bumped it. We spend the rest of the day tracking that deer only finding small drops of blood for over 200 yards. Then eventually we lost blood. I called a few friends to help me track it in the afternoon, but we still weren't able to find the deer or any more blood. I went back in the next morning as well and walking circles around the last drop of blood, until I was physically and mentally exhausted but I never recovered the deer.
+
+I was so anxious to finally get a deer that I ended up not recovering it at all. This was the first deer I have ever shot (gun or bow) and not recovered. It's a sickening feeling that I never want to happen again. I kept running the scenario through my head again and again. If only I had waited for more light. If only I didn't stop the deer and let it stop on its own. It only I didn't get out of my stand so soon.
+
+I didn't think I could deal with injuring another deer and was thinking about packing up the bow for at least the season if not good.
+
+
 
 I was so anxious to have finally got a deer that I forgot to be patient and give it time. I am sure I would have recovered the deer if I just would have waited another hour. It's not easy for me to write about my mistakes, but I'm not going to pretend that this was just an accident and there was nothing I could have done. In hindsight there are many things I would have done different, but that is part of hunting and part of life. Learn from your mistakes and don't make them again.
 
