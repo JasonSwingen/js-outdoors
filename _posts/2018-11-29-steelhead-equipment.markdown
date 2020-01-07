@@ -51,6 +51,7 @@ Everyone has there own ideas on their favorite brands and styles for fishing gea
     -   **Nymphs / Stoneflies** _in sizes 6 to 12_
         -   Pheasant tail
         -   Hare's Ear
+        -   Prince Nymph
         -   Frenchie
         -   Copper John
         -   Hairy Ass Stone
@@ -88,6 +89,8 @@ Everyone has there own ideas on their favorite brands and styles for fishing gea
     -   If you fish yarn on snelled hooks, or fish with beads you'll need extra hooks. I've tried many different types of hook brands, in different sizes. You'll want to pair the hook size and strength to your line as well as your rod. Most hooks range from size 6 all the way down to size 14.
 -   **Pack/Vest**
     -   Sling packs are my favorite because they allow you to easily swing them around and get whatever, then swing them to your back and get them out of your way.
+-   **Fly Box**
+    -   I picked up a <a target="_blank" href="https://amzn.to/36pjN2T">Brook fly Box</a> on a whim at the <a target="_blank" href="http://greatwatersflyexpo.com/">Great Waters Fly Fishing Expo</a> and it turned out to be a great invenstment. I had been buying cheap fly boxes with foam inserts, but after a few seasons of loosing flies due to ripping holes in the foam I had decided to upgrade. The Brook fly box is still like new and hold my flies securely.
 -   **Strike Indicators**
     -   **Airfo Airlock Strike Indicators:** I use 3/4" and 1" Airlock indicators most of the time. They are durable, easy to see, easy to change depth, and easy to change between sizes and colors. The only cons are that they are relatively heavy making them harder to roll cast than other strike indicators.
     -   **Thill Bobbers:** Great little indicators for fly fishing. They are colored a two-tone color of bright orange and bright chartreuse. This can be extremely helpful when nymphing because the bobber will lay on its side until your weight and nymph are pulling straight down. This way you can tell exactly when you are fishing the correct depth. The main downside is that you need to string your leader through them, which makes it more difficult to change out to a different size or style of indicator. However, they are not as durable as a Thingamabobbers or Airlocks.
@@ -115,7 +118,7 @@ If you are have everything you need to catch steelhead, but are looking to get a
 {% endif %}
 
 {% if item.Link %}
-<span title="Buy {{item.Name}} on Amazon">{{item.Link}}</span>
+<span title="Buy {{item.Name}}">{{item.Link}}</span>
 {% endif %}
 
 {% endfor%}
