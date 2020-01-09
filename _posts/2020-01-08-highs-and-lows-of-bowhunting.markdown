@@ -11,7 +11,7 @@ image:
   feature: 2019-Whitetail-Buck.jpg
   teaser: 2019-Whitetail-Buck.jpg
   thumb: 2019-Whitetail-Buck.jpg
-date: 2019-12-09T07:12:27-05:00
+date: 2020-01-08T07:12:27-05:00
 ---
 
 I'm not going to lie. This bowhunting season started off to a rough start and got worse.
@@ -21,11 +21,11 @@ I was extremely excited for this year's bow season. I had just gotten my first b
 That excitement soon subsided after my first two morning sits resulted in walking into the woods only to spook deer that had been standing directly under my stand, then my next handful of hunts were extremely slow. I had to convince myself that I hadn't scared all the deer out of the woods and ruined my locations. All I wanted was to see a deer, to give myself some confidence that I was set up in the right areas.
 
 
-<img src="/images/2019_stealthcam_3.jpg">
+<img src="/images/2019_stealthcam_3.JPG">
 
 <figure class="half">
-	<img src="/images/2019_stealthcam_2.jpg">
-  <img src="/images/2019_stealthcam_1.jpg">
+	<img src="/images/2019_stealthcam_2.JPG">
+  <img src="/images/2019_stealthcam_1.JPG">
 	<figcaption>A few bucks caught on my Stealthcam.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ I was considering packing up the bow for at least the season if not good. Fortun
 A week later (and dozens of arrows shot through my bow in the backyard) I decided to get back in the woods. I didn't think I would be able to mentally handle losing another deer so I was only going to shoot if I had a deer standing broadside, within 20 yards, during the day, that didn't know I was there. After my slow start to the season, I wasn't very optimistic, but the rut was just starting to pick up and I was starting to see a few more deer on my trail camera during the day.
 
 <figure>
-    <img src="/images/2019_stealthcam_4.jpg" alt="Trailcam Buck">
+    <img src="/images/2019_stealthcam_4.JPG" alt="Trailcam Buck">
     <figcaption>One of the bucks I caught on my trail camera during the rut.</figcaption>
 </figure>
 
