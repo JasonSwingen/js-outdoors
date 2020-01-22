@@ -2,17 +2,46 @@
    Breadcrumb navigation
    ========================================================================== */
 
+ // .breadcrumbs {
+ //   @include row;
+ //   // margin-top: $gutter;
+ //   padding-top: $gutter;
+ //   clear: both;
+ //   @include font-size(10,no);
+ //   a {
+ //     display: inline-block;
+ //     font-family: $alt-font;
+ //     font-weight: 700;
+ //     text-align: left;
+ //     text-transform: uppercase;
+ //   }
+ // }
+
 .breadcrumbs {
-  @include row;
-  // margin-top: $gutter;
-  padding-top: $gutter;
-  clear: both;
-  @include font-size(10,no);
-  a {
-    display: inline-block;
-    font-family: $alt-font;
-    font-weight: 700;
-    text-align: left;
-    text-transform: uppercase;
+  ul {
+    padding: 10px 0px 16px;
+    list-style: none;
+    float: left;
+    li {
+      display: inline;
+      font-size: 12px;
+      text-transform: uppercase;
+      font-weight: 100;
+    }
   }
 }
+.breadcrumbs::after {
+  clear:both;
+}
+
+#content ul {
+    padding-left: 0px;
+}
+
+#content ul li:before {
+    content: "\f101";
+    font-family: FontAwesome;
+    color: #FF9512;
+    margin-right: 0px;
+    margin-left: 6px
+  }

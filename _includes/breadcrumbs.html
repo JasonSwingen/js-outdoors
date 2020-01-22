@@ -1,18 +1,24 @@
 {% if page.categories and page.categories != empty %}
   <nav class="breadcrumbs">
-    <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-      <a href="/" itemprop="url">
-        <span itemprop="title">Home</span>
-      </a> ›
-      <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-        <a href="{{ site.url }}/{{ page.categories | first }}.html" itemprop="url">
-          <span itemprop="title">{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
-        </a> ›
-      </span>
-      <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-      <a href="{{ site.url }}" itemprop="url">
-        <span itemprop="title">{{ page.title }}</span>
+   <ul>
+    <li>
+      <a href="/">
+        <span>Home</span>
       </a>
-
+    </li>
+    <li>
+      <a href="{{ site.url }}/{{ page.categories | first }}.html">
+        <span>{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
+      </a>
+    </li>
+    <li>
+      <a href="{{ site.url }}">
+        <span>{{ page.title }}</span>
+      </a>
+    </li>
+   </ul>
   </nav><!-- /.breadcrumbs -->
+  <div class="clearfix">
+
+  </div>
 {% endif %}
