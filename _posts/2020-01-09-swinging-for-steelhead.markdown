@@ -4,7 +4,7 @@ title: "How To Swing for Steelhead [Beginner's Guide]"
 modified:
 categories: [fishing]
 tags: [fly-fishing, steelhead, lake superior, trout, techniques, tips]
-published: False
+published: true
 comments: True
 ads: False
 excerpt: The gear, locations, casts, and techniques used to swing for steelhead on the Brule River as well as any river steelhead are located in.
@@ -12,7 +12,7 @@ image:
   feature: lake-superior-steelhead-techniques.jpg
   teaser: lake-superior-steelhead-techniques.jpg
   thumb: lake-superior-steelhead-techniques.jpg
-date: 2019-10-16T11:38:35-05:00
+date: 2020-01-09T11:38:35-05:00
 ---
 
 So you think you want to get into the world of swinging for steelhead. There is a lot to cover, and even more opinions on techniques and gear you should be using, but first you should decide if swinging is right for you. But even if you don't think swinging is right for you I truly believe learning how to spey cast will improve your fly fishing by allowing you to reach further distances in tigher spots with your standard streamer or nymphing rigs.
