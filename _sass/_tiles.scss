@@ -28,7 +28,7 @@
   .post-teaser {
     position: relative;
     display: block;
-    box-shadow: 4px 6px 40px -2px #808080;
+    box-shadow: 2px 2px 5px -3px #808080;
     &:after {
       content: '';
       position: absolute;
@@ -42,7 +42,7 @@
     }
     &:hover {
       &:after {
-        background: rgba($base-color,0.2);
+        // background: rgba($base-color,0.1);
       }
     }
   }
