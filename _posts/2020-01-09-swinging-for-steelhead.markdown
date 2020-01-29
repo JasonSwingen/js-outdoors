@@ -33,7 +33,7 @@ If you don't want to mess around and are ready to dive in and get rigged up for 
 
 If you do a search for the perfect swinging rod you'll most likely find a bunch of information about fishing big west coast rivers, which a rod that works out there will work in the Great Lakes area, but it may not be the best solution. The rivers around here, like the Bois Brule and north shore rivers are not that big, and fish aren't nearly as big or have as high of flows as on the west coast so you can get away with shorter two-handed rods and lighter lines.
 
-##Gear You Will Need
+## Gear You Will Need to Swing
 
 -   rod
 -   reel
@@ -43,6 +43,35 @@ If you do a search for the perfect swinging rod you'll most likely find a bunch 
 -   sink tips
 -   leader
 -   flies
+
+### Rod
+Pretty simple, just get an 11' 7wt switch rod. Yes, you can get by with really anything from a single handed 9' 6wt up to a 13' 8wt sprey rod, but if you don't want to struggle casting or get hung up in the overhanging trees all day, just get what is proven to work in 95% of the Great Lakes tributaries, the 30-06 of switch rods, an 11' 7wt.
+
+### Reel
+The most important factors when picking out a reel weight, line capacity, and a fully enclosed spool.
+You don't need to skimp on weight. Often a reel on the heavier side will balance out your 11' rod better than a lighter one. It can be tiring and out-right frustrating to work at holding the end of your rod tip up all day long.
+Mid-arbor and small-arbor reels are a must a shooting head style line setup will take up more room on your reel than your standard fly fishing line setup You'll want to be able to add a decent amount of backing behing your running line, shooting head, sink tips, and leader.
+Because running line is much smaller in diameter than your typical fly line, having an enclosed spool will keep it from passing in between your reel and spool, which can cause your running line to kink and weaken or even worse get stuck while you are fighting a fish. Spey reels are always built this way, but you can pick up a standard fly reel with an enclosed spool for often the same price if not slightly more.
+
+### Backing
+Your standard 20 or 30 lb backing will work just fine. Just make sure you use backing that is heavier than the heaviest leader you think you'll ever use. If you are going to fish for king salmon and may tie on a 20 lb leader you should have backing that is at least 20 lbs. Fill your reel up with at least 100 yds of backing, but add more to make sure your spool is full when the rest of your shooting head system is tied on.
+
+### Running Line
+Instead of a weight forward fly line that has a skinnier back end to allow the line to shoot out of your rod a shooting head system is broken into separate parts, the shooting head is the weight forward part of your line and the running line lets the head shoot. There is some give and take when it comes to running line. The skinnier the line the further you can cast, but it also makes it difficult to hold onto in the cold months when you will be using it. Vice-versa a thicker line ease easier to handle, but will not allow for cast quite as far. You don't want to go too light however because having thicker line causes drag on your guides as you cast and will help to straighten our your shooting head. Having too light of running line will could cause you to cast further, but will cause your line to fall in a clump. Generally 30-50 lb running line is used for the majority of setups in the great lakes.
+
+### Shooting Head
+There are two general categories of shooting heads, scandi and skagit. As great lakes steelheaders we are more interested in the later. Although somewhat similar in idea, scandi and skagit greatly in use, techniques, and gear needed. Scandi heads are meant more for the tributaries in scandinavia where there are fewer trees, the water is much wider, but comparitivly shallower. Scandi heads are much longer and typically used with long 13 to 15 ft (or longer) spey rods. A cast known as a "touch and go" cast allows for extream distances, but the long skinnier head doesn't allow for sink tips, or large flies.
+Skagit heads, which are what you'll want are much more compact and will allow you to throw heavy sink tips and big flies. There are many different brands of skagit heads these days, each with their own pros and cons. One of the most popular brands is the OPST Commando head.
+
+### Sink Tips
+
+
+### Leader
+
+
+### Flies
+
+
 
 casting and technical tips
 
