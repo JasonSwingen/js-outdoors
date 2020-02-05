@@ -85,13 +85,14 @@ Your leader may change depending on water clarity and what type of sink tip you 
 ### Flies
 The best fly you can use it the one you have the most confidence in. I understand that can be difficult if you are just starting out, but you don't necessarily have to get start filling up a new box full of swinging flies. Although after you start swinging filling a box or two with swinging flies is the next natural step (and part of the fun).
 
-A good tip is to start out with a fly that you can cast. You aren't going to catch a fish if the fly you have is too big or bulky to cast is effectively.
+It is a good idea to start out with a fly that you can cast. You aren't going to catch a fish if the fly you have is too heavy or bulky to cast is effectively.
 
-The basics applies to any type of fishing. On dark days or in dirty water use a darker fly, and on a bright day or in clear water use a brighter or more natural fly.
+For choosing colors, the basics applies to any type of fishing. On dark days or in dirty water use a darker fly, and on a bright day or in clear water use a brighter fly.
 
 
 ## Where to Swing
 Now that you have everything you need to swing you probably want to know where to start. No I'm not going to tell you specific spots, but I'll go through some general areas that are better to swing a fly.
+
 
 
 
@@ -115,14 +116,7 @@ Do you want to learn the most effective techniques used to catch steelhead on th
 
 <hr>
 
-<!-- <figure>
-  <img title="*" src="/images/*.jpg">
-  <figcaption>*</figcaption>
-</figure> -->
-
 <blockquote>*</blockquote>
-
-
 
 ### Swinging Streamers
 
