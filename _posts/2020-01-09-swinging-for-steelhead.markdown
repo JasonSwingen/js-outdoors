@@ -7,7 +7,7 @@ tags: [fly-fishing, steelhead, lake superior, trout, techniques, tips]
 published: True
 comments: True
 ads: False
-excerpt: The gear, locations, casts, and techniques used to swing for steelhead on the Brule River as well as any river steelhead are located in.
+excerpt: The gear, locations, casts, and techniques used to swing for steelhead in the Great Lakes and anywhere steelhead swim.
 image:
   feature: Swinging_Streamers_Setup.jpg
   teaser: Swinging_Streamers_Setup.jpg
@@ -15,7 +15,14 @@ image:
 date: 2020-01-09T11:38:35-05:00
 ---
 
-So you think you want to get into the world of swinging for steelhead. There is a lot to cover, and even more opinions on techniques and gear you should be using, but first you should decide if swinging is right for you. But even if you don't think swinging is right for you I truly believe learning how to spey cast will improve your fly fishing by allowing you to reach further distances in tighter spots with your standard streamer or nymphing rigs.
+So you want to get into the world of swinging for steelhead and other anadromous fish. Well, there is a lot to cover, including why you should learn to swing flies, who should swing flies, as well as the gear, locations, flies, techniques, and applications for swinging. Let's get started!
+
+## Why You Should Learn to Swing
+
+Even if you don't think swining for steelhead is right for you, having at the very least a basic understanding of spey casting will give you more tools at your disposal to increase your ability to fly fish in any form including nymphing, streamer fishing, and even dry fly fishing. Spey casting (which is the type of cast used when swinging flies) by its basic definition is simply a water-loaded change of direction cast, unlike a roll cast that is a water loaded cast that must be performed in a perpindicular direction. Having the ability to move your fly line from down river to across river without any room for a backcast will allow you to reach water at further distances and in tighter spots.
+
+## Should You Start Swinging
+If you are brand new to fly fishing than swinging streamers can be an incredibly steep learning curve. Almost every aspect is more challenging than rigging up with a floating fly line, tying on some nymphs, an indicator and hitting the water. If you are new to fly fishing and want to catch a steelhead you should read my article on nymphing for steelhead first.
 
 Fishing should never be something that you master or get comfortable with. And if you do get comfortable you should experiment and try learning something new. I've talked to fisherman that have been standing on the same rock, using the same rod/reel/line, with the same fly/egg/spawn-sack that they have used since before the internet was invented. If that is all you want to do then I'm not saying that you should stop, but I just want to let you know that there is a whole new level of experience when you try something new and more challenging. We all remember that first steelhead, or bass, or walleye that we caught and how exciting it was. Don't get me wrong, I will always get excited when I catch any fish (especially a steelhead), but catching one on the swing is your best option in getting that "first fish adrenaline rush".
 
