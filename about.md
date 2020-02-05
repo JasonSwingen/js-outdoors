@@ -19,7 +19,7 @@ JS-Outdoors.com is a blog created and written by Jason Swingen, an avid outdoors
 
 Jason am currently a board member and email marketer for the <a target="_blank" rel="nofollow" href="http://mntu.org/">State of Minnesota Trout Unlimited</a> as well as the <a target="_blank" rel="nofollow" href="http://mntu.org/gitche-gumee/">Gitche Gumee chapter of Trout Unlimited</a>. He's am a member of <a target="_blank" rel="nofollow" href="http://www.minnesotasteelheader.com/">Minnesota Steelheader</a>, and been a guest speaker for the <a target="_blank" rel="nofollow" href="http://www.arrowheadflyfishers.com/">Arrowhead Fly Fishers</a>. Recently, he has have teamed up with <a target="_blank" rel="nofollow" href="https://www.instagram.com/theflyfishingnation/">The Fly Fishing Nation</a> to build and market modern websites for fly fishing clubs, and guides all over the world. You can view latest websites he has built for the Norwegian Flyfishers Club at the <a target="_blank" rel="nofollow" href="http://nfc-online.com/">nfc-online.com</a>, and the Agua Boa Amazon Lodge at <a target="_blank" rel="noreferrer" href="https://amazonaguaboalodge.com/">amazonaguaboalodge.com</a>.
 
-### From the Auther
+### From the Author
 
 <blockquote>
   This website was started as personal hunting and fishing journal, but through the process of building, and marketing it was immediatly evident that the average hunter/angler wants a place to learn and see what other types of opportunities there are in their local area. The goal of this site is to share my personal experiences while sharing the knowledge I gain on the way!
