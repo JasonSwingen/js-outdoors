@@ -4,7 +4,7 @@ title: "How To Swing for Steelhead"
 modified:
 categories: [fishing]
 tags: [fly-fishing, steelhead, lake superior, trout, techniques, tips]
-published: True
+published: False
 comments: True
 ads: False
 excerpt: The gear, locations, casts, and techniques used to swing for steelhead in the Great Lakes and anywhere steelhead swim.
