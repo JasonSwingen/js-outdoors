@@ -12,7 +12,7 @@ $(document).ready(function(){
 
 // Smooth scrolling to sections
 $(function() {
-  $('a[href*=#]:not([href=#])').click(function() {
+  $('a[href*="#"]:not([href="#"])').on("click", function() {
     if (location.pathname.replace(/^\//,'') === this.pathname.replace(/^\//,'') && location.hostname === this.hostname) {
       var target = $(this.hash);
       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
@@ -36,14 +36,14 @@ $(document).ready(function(){
 $("#markdown-toc").prepend("<li><h6>{{ site.data.messages.locales[site.locale].overview }}</h6></li>");
 
 // Animated scroll to top
-$('.totop').click(function(event){
+$('.totop').on("click", function(event){
   event.preventDefault();
   $('html, body').animate({scrollTop: 0}, 900);
 });
 
 // Expander
 $(document).ready(function() {
-  $('.expander-trigger').click(function(){
+  $('.expander-trigger').on("click", function(){
     $(this).toggleClass("expander-hidden");
   });
 });
@@ -53,7 +53,7 @@ $(document).ready(function() {
   var element = document.getElementById("js-fadeInElement");
   $(element).addClass('js-fade-element-hide');
 
-  $(window).scroll(function() {
+  $(window).on("scroll", function() {
     if( $("#js-fadeInElement").length > 0 ) {
       var elementTopToPageTop = $(element).offset().top;
       var windowTopToPageTop = $(window).scrollTop();

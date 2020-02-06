@@ -69,7 +69,7 @@ excerpt: Hunting and Fishing stories, tips, and techniques. Written for and by a
     <p>
       <span>Subscribe on </span>
       <span class="buttons">
-        <a class="btn-social youtube" target="_blank" href="https://www.youtube.com/channel/UCJuAVRLRC6AFV-YqN1a_6EQ">YouTube</a>
+        <a class="btn-social youtube" target="_blank" rel="noreferrer" href="https://www.youtube.com/channel/UCJuAVRLRC6AFV-YqN1a_6EQ">YouTube</a>
       </span>
     </p>
   </div>
@@ -84,7 +84,7 @@ excerpt: Hunting and Fishing stories, tips, and techniques. Written for and by a
     <p>
       <span>Follow on </span>
       <span class="">
-        <a class="btn-social instagram" target="_blank" href="https://www.instagram.com/jasonswingen/">Instagram</a>
+        <a class="btn-social instagram" target="_blank" rel="noreferrer" href="https://www.instagram.com/jasonswingen/">Instagram</a>
       </span>
     </p>
   </div>
