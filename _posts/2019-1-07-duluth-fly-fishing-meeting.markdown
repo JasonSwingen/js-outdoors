@@ -3,7 +3,7 @@ layout: post
 title: "EVENT: Fly Fishing Techniques for Steelhead"
 modified:
 categories: [fishing]
-tags: [fishing, fly-fishing, trout, techniques, tips, lake superior]
+tags: []
 published: True
 comments: True
 ads: False
