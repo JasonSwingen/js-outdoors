@@ -41,3 +41,58 @@ If you are ready to get started and the benifits outweight the risks for you the
 ## 1: Make the handle
 
 I han an old broken shore fishing rod that I used to create the fighting butt, but you can easily build one from scratch by gluing indidividual cork rings together topped off with an end cap.
+
+<figure>
+<img title="*" src="/images/Fighting_Butt_1.jpg" alt="">
+<figcaption>*</figcaption>
+</figure>
+
+<figure>
+<img title="*" src="/images/Fighting_Butt_2.jpg" alt="">
+<figcaption>*</figcaption>
+</figure>
+
+<figure>
+<img title="*" src="/images/Fighting_Butt_3.jpg" alt="">
+<figcaption>*</figcaption>
+</figure>
+
+<figure>
+<img title="*" src="/images/Fighting_Butt_4.jpg" alt="">
+<figcaption>*</figcaption>
+</figure>
+
+<figure>
+<img title="*" src="/images/Fighting_Butt_5.jpg" alt="">
+<figcaption>*</figcaption>
+</figure>
+
+<figure>
+<img title="*" src="/images/Fighting_Butt_6.jpg" alt="">
+<figcaption>*</figcaption>
+</figure>
+
+<figure>
+<img title="*" src="/images/Fighting_Butt_7.jpg" alt="">
+<figcaption>*</figcaption>
+</figure>
+
+<figure>
+<img title="*" src="/images/Fighting_Butt_8.jpg" alt="">
+<figcaption>*</figcaption>
+</figure>
+
+<figure>
+<img title="*" src="/images/Fighting_Butt_9.jpg" alt="">
+<figcaption>*</figcaption>
+</figure>
+
+<figure>
+<img title="*" src="/images/Fighting_Butt_10.jpg" alt="">
+<figcaption>*</figcaption>
+</figure>
+
+<figure>
+<img title="*" src="/images/Fighting_Butt_11.jpg" alt="">
+<figcaption>*</figcaption>
+</figure>
