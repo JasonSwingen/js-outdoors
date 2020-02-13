@@ -4,7 +4,7 @@ title: "How To Swing for Steelhead"
 modified:
 categories: [fishing]
 tags: [fly-fishing, steelhead, lake superior, trout, techniques, tips]
-published: False
+published: True
 comments: True
 ads: False
 excerpt: The gear, locations, casts, and techniques used to swing for steelhead in the Great Lakes and anywhere steelhead swim.
@@ -19,7 +19,7 @@ So you want to get into the world of swinging for steelhead and other anadromous
 
 ## Why You Should Learn to Swing
 
-Even if you don't think swining for steelhead is right for you, having at the very least a basic understanding of spey casting will give you more tools at your disposal to increase your ability to fly fish in any form including nymphing, streamer fishing, and even dry fly fishing. Spey casting (which is the type of cast used when swinging flies) by its basic definition is simply a water-loaded change of direction cast, unlike a roll cast that is a water loaded cast that must be performed in a perpindicular direction. Having the ability to move your fly line from down river to across river without any room for a backcast will allow you to reach water at further distances and in tighter spots.
+Even if you don't think swinging for steelhead is right for you, having at the very least a basic understanding of spey casting will give you more tools at your disposal to increase your ability to fly fish in any form including nymphing, streamer fishing, and even dry fly fishing. Spey casting (which is the type of cast used when swinging flies) by its basic definition is simply a water-loaded change of direction cast, unlike a roll cast that is a water loaded cast that must be performed in a perpindicular direction. Having the ability to move your fly line from down river to across river without any room for a backcast will allow you to reach water at further distances and in tighter spots.
 
 ## Should You Start Swinging
 If you are brand new to fly fishing than swinging streamers can be an incredibly steep learning curve. Almost every aspect is more challenging than rigging up with a floating fly line, tying on some nymphs, an indicator and hitting the water. If you are new to fly fishing and want to catch a steelhead you should read my article on nymphing for steelhead first.
