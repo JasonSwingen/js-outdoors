@@ -12,7 +12,7 @@ image:
   feature: Fighting_Butt.jpg
   teaser: Fighting_Butt.jpg
   thumb: Fighting_Butt.jpg
-date: 2020-02-20T01:38:35-05:00
+date: 2020-02-21T10:38:35-05:00
 ---
 
 Turn your regular fly rod into the ultimate Great Lakes steelheading rod with this simple modification. I've said in my previous posts on steelhead equipment that the perfect fly fishing rod is a 10' 7wt fly rod. This is the perfect weight for our 20 to 30 inch steelhead, and at 10' you can fish nearly every skinny riffle or wide pool found on the Great Lakes Tributaries. The downside of having an extra long rod is that they can be slightly more tip heavy.
@@ -121,7 +121,7 @@ Wrap painters tape around new extended blank to build it up in order to fit snug
 
 Mix up another batch of two-part epoxy and coat the new rod blank and painters tape. Slide your new fighting butt onto your rod and apply firm pressure. Epoxy will get pushed out from Between the fighting butt and your reel seat. Make sure you wipe any epoxy off the threads and fighting butt. As an extra precaution you can put painters tape over your reel seat and fighting butt.
 
-## 9: Admire Your Work
+## 9: Admire Your Work and Go Fishing
 
 <figure>
 <img title="Extended Fishing Rod Fighting Butt" src="/images/Fighting_Butt.jpg" alt="">
