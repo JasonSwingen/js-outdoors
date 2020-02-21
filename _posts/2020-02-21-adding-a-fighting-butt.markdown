@@ -9,9 +9,9 @@ comments: True
 ads: False
 excerpt: Step-by-step process on how to add a fighting butt to a single-handed fly rod.
 image:
-  feature: Fighting_Butt.jpg
-  teaser: Fighting_Butt.jpg
-  thumb: Fighting_Butt.jpg
+  feature: Extended-Fighting-Butt.jpg
+  teaser: Extended-Fighting-Butt.jpg
+  thumb: Extended-Fighting-Butt.jpg
 date: 2020-02-21T10:38:35-05:00
 ---
 
@@ -19,7 +19,7 @@ Turn your regular fly rod into the ultimate Great Lakes steelheading rod with th
 
 The rod I decided to modify was a <a rel="noreferrer" target="_blank" title="Purchase a Redington Vice from Amazon" href="https://amzn.to/3bWUHLR">10' 7wt Redington Vice</a> (currently on sale!) that is my dedicated steelhead rod. The Vice is a fantastic fast-action fly rod that partly due to it's 10' length and durably build blanks can be very tip heavy and can be tiring after a full day of steelheading. Adding a fighting butt to this rod has added a small amount of weight behind the reel to and it really helps **balance out the rod**.
 
-In addition to creating a betting balance, adding a fighting butt to your fly rod can greatly improve its versatility and  allow you to easily **switch to a shooting head system** and allow you to make a multitude of two-handed spey casts to throw streamers, as well as **give you extra power** to throw those big double-fly nymph rigs upstream. You will be able to **make giant mends** in order to obtain a drag-free drift in the toughest of water currents. And if that isn't enough, having an extended handle will give your **more leverage** when fighting that fish of a lifetime.
+In addition to creating a better balance, adding a fighting butt to your fly rod can greatly improve its versatility and  allow you to easily **switch to a shooting head system** and allow you to make a multitude of two-handed spey casts to throw streamers, as well as **give you extra power** to throw those big double-fly nymph rigs upstream. You will be able to **make giant mends** in order to obtain a drag-free drift in the toughest of water currents. And if that isn't enough, having an extended handle will give your **more leverage** when fighting that fish of a lifetime.
 
 This is also a great modification for a 9-11wt musky rod allowing you to anchor the extended fighting but into your forearm for increased casting power when throwing those bulky doubles, as well as giving you more leverage when you figure-8 your fly at the boat.
 
@@ -124,7 +124,7 @@ Mix up another batch of two-part epoxy and coat the new rod blank and painters t
 ## 9: Admire Your Work and Go Fishing
 
 <figure>
-<img title="Extended Fishing Rod Fighting Butt" src="/images/Fighting_Butt.jpg" alt="">
+<img title="Extended Fishing Rod Fighting Butt" src="/images/Extended-Fighting-Butt.jpg" alt="">
 </figure>
 
 Your done! Admire your work and hit the water with your new workhorse of a fly rod!
