@@ -46,10 +46,8 @@ layout: default
             <!-- <a class="btn-social envelope" title="Send Jason an Email" href="mailto:jason.swingen@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"> Email</i></a> -->
           </div><!-- /.share-this -->
 
+          <div class="mobileonly">{% include related-posts.html %}</div>
 
-          {% if page.comments == true %}
-          {% include comments.html %}
-          {% endif %}
 
           <h3>Tags</h3>
           <div class="page-tag">
@@ -61,7 +59,10 @@ layout: default
             <a class="btn-social tag" href="{{site.baseurl}}/tags">view all tags</a>
           </div>
 
-          <div class="mobileonly">{% include related-posts.html %}</div>
+          {% if page.comments == true %}
+          {% include comments.html %}
+          {% endif %}
+
 
           {% include subscribe_popup.html %}
         </aside>
