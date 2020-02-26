@@ -15,6 +15,6 @@ My last opportunity to ice fish for lake trout this year. The weather has taken 
 
 I was fishing off of Brighton Beach on the Northeast end of Duluth MN in 120 feet of water. I was using a white tube jig that I tied my own stinger hook onto. This fish came right off the bottom.
 
-<iframe src="http://www.youtube.com/embed/xNv6j5CNuwc?showinfo=0&iv_load_policy=3&controls=1" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/xNv6j5CNuwc?showinfo=0&iv_load_policy=3&controls=1" frameborder="0" allowfullscreen></iframe>
 
 ![Lake Superior Laker](/images/Superior_Lake_Trout.jpg)
