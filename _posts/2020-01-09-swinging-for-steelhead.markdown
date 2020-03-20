@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "How To Swing for Steelhead"
+title: "How To Swing for Great Lakes Steelhead"
 modified:
 categories: [fishing]
 tags: [swinging, fly-fishing, steelhead, lake superior, trout, techniques, tips]
-published: False
+published: True
 comments: True
 ads: False
-excerpt: The gear, locations, casts, and techniques used to swing for steelhead in the Great Lakes and anywhere steelhead swim.
+excerpt: The gear, locations, casts, and techniques you will need to get started swinging for steelhead in the Great Lakes and anywhere else steelhead swim.
 image:
   feature: Swinging_Streamers_Setup.jpg
   teaser: Swinging_Streamers_Setup.jpg
@@ -19,17 +19,23 @@ So you want to get into the world of swinging for steelhead and other anadromous
 
 ## Is Swinging Right For You?
 
-Many of us starting out with a hook, link, and sinker. Place a worm or minnow on your hook, tie on a bobber and wait. Then eventually we moved onto casting lures. And finally, picked up a fly rod and dove into the world of fly fishing. I feel that swinging flies is simply the next step in the progression of the angler. Catching steelhead or any fish for that matter can easily be done with the simplest forms of fishing. You can catch a steelhead or nearly any fish with a worm and hook, but as fly-fisherman I believe we shouldn't just monotonously go through the motions, but challenge ourselves to try something different and more challenging. You will not catch as many fish as you would nymphing, but if all you cared about is catching the most amount of fish there are much easier ways that fly-fishing.
+Many of us started out fishing with a hook, link, and sinker. Place a worm or minnow on your hook, tie on a bobber and wait. Then eventually you probably moved onto casting lures. It wasn't quite as easy or as simple as the old worm on a hook, but it was a little more satisfying. Then finally, (hopefully) you picked up a fly rod and dove into the wonderful world of fly fishing. Swinging flies is that next step in the progression of a fisherman. Learning a new technique, not because it is easier, or more simple, but because increasing the difficulty increases your satisfaction (addiction). You might not be at the level in which making fishing harder is worth it. So on one hand swinging flies may not be for you. At least for now. That being said however, if you are just getting into fly fishing or are happy drifting flies under an indicator then taking another step and learning a few spey casts will greatly improve your ability to cast your flies where you want to manage your line more effectively and efficiently. If you just want to improve your casting game, feel free to <a title="Read about Spey Casts" href="#speycasts">skip to the section on spey casting   	&#x21B4;</a>. Swinging is a gamble, you need to spend more time on the water to catch less fish. You are betting that that extra time will result in one of the greatest experiences a steelhead angler can have... The grab.
+That excitement that sends you back into a juvenile level of happiness.
 
-Swinging flies isn't for everyone. It depends on what you care about more the destination or the trip. As well as your dedication, ability to put time in on the water, and willingness to catch less fish, but have each fish you do catch be that much more special.
+> "The next step in the progression of the angler, is simply making fishing more difficult in order to increase your level of satisfaction" - Jason Swingen
 
-Swinging flies can be extremely intimating. New rods, reels, lines, flies, techniques. Should you really go out and buy hundreds of dollars worth of gear just to catch steelhead in a less efficient way? It seems a little counter intuitive. Then once you have all that new gear are you going to actually use it, or will it end up like your old spinning rods stacked in the corner of your garage.
+
+Swinging flies can be extremely intimating. New rods, reels, lines, flies, techniques. Should you really go out and buy hundreds of dollars worth of gear just to catch steelhead in a less efficient way?
+
+<!-- <a class="btn" title="Huh, this isn't actually a real button">I Better Not</a>
+<a class="btn" title="Woohoo! Let's start Swinging!" href="#">Let's Do This!</a> -->
+
 
 ### For The Beginner Fly Fishermen
-If you are brand new to fly fishing than swinging can be an incredibly steep learning curve. Almost every aspect is more challenging, the gear, rigging, techniques can all be much more difficult to understand, let-alone master. Although it can be more satisfying to hook and land a fish on the swing, it undoubtfully takes more patience. If you are care more about catching your first or more steelhead (or other trout or salmon) on the fly consider starting out nymphing, then eventually getting into swinging to broaden your skills. If you haven't read my <a href="/fishing/steelhead-techniques/">complete guide on steelheading techniques</a>, you should read that first, then come back and finish this article.
+If you are brand new to fly fishing then swinging can have steep learning curve. Almost every aspect is more challenging than traditional fly fishing; the gear, the rigging, the techniques can all be much more difficult to understand, let-alone master. Although it can be more satisfying to hook and land a fish on the swing, it undoubtfully takes more patience. If you are care more about catching your first or more steelhead (or other trout or salmon) but are new to fly fishing, consider starting out nymphing. Then eventually getting into swinging to broaden your skills. If you are just starting out fly fishing for trout and salmon then you should read my <a href="/fishing/steelhead-techniques/">complete guide on steelheading techniques</a>, then come back and finish this article.
 
-### For Intermediate to Advanced Anglers
-Fishing should never be something that you master or get comfortable with. And if you find yourself getting too comfortable, you should experiment and try learning something new. I've talked to fisherman that have been standing on the same rock, using the same rod/reel/line, with the same fly/egg/spawn-sack that they have used since before the internet was invented. If that is all you want to do then I'm not saying that you should stop, but I just want to let you know that there is a whole new level of experience when you try something new and more challenging. We all remember that first steelhead, or bass, or walleye that we caught and how exciting it was. Don't get me wrong, I will always get excited when I catch any fish (especially a steelhead), but catching one on the swing is your best option in getting back to that "your very first fish adrenaline rush".
+<!-- ### For Intermediate to Advanced Anglers
+Fishing should never be something that you master or get comfortable with. And if you find yourself getting too comfortable, you should experiment and try learning something new. I've talked to fisherman that have been standing on the same rock, using the same rod/reel/line, with the same fly/egg/spawn-sack that they have used since before the internet was invented. If that is all you want to do then I'm not saying that you should stop, but I just want to let you know that there is a whole new level of experience when you try something new and more challenging. We all remember that first steelhead, or bass, or walleye that we caught and how exciting it was. Don't get me wrong, I will always get excited when I catch any fish (especially a steelhead), but catching one on the swing is your best option in getting back to that "your very first fish adrenaline rush". -->
 
 
 ## Why You Should Learn to Swing
@@ -108,14 +114,14 @@ For choosing colors, the basics applies to any type of fishing. On dark days or 
 
 
 ## Where to Swing
-Now that you have everything you need to swing you probably want to know where to start. No I'm not going to tell you specific spots, but I'll go through some general areas that are better to swing a fly.
+Now that you have everything you need to swing you probably want to know where to start. No I'm not going to tell you specific spots, but I'll go through some general areas that are better to swing a fly. Unlike Nymphing where you would generally work your way up-river, swinging flies requires you to work your way down-river. 
 
 
 
 
 
 
-## How to Swing (casting and technical tips)
+<h2 id="speycasts">How to Swing (Spey Casts and Techniques)</h2>
 
 - Single Spey
 - Double Spey
