@@ -1,0 +1,88 @@
+# Your snippets
+#
+# Atom snippets allow you to enter a simple prefix in the editor and hit tab to
+# expand the prefix into a larger code block with templated values.
+#
+# You can create a new snippet in this file by typing "snip" and then hitting
+# tab.
+#
+# An example CoffeeScript snippet to expand log to console.log:
+#
+ '.text.html':
+   'New Auction':
+     'prefix': 'auction'
+     'body': """
+        <div class="current">
+          <h2><a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/category/ALL">Online Auction Ending On Tuesday, $2</a></h2>
+          <div class="flexbox">
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$10"><img src="https://www.auctionmn.com/images/$3/T$10-1.jpg" alt="Lot $10"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$11"><img src="https://www.auctionmn.com/images/$3/T$11-1.jpg" alt="Lot $11"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$12"><img src="https://www.auctionmn.com/images/$3/T$12-1.jpg" alt="Lot $12"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$13"><img src="https://www.auctionmn.com/images/$3/T$13-1.jpg" alt="Lot $13"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$14"><img src="https://www.auctionmn.com/images/$3/T$14-1.jpg" alt="Lot $14"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$15"><img src="https://www.auctionmn.com/images/$3/T$15-1.jpg" alt="Lot $15"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$16"><img src="https://www.auctionmn.com/images/$3/T$16-1.jpg" alt="Lot $16"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$17"><img src="https://www.auctionmn.com/images/$3/T$17-1.jpg" alt="Lot $17"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$18"><img src="https://www.auctionmn.com/images/$3/T$18-1.jpg" alt="Lot $18"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$19"><img src="https://www.auctionmn.com/images/$3/T$19-1.jpg" alt="Lot $19"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$20"><img src="https://www.auctionmn.com/images/$3/T$20-1.jpg" alt="Lot $20"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$21"><img src="https://www.auctionmn.com/images/$3/T$21-1.jpg" alt="Lot $21"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$22"><img src="https://www.auctionmn.com/images/$3/T$22-1.jpg" alt="Lot $22"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$23"><img src="https://www.auctionmn.com/images/$3/T$23-1.jpg" alt="Lot $23"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$24"><img src="https://www.auctionmn.com/images/$3/T$24-1.jpg" alt="Lot $24"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$25"><img src="https://www.auctionmn.com/images/$3/T$25-1.jpg" alt="Lot $25"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$26"><img src="https://www.auctionmn.com/images/$3/T$26-1.jpg" alt="Lot $26"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$27"><img src="https://www.auctionmn.com/images/$3/T$27-1.jpg" alt="Lot $27"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$28"><img src="https://www.auctionmn.com/images/$3/T$28-1.jpg" alt="Lot $28"></a>
+            <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/$29"><img src="https://www.auctionmn.com/images/$3/T$29-1.jpg" alt="Lot $29"></a>
+          </div>
+          <a href="https://www.auctionmn.com/cgi-bin/mmlist.cgi?auctionmn$1/category/ALL" class="bidnow rfloat"></a>
+            <p><strong>Preview and Pickup Location</strong></p>
+              <p><a target="_blank" href="https://goo.gl/maps/L9u81MhP4dq">7140 Old Viking Blvd NW, Nowthen MN</a></p>
+            <p><strong>Preview Time</strong></p>
+              <p>Monday, $4, from $5 to $6 p.m.</p>
+            <p><strong>Auction Ending Time</strong></p>
+              <p>Tuesday, $2, Auction ends starting at 7:30 p.m.</p>
+            <p><strong>Pickup Time</strong></p>
+              <p>Wednesday, $7, from $8 a.m. to $9 p.m.</p>
+            <p><strong>Auctioneer's Notes</strong></p>
+              <p>$30</p>
+            <p><a href="https://auctionmn.com/general-terms-and-conditions.shtml">Terms and Conditions</a> for this auction.</p>
+        </div>
+        $31
+          """
+
+ '.text.md':
+   'Hyperlink':
+     'prefix': 'link'
+     'body': '<a target="_blank" rel="noreferrer" href="$1">$2</a> $3'
+   'Internal-Link':
+     'prefix': 'ilink'
+     'body': '<a href="/$1/$2">$3</a>. $4'
+    'Figure Image':
+     'prefix': 'image'
+     'body': """
+       <figure>
+         <img title="$2" src="/images/$1.jpg">
+         <figcaption>$3</figcaption>
+       </figure>
+       $4
+      """
+    'Image right':
+     'prefix': 'imgright'
+     'body': """
+       <figure class="imgright">
+         <img title="$2" src="/images/$1.jpg">
+         <figcaption>$3</figcaption>
+       </figure>
+       $4
+      """
+
+
+#
+# Each scope (e.g. '.source.coffee' above) can only be declared once.
+#
+# This file uses CoffeeScript Object Notation (CSON).
+# If you are unfamiliar with CSON, you can read more about it in the
+# Atom Flight Manual:
+# http://flight-manual.atom.io/using-atom/sections/basic-customization/#_cson
