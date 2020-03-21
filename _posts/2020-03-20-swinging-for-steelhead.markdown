@@ -12,18 +12,17 @@ image:
   feature: Swinging_Streamers_Setup.jpg
   teaser: Swinging_Streamers_Setup.jpg
   thumb: Swinging_Streamers_Setup.jpg
-date: 2020-01-09T11:38:35-05:00
+date: 2020-03-20T11:38:35-05:00
 ---
 
-So you want to get into the world of swinging for steelhead and other anadromous fish. Well, there is a lot to cover, including why you should learn to swing flies, who should swing flies, as well as the gear, locations, flies, techniques, and applications for swinging. So if your ready to dive in, then let's get started!
+So you want to get into the world of swinging for steelhead and other anadromous fish. Well, there is a lot to cover, including why you should learn to swing flies, the gear, locations, flies, techniques you'll need to know, and if swinging is right for you. So if your ready to dive in, then let's get started!
 
 ## Is Swinging Right For You?
 
-Many of us started out fishing with a hook, link, and sinker. Place a worm or minnow on your hook, tie on a bobber and wait. Then eventually you probably moved onto casting lures. It wasn't quite as easy or as simple as the old worm on a hook, but it was a little more satisfying. Then finally, (hopefully) you picked up a fly rod and dove into the wonderful world of fly fishing. Swinging flies is that next step in the progression of a fisherman. Learning a new technique, not because it is easier, or more simple, but because increasing the difficulty increases your satisfaction (addiction). You might not be at the level in which making fishing harder is worth it. So on one hand swinging flies may not be for you. At least for now. That being said however, if you are just getting into fly fishing or are happy drifting flies under an indicator then taking another step and learning a few spey casts will greatly improve your ability to cast your flies where you want to manage your line more effectively and efficiently. If you just want to improve your casting game, feel free to <a title="Read about Spey Casts" href="#speycasts">skip to the section on spey casting   	&#x21B4;</a>. Swinging is a gamble, you need to spend more time on the water to catch less fish. You are betting that that extra time will result in one of the greatest experiences a steelhead angler can have... The grab.
+Many of us started out fishing with a hook, link, and sinker. Place a worm or minnow on your hook, tie on a bobber and wait. Then eventually you moved onto casting lures. It wasn't quite as easy or as simple as the old worm on a hook, but it was a little more satisfying. Then finally, (hopefully) you picked up a fly rod and dove into the wonderful world of fly fishing. Swinging flies can be thought of as that next step in the progression of a fisherman. Learning a new technique, not because it is easier, or more simple, but because increasing the difficulty increases your satisfaction. You might not be at the level in which making fishing harder is worth it. So on one hand swinging flies may not be for you. At least for now. That being said, even if you are just getting into fly fishing or are happy drifting flies under an indicator, then taking another step and learning a few spey casts will greatly improve your ability to cast flies where you want, andlet you manage your line more effectively and efficiently. If you just want to improve your casting game, feel free to <a title="Read about Spey Casts" href="#speycasts">skip to the section on spey casting below  	&#x21B4;</a>. Swinging is a gamble, you need to spend more time on the water to catch less fish. You are betting that that extra time will result in one of the greatest experiences a steelhead angler can have... The grab.
 That excitement that sends you back into a juvenile level of happiness.
 
-> "The next step in the progression of the angler, is simply making fishing more difficult in order to increase your level of satisfaction" - Jason Swingen
-
+> "The next step in the progression of the angler, is simply making fishing more difficult in order to increase your level of satisfaction"
 
 Swinging flies can be extremely intimating. New rods, reels, lines, flies, techniques. Should you really go out and buy hundreds of dollars worth of gear just to catch steelhead in a less efficient way?
 
@@ -34,27 +33,21 @@ Swinging flies can be extremely intimating. New rods, reels, lines, flies, techn
 ### For The Beginner Fly Fishermen
 If you are brand new to fly fishing then swinging can have steep learning curve. Almost every aspect is more challenging than traditional fly fishing; the gear, the rigging, the techniques can all be much more difficult to understand, let-alone master. Although it can be more satisfying to hook and land a fish on the swing, it undoubtfully takes more patience. If you are care more about catching your first or more steelhead (or other trout or salmon) but are new to fly fishing, consider starting out nymphing. Then eventually getting into swinging to broaden your skills. If you are just starting out fly fishing for trout and salmon then you should read my <a href="/fishing/steelhead-techniques/">complete guide on steelheading techniques</a>, then come back and finish this article.
 
-<!-- ### For Intermediate to Advanced Anglers
-Fishing should never be something that you master or get comfortable with. And if you find yourself getting too comfortable, you should experiment and try learning something new. I've talked to fisherman that have been standing on the same rock, using the same rod/reel/line, with the same fly/egg/spawn-sack that they have used since before the internet was invented. If that is all you want to do then I'm not saying that you should stop, but I just want to let you know that there is a whole new level of experience when you try something new and more challenging. We all remember that first steelhead, or bass, or walleye that we caught and how exciting it was. Don't get me wrong, I will always get excited when I catch any fish (especially a steelhead), but catching one on the swing is your best option in getting back to that "your very first fish adrenaline rush". -->
-
-
 ## Why You Should Learn to Swing
 
 Even if you don't think swinging for steelhead is right for you, having at the very least a basic understanding of spey casting will give you more tools at your disposal to increase your ability to fly fish in any form including nymphing, streamer fishing, and even dry fly fishing. Spey casting (which is the type of two-handed fly cast used when swinging flies) by its basic definition is simply a water-loaded change of direction cast, unlike a roll cast that is a water loaded cast that must be performed in a perpendicular direction. Having the ability to move your fly line from down river to across or even up river without any room for a back-cast will allow you to reach water at further distances and in tighter spots. No matter if happen to be fishing a streamer, wet fly, nymph, or even a dry fly. <b>You don't have to have specific spey casting gear to learn to spey cast</b>.
 
 Just like many other aspects in life the more energy and effort you put into something the more you get out. Learning a new technique will improve your ability to read the water, improve your overall casting ability, as well as improve your patience, focus, and muscle memory.
 
-## Not 100% sold?
+The good thing is that that you don't necessarily need to go out and buy a bunch of new gear to get started. The first fish I ever caught on the swing was using my 9' 5wt fly rod with floating line (a rod that you probably already have). I simply tied on a weighted streamer and extended my leader to 12'. A forceful roll cast clumsily got my fly to the other side of the main current towards the tailout of a large pool and a few seconds into the swing my rod was nearly pulled out of my hand!
 
-The good thing is that that you don't necessarily need to go out and buy a bunch of new gear to get started. The first fish I ever caught on the swing was using a 9' 5wt fly rod with floating line, a rod that you probably already have. I simply tied on a weighted streamer and extended my leader to 12'. A forceful roll cast clumsily got my fly to the other side of the main current towards the tailout of a large pool and a few seconds into the swing my rod was nearly pulled out of my hand. With the confidence that I could catch a steelhead on the swing allowed me to put more time in swinging and a few days later I hooked two more steelhead on the swing!
+You don't *need* a dedicated rod/reel/line to swing, but it makes it easier (and more fun). Before you go out and spend a few hundred dollars on a new rod you should consider single handed spey fishing. You can use your typical 9 foot, 8 or 7 weight fly rod that you use for nymphing. Just buy another spool and load it up with some running line, a skagit head, and some sink tips and you can get into the swing game for less than $100.
 
-You don't *need* a dedicated rod/reel/line to swing, but it makes it easier (and more fun). Before you go out and spend a few hundred dollars on a new rod you should try single handed spey fishing. You can use your typical 9' 8wt or 7wt that you use for nymphing, buy another spool and load it up with some running line, a skagit head, and some sink tips and you can get into the swing game for less than $100.
-
-If you don't want to mess around and are ready to dive in and get rigged up for swinging you'll need to get some new gear, so let's go over some of the options you have.
+If you don't want to mess with single hand rods and are ready to dive in and get rigged up for true two-handed swinging swinging you'll probably need to get some new gear, so let's go over some options.
 
 ## The Gear You Will Need to Swing (for Great Lakes Steelhead)
 
-If you do a search for the perfect swinging rod you'll most likely find a bunch of information about fishing big west coast rivers, which a rod that works out there will work in the Great Lakes area, but it may not be the best solution. The rivers around here, like the Bois Brule and north shore rivers are not that big, and fish aren't nearly as big or have as high of flows as on the west coast so you can get away with shorter two-handed rods and lighter lines. I will go through a few different options, but will focus mainly on the most widely used gear used when fishing for steelhead in the tributaries of the Great Lakes. Other than the general <a href="/fishing/fly-fishing-gear/">fly fishing gear you should have</a>, we will go over the gear needed if you are going to dive into the swinging game.
+If you do a search for the perfect swinging rod you'll most likely find a bunch of information about fishing big west coast rivers, which a rod that works out there will work in the Great Lakes area, but it may not be the best solution. The rivers around here, like the Bois Brule and north shore rivers are not as big, don't have as high of flows, and the fish genereally aren't as big as on the west coast. So you can get away with shorter two-handed rods and lighter lines. I will go through a few different options, but will focus mainly on the most widely used gear used when fishing for steelhead in the tributaries of the Great Lakes. Other than the general <a href="/fishing/fly-fishing-gear/">fly fishing gear you should have</a>, we will go over the gear needed if you are going to dive into the swinging game.
 
 -   Rod
 -   Reel
@@ -114,7 +107,7 @@ For choosing colors, the basics applies to any type of fishing. On dark days or 
 
 
 ## Where to Swing
-Now that you have everything you need to swing you probably want to know where to start. No I'm not going to tell you specific spots, but I'll go through some general areas that are better to swing a fly. Unlike Nymphing where you would generally work your way up-river, swinging flies requires you to work your way down-river. 
+Now that you have everything you need to swing you probably want to know where to start. No I'm not going to tell you specific spots, but I'll go through some general areas that are better to swing a fly. Unlike Nymphing where you would generally work your way up-river, swinging flies requires you to work your way down-river.
 
 
 
