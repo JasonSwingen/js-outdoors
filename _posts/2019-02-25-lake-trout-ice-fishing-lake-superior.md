@@ -103,3 +103,5 @@ We've been hit with some warm weather and some rain. It is still possible to get
   <img title="Lake Superior Satellite Image of Ice Cover" src="/images/lake-superior-ice-cover.jpg">
   <figcaption>Satelitte Image of Lake Superior Ice Cover on March 17th, 2019. Image from <a target="_blank" href="https://coastwatch.glerl.noaa.gov/modis/modis.php?region=s&page=1">Coast Watch</a></figcaption>
 </figure>
+
+{% include disclosure.html %}

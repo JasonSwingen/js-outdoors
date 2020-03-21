@@ -261,3 +261,5 @@ You can use a two hand (switch rod) for this, but your standard 7-8wt 9-10ft fly
 Hopefully you learned a few new techniques that will help you catch more steelhead. Now go rig up your rods and hit the water!
 
 If you have a technique that you use that I didn't mention, feel free to mention it in the comments below, and don't forget to share!
+
+{% include disclosure.html %}

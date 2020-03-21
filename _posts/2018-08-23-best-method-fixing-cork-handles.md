@@ -56,3 +56,5 @@ Try it out! All you only need UV Resin and a UV light.
 
 <a href="https://www.amazon.com/dp/B079DLVSFD/ref=as_li_ss_il?psc=1&pd_rd_i=B079DLVSFD&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=a54d13fc-b8a1-4ce8-b285-d77489a09cf6&pf_rd_r=8SXH23J76Z25EEQBFGRH&pd_rd_wg=47p7Q&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&pd_rd_w=VUm8i&pf_rd_i=desktop-dp-sims&pd_rd_r=a2ce9802-a6e5-11e8-8df0-e14e51261269&linkCode=li3&tag=jsoutdoors08-20&linkId=b7d8f53b8b755ac481895b167ec4f1b2" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079DLVSFD&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jsoutdoors08-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=jsoutdoors08-20&l=li3&o=1&a=B079DLVSFD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </figure>
+
+{% include disclosure.html %}

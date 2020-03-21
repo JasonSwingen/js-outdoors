@@ -114,3 +114,5 @@ If you aren't getting any bites using nymphs, or are looking to step up the size
 </blockquote>
 
 That's it. Time to hit the water! If you have more questions feel free to <a href="#comments">comment below</a>.
+
+{% include disclosure.html %}

@@ -36,3 +36,5 @@ These products won't necessarily help you catch more or bigger fish, but they ca
 {% endfor%}
 
 If you have an accessory that you can't live without on the water, please share it in the <a href="#comments">comments below</a>!
+
+{% include disclosure.html %}
