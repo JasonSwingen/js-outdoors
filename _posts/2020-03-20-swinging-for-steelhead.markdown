@@ -105,9 +105,9 @@ Because running line is much smaller in diameter than your typical fly line, hav
 Your standard 20 or 30 lb backing will work just fine. Just make sure you use backing that is heavier than the heaviest leader you think you'll ever use. If you are going to fish for king salmon and may tie on a 20 lb leader you should have backing that is at least 20 lbs. Fill your reel up with at least 100 yds of backing, but add more to make sure your spool is full when the rest of your shooting head system is tied on.
 
 - Budget Option:
-<a target="_blank" rel="noreferrer" href="https://amzn.to/2QQujL1">Rio Backing</a>
-- Midrange Option:
 <a target="_blank" rel="noreferrer" href="https://amzn.to/2xYLXpa">Maxcatch Backing</a>
+- Midrange Option:
+<a target="_blank" rel="noreferrer" href="https://amzn.to/2QQujL1">Rio Backing</a>
 
 <div class="notice-accent"><b>Pro Tip:</b> Make sure you fill your reel with line perfectly every time. Start with an empty spool and wrap on your shooting line, shooting head, and sink tip. Then add enough backing to fill the spool completely, but not so much that your line rubs on the reel. This technique takes a little extra time, but lets you fill your reels perfectly every time. This can also be used with any type of fly line and not just shooting heads.</div>
 
