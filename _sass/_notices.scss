@@ -21,6 +21,7 @@
 }
 .notice {
 	@include notice($primary-color);
+	box-shadow: inset 0px 0px 20px -5px grey;
 }
 
 /*
@@ -41,6 +42,14 @@
 
 .notice-info {
 	@include notice($info-color);
+}
+
+/*
+   Disclosure notice .notice-disclusure
+   ========================================================================== */
+
+.notice-disclosure {
+	@include notice(#a5bdce);
 }
 
 /*
@@ -73,6 +82,28 @@
 
 .notice-accent {
 	@include notice($accent-color);
+}
+
+/*
+   Protip notice .notice-protip
+   ========================================================================== */
+
+.notice-protip {
+	@include notice(#a9a9a9);
+	box-shadow: inset 0px 0px 20px -6px grey;
+	:before {
+		content: "PRO TIP: ";
+		font-weight: bold;
+		color:$accent-color;
+		text-shadow: 1px 1px 1px #3e3e3e;
+		letter-spacing: 1.1px;
+		font-size: 1.2em;
+	}
+	.tip {
+		font-weight: bold;
+		text-transform: uppercase;
+		letter-spacing: 1.1px;
+	}
 }
 
 /*
