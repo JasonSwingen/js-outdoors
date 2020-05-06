@@ -48,6 +48,11 @@ $(document).ready(function() {
   });
 });
 
+// Loading Animation
+$(document).ready(function() {
+  $('.holds-the-iframe').removeClass('holds-the-iframe');
+});
+
 // Fade
 $(document).ready(function() {
   var element = document.getElementById("js-fadeInElement");

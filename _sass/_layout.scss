@@ -461,6 +461,15 @@
 	}
 }
 
+.articlebackground {
+	@include media($medium) {
+		padding: 30px;
+		background: #fff;
+		border-radius: 4px;
+		box-shadow: 0px 2px 15px -5px rgba(0,0,0,0.3);
+	}
+}
+
 .snapwidget-widget {
 	// max-width: 40%;
   // position: absolute;

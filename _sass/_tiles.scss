@@ -4,7 +4,9 @@
 
 .tile {
   @include outer-container;
-  margin-bottom: $gutter;
+  // margin-bottom: $gutter;
+  // padding: 12px;
+  // transition: .3s;
   @include media($micro) {
     @include fill-parent;
   }
@@ -24,6 +26,10 @@
   }
   .post-excerpt {
     @include font-size(16);
+  }
+  &:hover {
+    // box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    // transition: .3s;
   }
   .post-teaser {
     position: relative;

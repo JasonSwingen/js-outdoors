@@ -205,6 +205,23 @@
   }
 }
 
+.holds-the-iframe {
+  background:url(../images/loading.gif) center center no-repeat;
+  min-height: 200px;
+}
+
+.chart {
+  margin: 50px 0px;
+}
+
+.smauthorimg {
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+  border-radius: 50px;
+  box-shadow: 1px 1px 5px -3px black;
+}
+
 
 .tip-up {
   margin: 50px auto;

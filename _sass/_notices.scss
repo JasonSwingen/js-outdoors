@@ -52,6 +52,11 @@
 	@include notice(#a5bdce);
 }
 
+
+.notice-default {
+	@include notice(#a9a9a9);
+	box-shadow: inset 0px 0px 20px -6px grey;
+}
 /*
    Warning notice .notice-warning
    ========================================================================== */
