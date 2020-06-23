@@ -17,11 +17,20 @@ date: 2020-04-07T09:24:24-05:00
 <div class="fb-share-button facebook" data-href="http://www.js-outdoors.com{{ page.url | replace:'index.html','' | prepend: site.url }}" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a target="_blank" href="http://www.js-outdoors.com{{ page.url | replace:'index.html','' | prepend: site.url }}"
       class="fb-xfbml-parse-ignore"></a></div>
 
+
+<h2 class="center">River Gauges (current)</h2>
 <div class="chart" id="guages"><img alt="North Shore River Gauges" title="North Shore River Gauges"
       src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStYj7yG2i4QgGB0nEUAEl3MPCuHT8_lIRENw7JNwaiYolPk8NnnPlSqI1DTp1Tc3JRwiuP1M_ZBwDN/pubchart?oid=857837653&format=image"></div>
 
-<div class="holds-the-iframe chart" id="allrivers"><img alt="North Shore River Graph" title="North Shore River Graph"
+
+<h2 class="center">River Flows (last 7 days)</h2>
+<div class="holds-the-iframe chart" id="allrivers"><img alt="North Shore River Graph" title="North Shore River Graph (last 7 days)"
       src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStYj7yG2i4QgGB0nEUAEl3MPCuHT8_lIRENw7JNwaiYolPk8NnnPlSqI1DTp1Tc3JRwiuP1M_ZBwDN/pubchart?oid=1550745161&format=image"></div>
+
+
+<h2 class="center">River Flows (last 14 days)</h2>
+<div class="holds-the-iframe chart" id="allrivers"><img alt="North Shore River Graph" title="North Shore River Graph (last 14 days)" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStYj7yG2i4QgGB0nEUAEl3MPCuHT8_lIRENw7JNwaiYolPk8NnnPlSqI1DTp1Tc3JRwiuP1M_ZBwDN/pubchart?oid=648061818&amp;format=image"></div>
+
 
 <div class="center"><a class="btn btn-accent" style="cursor:pointer;color:black;" value="refresh" onClick="window.location.reload();">Refresh These Charts</a></div>
 
@@ -33,29 +42,33 @@ and Arrowhead <a href="#brule">Brule</a> all on one page! If you need help under
 This is the latest river flow data as of:
 <div style="margin-left:10px;"><iframe width="100%" height="50" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStYj7yG2i4QgGB0nEUAEl3MPCuHT8_lIRENw7JNwaiYolPk8NnnPlSqI1DTp1Tc3JRwiuP1M_ZBwDN/pubchart?oid=297756827&amp;format=interactive"></iframe></div> -->
 
+<h2 class="center">Sucker River</h2>
+
 <div class="holds-the-iframe chart" id="sucker"><img alt="Sucker River Flow" title="Sucker River Flow"
       src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStYj7yG2i4QgGB0nEUAEl3MPCuHT8_lIRENw7JNwaiYolPk8NnnPlSqI1DTp1Tc3JRwiuP1M_ZBwDN/pubchart?oid=1326584214&format=image"></div>
 
+<h2 class="center">Knife River</h2>
 
 <div class="holds-the-iframe chart" id="knife"><img alt="Knife River Flow" title="Knife River Flow"
       src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStYj7yG2i4QgGB0nEUAEl3MPCuHT8_lIRENw7JNwaiYolPk8NnnPlSqI1DTp1Tc3JRwiuP1M_ZBwDN/pubchart?oid=1998086093&format=image"></div>
 
+<h2 class="center">Baptism River</h2>
 
 <div class="holds-the-iframe chart" id="baptism"><img alt="Baptism River Flow" title="Baptism River Flow"
       src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStYj7yG2i4QgGB0nEUAEl3MPCuHT8_lIRENw7JNwaiYolPk8NnnPlSqI1DTp1Tc3JRwiuP1M_ZBwDN/pubchart?oid=136983860&format=image"></div>
 
+<h2 class="center">Poplar River Flow</h2>
 
 <div class="holds-the-iframe chart" id="poplar"><img alt="Poplar River Flow" title="Poplar River Flow"
       src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStYj7yG2i4QgGB0nEUAEl3MPCuHT8_lIRENw7JNwaiYolPk8NnnPlSqI1DTp1Tc3JRwiuP1M_ZBwDN/pubchart?oid=1603000376&format=image"></div>
 
+<h2 class="center">Brule River Flow</h2>
 
 <div class="holds-the-iframe chart" id="brule"><img alt="Brule River Flow" title="Brule River Flow"
       src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStYj7yG2i4QgGB0nEUAEl3MPCuHT8_lIRENw7JNwaiYolPk8NnnPlSqI1DTp1Tc3JRwiuP1M_ZBwDN/pubchart?oid=1279306132&format=image"></div>
 
 
-
-
-<i>*Data courtesy of the Minnesota DNR and USGS.</i>
+<!-- <i>*Data courtesy of the Minnesota DNR and USGS.</i> -->
 
 
 
