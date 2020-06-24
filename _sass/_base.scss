@@ -430,3 +430,20 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, .highlight {
 	@include transition (color 0.2s ease-out, opacity 0.2s ease-out, background 0.2s ease-out, border-color 0.2s ease-out);
 }
+
+article #content h1 {
+	text-align: center;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+	margin-bottom: 40px;
+	transform: capitalize;
+}
+
+article #content h2 {
+	text-align: center;
+	border-bottom: 1px dotted black;
+	padding-bottom: 10px;
+	margin-top: 50px;
+	margin-bottom: 40px;
+	transform: capitalize;
+}

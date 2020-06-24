@@ -15,12 +15,11 @@ image:
 date: 2020-06-22T09:24:24-05:00
 ---
 
-When I first started bass fishing I was not interested in the slightest in fly fishing. It was a foreign concept. I thought you could only fish for trout and you had to you tiny flies that where nearly impossible to tie onto your line. Then, one day I learned about streamers. That was the first spark that has eventually lead to a full blown inferno of immersion into fly fishing for bass, and eventually nearly every species that I had previously only spin-fished for. Yes, you can fly fish for nearly every type of fish you can spin fish for. Bass, pike, panfish, carp, catfish, muskies, walleye, trout, salmon... you get the point.
+When I first started bass fishing I was not interested in the slightest in fly fishing. It was a foreign concept. I thought you could only fish for trout and you had to you tiny flies that where nearly impossible to tie onto your line. Then, one day I learned about streamers. That was the first spark that has eventually lead to a full blown inferno of interest in fly fishing for bass (and eventually nearly every species that I had previously only spin-fished for). Yes, you can fly fish for nearly every type of fish you can spin fish for. Bass, pike, panfish, carp, catfish, muskies, walleye, trout, salmon... you get the point.
 
-You will probably need different gear, different techniques, fish different locations, and use different flies for each of them. I'll get to them all eventually, but first let's cover the basics of what you will need to catch bass. I'll mainly cover smallmouth fishing, but touch on largemouth as well.
+You will probably need different gear, different techniques, fish different locations, and use different flies for each of them. I'll get to them all eventually, but first let's cover the basics of what you will need to catch bass. I'll mainly cover smallmouth fishing, but will touch on largemouth as well.
 
-<h2 class="center"><u>The Gear</u></h2>
-
+## The Gear You Need
 
 ### Fly Rod
 You can catch bass on nearly any sized fly rod, from a 7' 3wt fiberglass to a 9' 10' broomstick. Unlike species like steelhead that you are choosing a rod based on the size of fish you are catching, when it comes to bass fishing you will need to use a rod that is capable to throwing the flies you intend to use. If you are going to buy a dedicated fly rod for bass fishing, it is hard to beat a 9' 8wt. If you want to give up the ability to throw large flies all day, a 5, 6, or 7 weight will give you a better fight once you are hooked up. I prefer having a fast action rod that will allow you to make tight and efficient loops that will help you place your fly accurately and under over hanging branches.
@@ -46,3 +45,6 @@ The other reason why heavier tippet is beneficial, is to help turn your fly over
 You should never have to go below 10lb test. Anything between 10-20lb works great. My preferred tipped size is 15lb fluorocarbon when fishing streamers, or 12lb mono when fishing poppers.
 
 ### Flies
+
+
+## I need a guide!
