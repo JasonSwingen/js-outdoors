@@ -65,3 +65,5 @@ If you want to learn the equipment, techniques, and places to catch big bass on 
 <span style="float:left;width:33%;height:300px;">{{item.Link}}</span>
 {% endif %}
 {% endfor%} -->
+
+{% include disclosure.html %}
