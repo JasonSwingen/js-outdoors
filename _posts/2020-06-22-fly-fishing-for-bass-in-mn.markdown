@@ -19,11 +19,40 @@ When I first started bass fishing I was not at all interested in fly fishing. I 
 
 Then, one day I learned about streamers. That was the first spark that has eventually lead to a full blown inferno of interest in fly fishing for bass (and eventually nearly every species that I had previously only spin-fished for). Yes, you can fly fish for nearly every type of fish you can spin fish for. Bass, pike, panfish, carp, catfish, muskies, walleye, trout, salmon... you get the point. Fly fishing for warm water species is also gives you the best opportunity to cast in the traditional overhand casting style.
 
+<figure class="half">
+  <img title="Fly Fishing Bluegill" alt="Fly Fishing Bluegill" src="/images/Fly_Fishing_Warmwater_Bluegill.jpg">
+  <!-- <figcaption>Bluegill</figcaption> -->
+  <img title="Fly Fishing Crappie" alt="Fly Fishing Crappie" src="/images/Fly_Fishing_Warmwater_Crappie.jpg">
+  <!-- <figcaption>Crappie</figcaption> -->
+</figure>
+
+<figure class="half">
+  <img title="Fly Fishing Largemouth Bass" alt="Fly Fishing Largemouth Bass" src="/images/Fly_Fishing_Warmwater_Largemouth_Bass.jpg">
+  <!-- <figcaption>Largemouth Bass</figcaption> -->
+  <img title="Fly Fishing Rock Bass" alt="Fly Fishing Rock Bass" src="/images/Fly_Fishing_Warmwater_Rock_Bass.jpg">
+  <!-- <figcaption>Rock Bass</figcaption> -->
+</figure>
+
+<figure class="half">
+  <img title="Fly Fishing Walleye" alt="Fly Fishing Walleye" src="/images/Fly_Fishing_Walleye.jpg">
+  <!-- <figcaption>Bluegill</figcaption> -->
+  <img title="Fly Fishing Northern Pike" alt="Fly Fishing Northern Pike" src="/images/Fly_Fishing_Warmwater_Pike.jpg">
+  <!-- <figcaption>Northern Pike</figcaption> -->
+</figure>
+
+<figure class="half">
+  <img title="Fly Fishing Catfish" alt="Fly Fishing Catfish" src="/images/Fly_Fishing_Catfish.jpg">
+  <!-- <figcaption>Catfish</figcaption> -->
+  <img title="Fly Fishing Pink Salmon" alt="Fly Fishing Pink Salmon" src="/images/Fly_Fishing_Pink_Salmon.jpg">
+  <!-- <figcaption>Pink Salmon</figcaption> -->
+</figure>
+
+
 You will probably need different gear, different techniques, fish different locations, and use different flies for each species. I'll get to them all eventually, but first let's cover the basics of what you will need to catch bass. This article will mainly cover everything you need to get started fly fishing for smallmouth and largemouth bass.
 
 <figure>
-  <img title="" src="/images/smallmouth-on-the-fly.jpg">
-  <figcaption></figcaption>
+  <img title="Smallmouth bass caught by Jason Swingen using a streamer" alt="Smallmouth bass caught by Jason Swingen using a streamer" src="/images/smallmouth-on-the-fly.jpg">
+  <figcaption>Smallmouth bass are aggressive fish that will eat very large flies.</figcaption>
 </figure>
 
 Bass are easily accessible, exceptionally aggressive, and pound for pound one of the hardest fighting fish you can target in the Midwest. They are not line shy and will often give you multiple attempts to cast your fly, which make them a great species for the beginner fly-fisher, but are also a species that you will never tire of catching. I'll go over the gear you need, where to fish, some proven techniques, as well as a few pro-tips. Let's get started.
