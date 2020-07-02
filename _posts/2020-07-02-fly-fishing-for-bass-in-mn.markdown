@@ -12,7 +12,7 @@ image:
   feature: smallmouth-on-the-fly.jpg
   teaser: smallmouth-on-the-fly.jpg
   thumb: smallmouth-on-the-fly.jpg
-date: 2020-06-22T09:24:24-05:00
+date: 2020-07-02T09:24:24-05:00
 ---
 
 When I first started bass fishing I was not at all interested in fly fishing. I thought it was only used for trout and you had to use tiny flies that were nearly impossible to tie onto your line (turns out I really like that now too though). Fly fishing was a foreign concept, and why would I fly fish for bass if I could already catch them with a spinning rod?
