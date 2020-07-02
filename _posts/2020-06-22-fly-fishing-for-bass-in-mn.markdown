@@ -204,6 +204,7 @@ Here is a list of some of my favorite streamers (links to fly tying tutorials):
   * <a rel="noreferrer" href="https://www.youtube.com/watch?v=mnbRj0Ed3Ws">**Sex Dungeon**</a> (Kelly Gallop)
   * <a rel="noreferrer" href="https://www.youtube.com/watch?v=Bz8wp4uNep0&list=PLMTqaI4iIj3x78wjgwj6sYqRHc84KU2Ft">**The Chosen One**</a> (Gunnar Brammer)
   * <a rel="noreferrer" href="https://www.youtube.com/watch?v=2tQI_3B0iGU">**Craft Fur Baitfish**</a> (Andreas Andersson)
+  * <a rel="noreferrer" href="https://www.youtube.com/watch?v=tQDGJHxV28U&list=RDQM_KQCw1-Qnyo&start_radio=1">**Game Changer**</a> (Blane Chocklett)
   * <a rel="noreferrer" href="https://www.youtube.com/watch?v=u1HX_T7YX1I">**Meat Whistle**</a> (John Barr)
   * <a rel="noreferrer" href="https://www.youtube.com/watch?v=Dc-_-jg5Whw">**Mini Drunk and Disorderly**</a> (Lynch's)
   * <a rel="noreferrer" href="https://www.youtube.com/watch?v=3ZBxNjF-4i8">**Swimmy Jimmy**</a> (Sobota/Gallop)
