@@ -12,10 +12,10 @@ image:
   feature: spey-fishing-gear.jpg
   teaser: spey-fishing-gear.jpg
   thumb: spey-fishing-gear.jpg
-date: 2020-09-07T05:38:35-05:00
+date: 2020-09-08T05:38:35-05:00
 ---
 
-If you do a search for the perfect swinging rod you'll most likely find a bunch of information about fishing big west coast rivers. A rod that works out there can work in the Great Lakes area, but it may not be the best solution. The rivers around here, like the Bois Brule and north shore rivers are not as big, don't have as high of flows, and the fish genereally aren't as big as on the west coast. So you can get away with shorter two-handed rods and lighter lines. Instead of going over every option of rod, reel, and shooting head setup, I will cover the most common setups used in the Great Lakes tributaries and let you custom fit your setup for how you like to fish. Make sure you have the rest of the essential <a href="/fishing/fly-fishing-gear/">fly fishing gear for great lakes steelhead</a> before we cover the gear you will need to dive into the swinging game.
+If you do a search for the perfect swinging rod you'll most likely find a bunch of information about fishing big west coast rivers. A rod that works out there can work in the Great Lakes area, but it may not be the best solution. The rivers around here, like the Bois Brule and north shore rivers are not as big, don't have as high of flows, and the fish generally aren't as big as on the west coast. So you can get away with shorter two-handed rods and lighter lines. Instead of going over every option of rod, reel, and shooting head setup, I will cover the most common setups used in the Great Lakes tributaries and let you custom fit your setup for how you like to fish. Make sure you have the rest of the essential <a href="/fishing/fly-fishing-gear/">fly fishing gear for great lakes steelhead</a> before we cover the gear you will need to dive into the swinging game.
 
 ### The 8 pieces of gear you will need to swing.
 

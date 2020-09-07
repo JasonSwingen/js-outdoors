@@ -12,7 +12,7 @@ image:
   feature: spey-cast2.gif
   teaser: spey-cast2.gif
   thumb: spey-cast2.gif
-date: 2020-09-07T11:38:35-05:00
+date: 2020-09-09T11:38:35-05:00
 ---
 
 ## Where to Swing
