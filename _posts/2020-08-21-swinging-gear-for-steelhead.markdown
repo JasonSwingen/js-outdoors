@@ -9,9 +9,9 @@ comments: True
 ads: False
 excerpt: All the gear you need to swing for steelhead in the Great Lakes. Rods, reels, running line, shooting heads, and much more!
 image:
-  feature: Swinging_Streamers_Setup.jpg
-  teaser: Swinging_Streamers_Setup.jpg
-  thumb: Swinging_Streamers_Setup.jpg
+  feature: spey-fishing-gear.jpg
+  teaser: spey-fishing-gear.jpg
+  thumb: spey-fishing-gear.jpg
 date: 2020-09-07T05:38:35-05:00
 ---
 

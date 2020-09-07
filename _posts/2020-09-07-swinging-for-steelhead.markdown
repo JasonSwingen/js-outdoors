@@ -7,11 +7,11 @@ tags: [swinging, fly-fishing, steelhead, lake superior, great lakes, trout, tech
 published: True
 comments: True
 ads: False
-excerpt: Swinging flies has grown immensely in popularity in the last few years, but is it right for you?
+excerpt: Swinging flies for trout and salmon has grown immensely in popularity in the last few years, but is it right for you?
 image:
-  feature: Swinging_Streamers_Setup.jpg
-  teaser: Swinging_Streamers_Setup.jpg
-  thumb: Swinging_Streamers_Setup.jpg
+  feature: to-swing-or-not-to-swing.jpg
+  teaser: to-swing-or-not-to-swing.jpg
+  thumb: to-swing-or-not-to-swing.jpg
   # thumb: Swinging_Streamers_Setup.jpg
 # date: 2020-09-05T08:38:35-05:00
 ---
@@ -20,7 +20,7 @@ So you are thinking about getting into the world of *swinging for steelhead* and
 
 ### What does swinging flies actually mean?
 
-Spey casting, skagit head, running line, intruders, perry poke... If you haven't been confused enough yet trying to pair a nymphing line to a single-handed fly rod, lookout because swinging flies will introduce a whole new level of terminoligy to the mix. So it's ok if you are confused, because you are not alone. Here is a quick background to help you grasp a few of the terms, and why swinging flies is even a thing.
+Spey casting, skagit head, running line, intruders, perry poke... If you haven't been confused enough yet trying to pair a nymphing line to a single-handed fly rod, lookout because swinging flies will introduce a whole new level of terminology to the mix. So it's ok if you are confused, because you are not alone. Here is a quick background to help you grasp a few of the terms, and why swinging flies is even a thing.
 
 Swinging flies is simply another technique used to catching trout (or any fish). There are tons of different techniques you can use including spin fishing, centerpinning, indicator fishing, euro nymphing, streamer fishing and swinging.
 
@@ -29,9 +29,9 @@ Swinging flies is simply another technique used to catching trout (or any fish).
 <figcaption>The author Jason Swingen using a Snap-T spey cast to cast a fly across the Bois Brule River.</figcaption>
 </figure>
 
-Swinging flies is simply a form of streamer fishing, but was invented to solve a basic and common problem. Many rivers have obstructions (trees and brush) along the river that make it extremely difficult to back-cast without getting hung up. So, instead of using a standard overhead cast, a new type of line was designed that instead of a single integrated fly line, the combination of a running line, shooting head, and sink tip allowed anglers to cast across the river using a *spey cast* with minimal backcasting room. Along with a new style of line, new forms of spey casts were developed to allow for an extremely efficient way to cast and your flies across the river no matter what direction the water was flowing and what obstructions may be behind you. The term swinging comes from the action of the fly after the cast. Once you cast your intruder (a specific type of streamer designed for catching steelhead on the swing) across the river the current will swing it back to your side and hopefully in front of a fish!
+Swinging flies is simply a form of streamer fishing, but was invented to solve a basic and common problem. Many rivers have obstructions (trees and brush) along the river that make it extremely difficult to back-cast without getting hung up. So, instead of using a standard overhead cast, a new type of integrated line was designed combining a running line, shooting head, and sink tip which allowed anglers to cast across the river using a *spey cast* with minimal back-casting room. Along with a new style of line, new forms of spey casts were developed to allow for an extremely efficient way to cast and your flies across the river no matter what direction the water was flowing and what obstructions may be behind you. The term swinging comes from the action of the fly after the cast. Once you cast your intruder (a specific type of streamer designed for catching steelhead on the swing) across the river the current will swing it back to your side and hopefully in front of a fish!
 
-There is quite a bit more that you can learn including the different types of two-handed rods (spey and switch), the different types of shooting heads (skagit and scandi), and even fly design for steelhead streamers. Those will all be covered in future articles, but first you this is all something that you should try out.
+There is quite a bit more that you can learn including the different types of two-handed rods (spey and switch), the different types of shooting heads (skagit and scandi), and even fly design for steelhead streamers. Those will all be covered in future articles, but first if this is all something that you should try out.
 
 ### Progressing as an angler
 
@@ -43,9 +43,11 @@ Swinging flies can be thought of as that next step in the progression of a fishe
 
 -----
 
-So spey casting for a few years I've come to understand many of the pros and cons of swinging flies and can hopefully help your decision a little easier.
+After spey casting for a few years I've come to understand many of the pros and cons of swinging flies and can hopefully help your decision a little easier.
 
-I may not be like everyone, but I enjoy the progression. If I catch a fish on a fly, I often cut it off because I know that one works, and I want to see what else I can use to fool a fish into eating. So if you are just getting started in trout fishing or fly fishing, then I would recommend learning the basics before jumping into the world of spey. It will take more money and more time to catch a fish on the swing compared to nearly any other type of method. If that describes you, then you should read my article on <a href="/fishing/steelhead-techniques/">fly fishing for steelhead</a>. On the other hand if you have been fly fishing for a little while now and are just ready for a new challenge, you want to improve your fly fishing abilities, or you are looking for that next level of satisfaction then you should definitely learn to swing. Having a steelhead slam a swung fly is just about as satisfying as fishing can be, and can send you back into that *juvenile level of happiness*.
+I may not be like everyone, but I enjoy the progression of fishing. If I catch a fish on a fly, I often cut it off because I know that one works, and I want to see what else I can use to fool a fish into eating. So if you are just getting started in trout fishing or fly fishing, then I would recommend learning the basics before jumping into the world of spey. If you are new to steelhead fishing or fly fishing in general you should read my article on <a href="/fishing/steelhead-techniques/">fly fishing for steelhead</a>.
+
+On the other hand if you have been fly fishing for a little while now and are just ready for a new challenge, you want to improve your fly fishing abilities, or you are looking for that next level of satisfaction then you should definitely learn to swing.  Having a steelhead slam a swung fly is just about as satisfying as fishing can be, and can send you back into that *juvenile level of happiness*.
 
 <figure>
 <img title="Steelhead on the swing" src="/images/Steelhead-on-the-swing.jpg">
