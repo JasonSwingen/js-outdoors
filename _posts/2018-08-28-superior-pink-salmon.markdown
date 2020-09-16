@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To: Catch A Lake Superior Pink Salmon"
-modified: September 11, 2020
+modified: September 16, 2020
 categories: [fishing]
 tags: [fishing, salmon, north shore, lake superior, fly-fishing, trout]
 published: True
@@ -20,7 +20,7 @@ date: 2018-08-28T07:27:19-05:00
 <!-- > **September 10th, 2019 update**: There have been a few reports of pink salmon being caught near the mouths of the north shore tributaries. The recent rains should help push them in.
 
 > **September 20th, 2019 update**: The recent rains have increased the river flow and pushed pink salmon well up into the rivers! There doesn't seem to be as many as last year, but the fish tend to be larger! Check the current <a href="/fishing/north-shore-river-flows">north shore river flows here</a>. -->
->  **September 11th, 2020 update**: The pink salmon are not in the rivers yet, but they should be soon. Once we get a decent rain and the <a href="/fishing/north-shore-river-flows">river flows</a> increase, the pinks should start coming in the rivers.
+>  **September 16th, 2020 update**: There have been a few pink salmon showing up, but we are still early in the pink salmon run. Once we get a decent rain and the <a href="/fishing/north-shore-river-flows">river flows</a> increase, the pinks should start coming in the rivers.
 
 Pink salmon are one of the most underrated migratory fish on the north shore. They often enter Lake Superior's tributaries in great numbers, they can be fairly easy to find, and **they fight extremely hard for their size**. They are a great species for beginners to get started into fly fishing as well as great for advanced anglers to fine-tune their skills in preparation for the spring steelhead run.
 
