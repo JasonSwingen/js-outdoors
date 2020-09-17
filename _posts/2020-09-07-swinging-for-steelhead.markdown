@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "To Swing or Not to Swing"
-modified:
+modified: September 16, 2020
 categories: [fishing]
 tags: [swinging, fly-fishing, steelhead, lake superior, great lakes, trout, techniques, tips]
 published: True
@@ -71,7 +71,7 @@ So if you have decided that you just aren't ready to spend the time, or don't wa
 
 If you are ready to give it a try without breaking the bank, then the cheapest and easiest option is to just pick up a single-handed skagit line for your single-handed fly rod. You won't be able to cast as far as you would with a two-handed rod, but it is a great option for the occasional swinger. Just buy another spool and load it up with some running line, a skagit head, and a couple of sink tips and you can get into the swing game for less than $100.
 
-Stay tuned! My next articles are in the works and will cover the *"Gear You Need to Swing for Great Lakes Steelhead"*, as well as the *"Casts and Techniques You Should Learn First"*. If you want to be notified when those articles come out you can <a target="_blank" rel="noreferrer" href="https://js-outdoors.us10.list-manage.com/subscribe?u=efa345295a4bec98a9f444665&id=755a6c3221">subscribe to my newsletter</a>, or follow me on <a target="_blank" rel="noreferrer" href="https://www.facebook.com/JasonSwingenOutdoors/">Facebook</a> or <a target="_blank" rel="noreferrer" href="https://www.instagram.com/jasonswingen/">Instagram</a>.
+Stay tuned! My next articles are in the works and will cover the <a href="/fishing/swinging-gear-for-steelhead/">Gear You Need to Swing for Great Lakes Steelhead</a>, as well as the *"Casts and Techniques You Should Learn First"*. If you want to be notified when those articles come out you can <a target="_blank" rel="noreferrer" href="https://js-outdoors.us10.list-manage.com/subscribe?u=efa345295a4bec98a9f444665&id=755a6c3221">subscribe to my newsletter</a>, or follow me on <a target="_blank" rel="noreferrer" href="https://www.facebook.com/JasonSwingenOutdoors/">Facebook</a> or <a target="_blank" rel="noreferrer" href="https://www.instagram.com/jasonswingen/">Instagram</a>.
 
 <!-- <figure>
   <img title="" src="/images/spey-cast2.gif">
