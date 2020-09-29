@@ -9,15 +9,25 @@ comments: True
 ads: False
 excerpt: Intro to spey casting for Great Lakes Steelhead. Learn the right casts to start with, and the right casts to use in every situation.
 image:
-  feature: spey-cast2.gif
+  feature: spey-casting2.jpg
   teaser: spey-cast2.gif
   thumb: spey-cast2.gif
-date: 2020-09-09T11:38:35-05:00
+date: 2020-09-23T10:38:35-05:00
 ---
+
+
+
+Spey casting isn't some magical thing, and really shouldn't be overcomplicated.
+
+
 
 ## Where to Swing
 Now that you have everything you need to swing you probably want to know where to start. No I'm not going to tell you specific spots, but I'll go through some general areas that are better to swing a fly. Unlike Nymphing where you would generally work your way up-river, swinging flies requires you to work your way down-river.
 
+<figure>
+  <img title="" src="/images/spey-cast2.gif">
+  <figcaption></figcaption>
+</figure>
 
 <h2 id="speycasts">How to Swing (Spey Casts and Techniques)</h2>
 
@@ -75,4 +85,4 @@ You can use a two hand (switch rod) for this, but your standard 7-8wt 9-10ft fly
 
 If you have a technique that you use that I didn't mention, feel free to mention it in the comments below, and don't forget to share!
 
-{% include disclosure.html %}
+<!-- {% include disclosure.html %} -->

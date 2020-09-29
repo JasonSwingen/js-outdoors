@@ -149,7 +149,7 @@ There are many different brands of skagit heads these days, each with their own 
 The most important factor to consider when getting a shooting head is matching it up with your rod. You need to have the right amount of weight to load the rod and turn that energy into a forward cast. If you are using an 11' 7wt rod, depending on the action and power of the rod, a head with a grain weight anywhere between 350 and 400 grains should work. OPST is extremely helpful at getting you the right grain weight head for your rod.
 
 <figure>
-  <img title="OPST Head grain chart" src="http://www.opskagit.com/images/complete%20line%20chart.jpg?crc=4235157575">
+  <img title="OPST Head grain chart" src="/images/opst-line-chart.jpg">
   <figcaption>You can use this chart to help determine the correct grain weight for your rod or <a target="_blank" rel="noreferrer" href="https://pureskagit.com/pages/contact-us-new">contact OPST for line pairing recommendations</a></figcaption>
 </figure>
 
