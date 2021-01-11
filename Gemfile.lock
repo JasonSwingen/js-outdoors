@@ -49,7 +49,7 @@ GEM
     rb-fsevent (0.9.7)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
-    redcarpet (3.3.4)
+    redcarpet (3.5.1)
     rouge (1.10.1)
     safe_yaml (1.0.4)
     sass (3.4.21)
@@ -57,7 +57,6 @@ GEM
       addressable (~> 2.3.5)
       faraday (~> 0.8, < 0.10)
     titlecase (0.1.1)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -68,7 +67,6 @@ DEPENDENCIES
   jekyll-gist
   jekyll-sitemap
   octopress (~> 3.0)
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    1.16.3
