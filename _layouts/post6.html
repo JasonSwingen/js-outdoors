@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+	<article class="wrap" itemscope itemtype="http://schema.org/Article">
+
+		{% if page.image.feature %}
+		<div class="feature">
+      <img src="{{ site.url }}/images/{{ page.image.feature }}" class="image" alt="{{ page.title }}" itemprop="image">
+      <h1 class="title"><small>{{ page.title }}</small></h1>
+		</div><!-- /.page-feature -->
+		{% endif %}
+
+    <div class="centerpost">
+      <div id="content" class="page-content" itemprop="articleBody">
+        {% include breadcrumbs.html %}
+
+        <div class="-meta">Written by <a href="{{ site.url }}/about.html">Jason Swingen</a>, {% include page-meta.html %}</div>
+				{{ content }}
+
+<footer>
+
+        {% include share-facebook.html %}
+
+        <h3>Tags</h3>
+        <div class="">
+          {% for tag in page.tags %}
+          <span>
+            <a href="{{site.baseurl}}/tags#{{tag}}" class="">{{ tag }}</a>
+          </span>
+          {% endfor %}
+          <a class="" href="{{site.baseurl}}/tags">view all tags</a>
+        </div>
+
+        {% if page.comments == true %}
+        {% include comments.html %}
+        {% endif %}
+
+
+</footer>
+
+
+			</div>
+		</div>
+	</article>
+
+</div><!-- /#main -->

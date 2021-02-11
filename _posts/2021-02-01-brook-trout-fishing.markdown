@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post6
 title: "Brook Trout Fishing Above the Barriers"
 modified:
 categories: [fishing]
